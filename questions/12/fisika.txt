@@ -1,0 +1,359 @@
+[SOAL]
+text: Dalam teori relativitas khusus, kecepatan cahaya di ruang hampa...
+option_A: Tergantung pengamat
+option_B: Tidak konstan
+option_C: Konstan
+option_D: Berubah-ubah
+answer: C
+clue: c = 3×10⁸ m/s, konstan di semua kerangka acuan inersial.
+
+[SOAL]
+text: Efek Doppler untuk gelombang elektromagnetik disebut juga...
+option_A: Efek Compton
+option_B: Efek Doppler Relativistik
+option_C: Efek Raman
+option_D: Efek Zeeman
+answer: B
+clue: Termasuk pergeseran frekuensi akibat gerak relatif.
+
+[SOAL]
+text: Pada efek fotoelektrik, energi kinetik maksimum elektron yang lepas bergantung pada...
+option_A: Intensitas cahaya
+option_B: Frekuensi cahaya
+option_C: Waktu penyinaran
+option_D: Suhu logam
+answer: B
+clue: E = hf - φ (fungsi kerja).
+
+[SOAL]
+text: Dalam efek Compton, foton yang menumbuk elektron akan...
+option_A: Hilang sepenuhnya
+option_B: Memantul dengan panjang gelombang yang lebih besar
+option_C: Memantul dengan panjang gelombang yang lebih kecil
+option_D: Tidak memantul
+answer: B
+clue: Panjang gelombang bertambah karena kehilangan energi.
+
+[SOAL]
+text: Panjang gelombang de Broglie suatu partikel bergantung pada...
+option_A: Massa dan kecepatan
+option_B: Energi
+option_C: Momentum
+option_D: A dan C benar
+answer: D
+clue: λ = h/p.
+
+[SOAL]
+text: Dalam model atom Bohr, elektron bergerak dalam lintasan...
+option_A: Berbentuk elips
+option_B: Orbit stasioner dengan energi tertentu
+option_C: Orbit acak
+option_D: Tidak teratur
+answer: B
+clue: Energi tidak dipancarkan selama di orbit.
+
+[SOAL]
+text: Energi elektron di dalam atom hidrogen pada kulit ke-n dinyatakan sebagai...
+option_A: E = -13.6/n eV
+option_B: E = -13.6/n² eV
+option_C: E = 13.6/n² eV
+option_D: E = -n²/13.6 eV
+answer: B
+clue: Energi negatif karena terikat.
+
+[SOAL]
+text: Dalam spektrum atom hidrogen, deret Lyman terletak di daerah...
+option_A: Ultraviolet
+option_B: Tampak
+option_C: Inframerah
+option_D: Sinar-X
+answer: A
+clue: Transisi ke n=1.
+
+[SOAL]
+text: Deret Balmer dalam spektrum atom hidrogen terletak di daerah...
+option_A: Ultraviolet
+option_B: Tampak
+option_C: Inframerah
+option_D: Sinar-X
+answer: B
+clue: Transisi ke n=2.
+
+[SOAL]
+text: Deret Paschen dalam spektrum atom hidrogen terletak di daerah...
+option_A: Ultraviolet
+option_B: Tampak
+option_C: Inframerah
+option_D: Sinar-X
+answer: C
+clue: Transisi ke n=3.
+
+[SOAL]
+text: Dalam teori kuantum, prinsip ketidakpastian Heisenberg menyatakan bahwa...
+option_A: Momentum tidak dapat ditentukan
+option_B: Posisi tidak dapat ditentukan
+option_C: Posisi dan momentum tidak dapat ditentukan secara bersamaan secara tepat
+option_D: Energi tidak dapat ditentukan
+answer: C
+clue: Δx·Δp ≥ h/(4π).
+
+[SOAL]
+text: Energi yang dilepaskan saat elektron berpindah dari kulit luar ke dalam disebut...
+option_A: Energi ionisasi
+option_B: Energi eksitasi
+option_C: Energi foton
+option_D: Energi potensial
+answer: C
+clue: E = hf.
+
+[SOAL]
+text: Dalam reaksi nuklir, perubahan massa menjadi energi mengikuti rumus...
+option_A: E = mc
+option_B: E = mc²
+option_C: E = m²c
+option_D: E = m/c²
+answer: B
+clue: Einstein.
+
+[SOAL]
+text: Energi ikat inti menunjukkan...
+option_A: Kekuatan ikatan antar proton
+option_B: Kekuatan ikatan antar neutron
+option_C: Kekuatan ikatan antar nukleon
+option_D: Kekuatan ikatan antar elektron
+answer: C
+clue: Semakin besar, semakin stabil.
+
+[SOAL]
+text: Isotop adalah atom yang memiliki...
+option_A: Nomor atom sama, nomor massa berbeda
+option_B: Nomor massa sama, nomor atom berbeda
+option_C: Nomor atom dan massa sama
+option_D: Jumlah neutron sama
+answer: A
+clue: Contoh: C-12 dan C-14.
+
+[SOAL]
+text: Isobar adalah atom yang memiliki...
+option_A: Nomor atom sama
+option_B: Nomor massa sama
+option_C: Jumlah neutron sama
+option_D: Jumlah proton sama
+answer: B
+clue: Contoh: C-14 dan N-14.
+
+[SOAL]
+text: Isoton adalah atom yang memiliki...
+option_A: Jumlah proton sama
+option_B: Jumlah neutron sama
+option_C: Jumlah elektron sama
+option_D: Nomor atom sama
+answer: B
+clue: Contoh: C-12 dan N-13.
+
+[SOAL]
+text: Dalam peluruhan radioaktif, waktu paruh (T½) adalah waktu yang diperlukan agar jumlah zat menjadi...
+option_A: Setengah dari semula
+option_B: Seperempat dari semula
+option_C: Nol
+option_D: Dua kali semula
+answer: A
+clue: N(t) = N₀(1/2)^(t/T½).
+
+[SOAL]
+text: Peluruhan alfa memancarkan partikel...
+option_A: Elektron
+option_B: Neutron
+option_C: Helium-4
+option_D: Proton
+answer: C
+clue: ⁴₂He.
+
+[SOAL]
+text: Peluruhan beta minus memancarkan partikel...
+option_A: Proton
+option_B: Neutron
+option_C: Elektron
+option_D: Helium
+answer: C
+clue: Neutron → proton + elektron + antineutrino.
+
+[SOAL]
+text: Peluruhan gamma memancarkan...
+option_A: Partikel bermuatan
+option_B: Partikel netral
+option_C: Energi berupa gelombang elektromagnetik
+option_D: Neutron
+answer: C
+clue: Tidak bermassa dan tidak bermuatan.
+
+[SOAL]
+text: Dalam reaksi fisi, inti berat dibelah menjadi inti yang lebih ringan disertai...
+option_A: Penyerapan energi
+option_B: Pelepasan energi
+option_C: Tidak ada perubahan energi
+option_D: Pembentukan elektron
+answer: B
+clue: Contoh: U-235 → Ba + Kr + neutron + energi.
+
+[SOAL]
+text: Dalam reaksi fusi, inti ringan bergabung membentuk inti yang lebih berat disertai...
+option_A: Penyerapan energi
+option_B: Pelepasan energi
+option_C: Pembentukan neutron
+option_D: Pembentukan elektron
+answer: B
+clue: Contoh: H + H → He + energi.
+
+[SOAL]
+text: Reaksi fusi terjadi secara alami di...
+option_A: Bumi
+option_B: Bulan
+option_C: Matahari
+option_D: Mars
+answer: C
+clue: Sumber energi bintang.
+
+[SOAL]
+text: Dalam rangkaian listrik AC, arus bolak-balik berarti...
+option_A: Arah arus tetap
+option_B: Arah arus berubah-ubah
+option_C: Besar arus tetap
+option_D: Tidak ada arus
+answer: B
+clue: Arus dan tegangan sinusoidal.
+
+[SOAL]
+text: Dalam rangkaian AC, impedansi (Z) merupakan gabungan dari...
+option_A: R dan L
+option_B: R dan C
+option_C: R, L, dan C
+option_D: L dan C
+answer: C
+clue: Z = √(R² + (XL - XC)²).
+
+[SOAL]
+text: Dalam rangkaian RLC seri, resonansi terjadi saat...
+option_A: XL > XC
+option_B: XL < XC
+option_C: XL = XC
+option_D: R = XL
+answer: C
+clue: Impedansi minimum, arus maksimum.
+
+[SOAL]
+text: Faktor daya (power factor) dalam rangkaian AC dinyatakan sebagai...
+option_A: cos φ
+option_B: sin φ
+option_C: tan φ
+option_D: sec φ
+answer: A
+clue: φ adalah sudut fase antara V dan I.
+
+[SOAL]
+text: Daya rata-rata dalam rangkaian AC adalah...
+option_A: P = VI
+option_B: P = I²R
+option_C: P = VI cos φ
+option_D: P = V²/R
+answer: C
+clue: Daya aktif.
+
+[SOAL]
+text: Transformator bekerja berdasarkan prinsip...
+option_A: Gaya Lorentz
+option_B: Induksi elektromagnetik
+option_C: Gaya Coulomb
+option_D: Gaya gravitasi
+answer: B
+clue: Perubahan fluks magnet menghasilkan GGL.
+
+[SOAL]
+text: Dalam transformator ideal, perbandingan tegangan sebanding dengan perbandingan...
+option_A: Arus
+option_B: Jumlah lilitan
+option_C: Daya
+option_D: Resistansi
+answer: B
+clue: Vp/Vs = Np/Ns.
+
+[SOAL]
+text: GGL induksi dalam kumparan disebabkan oleh perubahan...
+option_A: Arus
+option_B: Fluks magnet
+option_C: Resistansi
+option_D: Suhu
+answer: B
+clue: Hukum Faraday.
+
+[SOAL]
+text: Dalam lensa cembung, jika benda diletakkan di antara f dan 2f, maka bayangan yang terbentuk adalah...
+option_A: Maya, tegak, diperbesar
+option_B: Nyata, terbalik, diperbesar
+option_C: Nyata, terbalik, diperkecil
+option_D: Maya, tegak, diperkecil
+answer: B
+clue: Benda antara f dan 2f → bayangan nyata, terbalik, diperbesar.
+
+[SOAL]
+text: Dalam lensa cekung, bayangan yang dibentuk selalu...
+option_A: Maya, tegak, diperkecil
+option_B: Maya, tegak, diperbesar
+option_C: Nyata, terbalik, diperkecil
+option_D: Nyata, tegak, diperkecil
+answer: A
+clue: Lensa divergen.
+
+[SOAL]
+text: Dalam mikroskop, lensa objektif menghasilkan bayangan yang bersifat...
+option_A: Maya, tegak, diperbesar
+option_B: Nyata, terbalik, diperbesar
+option_C: Maya, terbalik, diperkecil
+option_D: Nyata, tegak, diperbesar
+answer: B
+clue: Bayangan objektif menjadi benda okuler.
+
+[SOAL]
+text: Dalam teropong bintang, lensa objektif dan okuler digunakan untuk menghasilkan bayangan...
+option_A: Maya dan diperbesar
+option_B: Nyata dan diperbesar
+option_C: Maya dan diperkecil
+option_D: Nyata dan diperkecil
+answer: A
+clue: Bayangan akhir maya.
+
+[SOAL]
+text: Indeks bias suatu medium menunjukkan...
+option_A: Kecepatan cahaya di medium
+option_B: Perbandingan kecepatan cahaya di vakum dan di medium
+option_C: Sudut bias
+option_D: Panjang gelombang cahaya
+answer: B
+clue: n = c/v.
+
+[SOAL]
+text: Dalam interferensi celah ganda Young, jika jarak antar celah diperbesar, maka jarak antar garis terang...
+option_A: Membesar
+option_B: Menyusut
+option_C: Tetap
+option_D: Tidak dapat ditentukan
+answer: B
+clue: Jarak pita berbanding terbalik dengan jarak celah.
+
+[SOAL]
+text: Difraksi terjadi ketika gelombang melewati celah yang...
+option_A: Lebih besar dari panjang gelombang
+option_B: Seukuran atau lebih kecil dari panjang gelombang
+option_C: Sangat lebar
+option_D: Tidak ada celah
+answer: B
+clue: Gelombang menyebar.
+
+[SOAL]
+text: Dalam kisi difraksi, jumlah garis terang maksimum tergantung pada...
+option_A: Panjang gelombang
+option_B: Jumlah celah
+option_C: Jarak antar celah
+option_D: Semua benar
+answer: D
+clue: Semua faktor berpengaruh.

@@ -1,0 +1,359 @@
+[SOAL]
+text: Dalam sistem ketatanegaraan Indonesia, lembaga negara yang tidak dapat dibubarkan adalah...
+option_A: DPR
+option_B: Presiden
+option_C: Mahkamah Konstitusi
+option_D: UUD 1945
+answer: D
+clue: UUD adalah konstitusi, tidak dapat dibubarkan.
+
+[SOAL]
+text: Konstitusi Indonesia saat ini adalah...
+option_A: UUD 1945
+option_B: TAP MPR
+option_C: UU
+option_D: PP
+answer: A
+clue: UUD 1945 setelah amendemen.
+
+[SOAL]
+text: Sistem hukum Indonesia berasal dari...
+option_A: Hukum adat
+option_B: Hukum agama
+option_C: Hukum kolonial Belanda
+option_D: Semua benar
+answer: D
+clue: Sistem hukum pluralistik.
+
+[SOAL]
+text: Sistem hukum Indonesia dikenal sebagai...
+option_A: Civil Law
+option_B: Common Law
+option_C: Mixed Law
+option_D: Religious Law
+answer: C
+clue: Gabungan dari berbagai sistem hukum.
+
+[SOAL]
+text: Perjanjian Internasional yang diratifikasi Indonesia menjadi bagian dari hukum nasional berdasarkan asas...
+option_A: Monisme
+option_B: Dualisme
+option_C: Legalitas
+option_D: Subordiasi
+answer: A
+clue: Di Indonesia berlaku asas monisme.
+
+[SOAL]
+text: Sistem pemerintahan Indonesia menganut prinsip checks and balances yang artinya...
+option_A: Pemisahan kekuasaan
+option_B: Pembagian kekuasaan
+option_C: Saling mengawasi antar lembaga
+option_D: Kekuasaan bersama
+answer: C
+clue: Saling mengawasi agar tidak absolut.
+
+[SOAL]
+text: Perwujudan kedaulatan rakyat dalam sistem demokrasi Pancasila dilakukan melalui...
+option_A: Pemilu
+option_B: DPR
+option_C: MPR
+option_D: Semua jawaban benar
+answer: D
+clue: Semua merupakan sarana kedaulatan rakyat.
+
+[SOAL]
+text: Hak asasi manusia di Indonesia dijamin oleh...
+option_A: Pancasila
+option_B: UUD 1945
+option_C: Undang-undang
+option_D: Semua benar
+answer: D
+clue: Perlindungan HAM tercantum di berbagai peraturan.
+
+[SOAL]
+text: Pasal yang mengatur tentang HAM secara eksplisit setelah amendemen adalah...
+option_A: Pasal 27 - 34
+option_B: Pasal 28 - 34
+option_C: Pasal 29 - 34
+option_D: Pasal 30 - 34
+answer: B
+clue: Bab XA UUD 1945.
+
+[SOAL]
+text: Perlindungan terhadap anak diatur dalam UU No...
+option_A: 23 Tahun 2002
+option_B: 35 Tahun 2014
+option_C: 23 Tahun 2003
+option_D: 35 Tahun 2012
+answer: B
+clue: UU Perlindungan Anak.
+
+[SOAL]
+text: Perlindungan terhadap perempuan diatur dalam UU No...
+option_A: 23 Tahun 2004
+option_B: 25 Tahun 2004
+option_C: 35 Tahun 2004
+option_D: 23 Tahun 2007
+answer: C
+clue: UU Kekerasan Dalam Rumah Tangga.
+
+[SOAL]
+text: Negara Indonesia menganut sistem hukum teritorial yang artinya...
+option_A: Hukum berlaku di seluruh wilayah Indonesia
+option_B: Hukum berlaku untuk warga negara
+option_C: Hukum berlaku untuk semua orang di wilayah hukum
+option_D: Hukum berlaku untuk warga negara di luar negeri
+answer: C
+clue: Prinsip territorialitas.
+
+[SOAL]
+text: Sistem pemerintahan Indonesia menganut prinsip federalisme, benar atau salah?
+option_A: Benar
+option_B: Salah
+option_C: Tergantung wilayah
+option_D: Tidak tahu
+answer: B
+clue: Indonesia menganut sistem negara kesatuan.
+
+[SOAL]
+text: Sistem otonomi daerah diatur dalam UU No...
+option_A: 22 Tahun 1999
+option_B: 32 Tahun 2004
+option_C: 23 Tahun 2014
+option_D: Semua benar
+answer: D
+clue: UU No. 22/1999, No. 32/2004, No. 23/2014.
+
+[SOAL]
+text: Otonomi daerah berasaskan asas...
+option_A: Otonomi nyata
+option_B: Otonomi asli
+option_C: Otonomi yang nyata, asli dan bertanggung jawab
+option_D: Otonomi mutlak
+answer: C
+clue: Asas otonomi daerah.
+
+[SOAL]
+text: Hubungan antara pemerintah pusat dan daerah bersifat...
+option_A: Subordinatif
+option_B: Koordinatif
+option_C: Tidak ada hubungan
+option_D: Berdiri sendiri
+answer: B
+clue: Hubungan koordinatif dan pembagian urusan.
+
+[SOAL]
+text: Kekuasaan pemerintahan yang dilakukan oleh pemerintah daerah adalah...
+option_A: Otonomi daerah
+option_B: Tugas pembantuan
+option_C: Dekonsentrasi
+option_D: Semua benar
+answer: A
+clue: Otonomi adalah kewenangan mengatur daerahnya sendiri.
+
+[SOAL]
+text: Tugas pemerintahan yang dilaksanakan oleh pemerintah daerah atas nama pemerintah pusat disebut...
+option_A: Otonomi daerah
+option_B: Tugas pembantuan
+option_C: Dekonsentrasi
+option_D: Swakelola
+answer: B
+clue: Tugas pembantuan.
+
+[SOAL]
+text: Kekuasaan pemerintahan yang dilakukan oleh pemerintah provinsi terhadap kabupaten/kota disebut...
+option_A: Otonomi daerah
+option_B: Tugas pembantuan
+option_C: Dekonsentrasi
+option_D: Swakelola
+answer: C
+clue: Pembinaan dan pengawasan.
+
+[SOAL]
+text: Sistem pemerintahan desa diatur dalam UU No...
+option_A: 6 Tahun 2014
+option_B: 23 Tahun 2014
+option_C: 32 Tahun 2004
+option_D: 25 Tahun 1999
+answer: A
+clue: UU Desa.
+
+[SOAL]
+text: Pemerintahan desa dipimpin oleh...
+option_A: Lurah
+option_B: Kades
+option_C: Camat
+option_D: Bupati
+answer: B
+clue: Kepala Desa.
+
+[SOAL]
+text: Pemerintahan kelurahan dipimpin oleh...
+option_A: Lurah
+option_B: Kades
+option_C: Camat
+option_D: Walikota
+answer: A
+clue: Lurah.
+
+[SOAL]
+text: Pemilihan Kepala Desa dilakukan secara...
+option_A: Langsung oleh rakyat
+option_B: Tidak langsung
+option_C: Ditunjuk
+option_D: Diangkat
+answer: A
+clue: Pemilihan langsung.
+
+[SOAL]
+text: Pemilihan Lurah dilakukan oleh...
+option_A: Rakyat
+option_B: Camat
+option_C: DPRD
+option_D: Kepala Daerah
+answer: B
+clue: Diangkat oleh Camat.
+
+[SOAL]
+text: Masa jabatan Kepala Desa adalah...
+option_A: 4 tahun
+option_B: 5 tahun
+option_C: 6 tahun
+option_D: 7 tahun
+answer: C
+clue: UU Desa Pasal 41.
+
+[SOAL]
+text: Masa jabatan Lurah adalah...
+option_A: 3 tahun
+option_B: 4 tahun
+option_C: 5 tahun
+option_D: 6 tahun
+answer: C
+clue: Sama dengan camat.
+
+[SOAL]
+text: Pemilihan umum legislatif dilaksanakan setiap...
+option_A: 3 tahun
+option_B: 4 tahun
+option_C: 5 tahun
+option_D: 6 tahun
+answer: C
+clue: Sesuai UUD 1945.
+
+[SOAL]
+text: Pemilihan Presiden dan Wakil Presiden dilaksanakan setiap...
+option_A: 3 tahun
+option_B: 4 tahun
+option_C: 5 tahun
+option_D: 6 tahun
+answer: C
+clue: Masa jabatan 5 tahun.
+
+[SOAL]
+text: Sistem multipartai di Indonesia menganut sistem...
+option_A: Closed list
+option_B: Open list
+option_C: Mixed list
+option_D: Tidak ada sistem
+answer: B
+clue: Pemilih memilih calon legislatif secara langsung.
+
+[SOAL]
+text: Partai politik yang lolos verifikasi dan bisa mengikuti pemilu adalah partai yang...
+option_A: Memiliki suara minimal
+option_B: Lolos parliamentary threshold
+option_C: Lolos verifikasi administrasi dan faktual
+option_D: Semua benar
+answer: D
+clue: Syarat mengikuti pemilu.
+
+[SOAL]
+text: Parliamentary threshold untuk pemilu legislatif adalah...
+option_A: 2%
+option_B: 3%
+option_C: 4%
+option_D: 5%
+answer: C
+clue: Aturan sistem proporsional terbuka.
+
+[SOAL]
+text: Sistem pemilu di Indonesia menganut sistem...
+option_A: Proporsional tertutup
+option_B: Proporsional terbuka
+option_C: Mayoritas mutlak
+option_D: Mayoritas relatif
+answer: B
+clue: Pemilih memilih caleg, bukan partai.
+
+[SOAL]
+text: Sistem pemilu di Indonesia saat ini berdasarkan UU No...
+option_A: 15 Tahun 2011
+option_B: 23 Tahun 2003
+option_C: 7 Tahun 2017
+option_D: 10 Tahun 2016
+answer: C
+clue: UU Pemilu terbaru.
+
+[SOAL]
+text: Pemilu di Indonesia dilaksanakan oleh...
+option_A: KPU
+option_B: Bawaslu
+option_C: DKPP
+option_D: MK
+answer: A
+clue: KPU adalah penyelenggara pemilu.
+
+[SOAL]
+text: Pengawasan pemilu di Indonesia dilakukan oleh...
+option_A: KPU
+option_B: Bawaslu
+option_C: DKPP
+option_D: MK
+answer: B
+clue: Bawaslu adalah pengawas pemilu.
+
+[SOAL]
+text: Sengketa hasil pemilu diadili oleh...
+option_A: KPU
+option_B: Bawaslu
+option_C: DKPP
+option_D: MK
+answer: D
+clue: Mahkamah Konstitusi.
+
+[SOAL]
+text: Pelanggaran pidana pemilu diadili oleh...
+option_A: Pengadilan negeri
+option_B: Pengadilan tinggi
+option_C: Mahkamah Agung
+option_D: Semua benar
+answer: D
+clue: Sesuai tingkatannya.
+
+[SOAL]
+text: Sanksi administratif pelanggaran pemilu diberikan oleh...
+option_A: KPU
+option_B: Bawaslu
+option_C: DKPP
+option_D: MK
+answer: B
+clue: Bawaslu memberikan sanksi.
+
+[SOAL]
+text: Lembaga yang mengadili pelanggaran kode etik penyelenggara pemilu adalah...
+option_A: KPU
+option_B: Bawaslu
+option_C: DKPP
+option_D: MK
+answer: C
+clue: Dewan Kehormatan Penyelenggara Pemilu.
+
+[SOAL]
+text: Pemilu serentak pertama di Indonesia dilaksanakan pada tahun...
+option_A: 2014
+option_B: 2019
+option_C: 2024
+option_D: 2029
+answer: B
+clue: Pemilu serentak pertama.

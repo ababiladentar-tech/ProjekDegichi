@@ -1,0 +1,359 @@
+[SOAL]
+text: "Had I known, I would have helped you." This is an example of...
+option_A: First Conditional
+option_B: Second Conditional
+option_C: Third Conditional
+option_D: Mixed Conditional
+answer: C
+clue: Contrary to fact in the past.
+
+[SOAL]
+text: "I wish I ______ there yesterday."
+option_A: was
+option_B: were
+option_C: had been
+option_D: am
+answer: C
+clue: Wish + subject + had + past participle (past unreal).
+
+[SOAL]
+text: "She insisted that he ______ the report immediately."
+option_A: submits
+option_B: submitted
+option_C: submit
+option_D: will submit
+answer: C
+clue: Insist + that + subject + V1 (subjunctive).
+
+[SOAL]
+text: "It's high time you ______ your life seriously."
+option_A: take
+option_B: took
+option_C: taking
+option_D: tooks
+answer: B
+clue: It's high time + subject + past tense.
+
+[SOAL]
+text: "Would you mind ______ the door?"
+option_A: close
+option_B: to close
+option_C: closing
+option_D: closed
+answer: C
+clue: Mind + V-ing.
+
+[SOAL]
+text: "I look forward to ______ from you soon."
+option_A: hear
+option_B: hearing
+option_C: heard
+option_D: to hear
+answer: B
+clue: Look forward to + V-ing.
+
+[SOAL]
+text: "She is capable ______ solving complex problems."
+option_A: in
+option_B: of
+option_C: at
+option_D: for
+answer: B
+clue: Capable of + V-ing.
+
+[SOAL]
+text: "I suggest ______ early to avoid traffic."
+option_A: leave
+option_B: leaving
+option_C: to leave
+option_D: left
+answer: B
+clue: Suggest + V-ing.
+
+[SOAL]
+text: "He is used to ______ up early."
+option_A: get
+option_B: getting
+option_C: got
+option_D: gotten
+answer: B
+clue: Be used to + V-ing (habit).
+
+[SOAL]
+text: "I am accustomed ______ hard work."
+option_A: to
+option_B: in
+option_C: at
+option_D: for
+answer: A
+clue: Be accustomed to + V-ing.
+
+[SOAL]
+text: "It's essential that everyone ______ on time."
+option_A: arrives
+option_B: arrive
+option_C: will arrive
+option_D: arrived
+answer: B
+clue: Essential + that + subject + V1 (subjunctive).
+
+[SOAL]
+text: "If only I ______ known the truth earlier!"
+option_A: have
+option_B: had
+option_C: has
+option_D: will have
+answer: B
+clue: If only + subject + had + past participle (past regret).
+
+[SOAL]
+text: "She would rather ______ at home tonight."
+option_A: stays
+option_B: stayed
+option_C: stay
+option_D: staying
+answer: C
+clue: Would rather + subject + V1.
+
+[SOAL]
+text: "He acts as if he ______ the owner of the company."
+option_A: is
+option_B: was
+option_C: were
+option_D: had been
+answer: C
+clue: As if + subject + were (unreal condition).
+
+[SOAL]
+text: "I remember ______ him somewhere before."
+option_A: see
+option_B: saw
+option_C: seeing
+option_D: seen
+answer: C
+clue: Remember + V-ing (action completed).
+
+[SOAL]
+text: "I regret ______ you that your application was rejected."
+option_A: inform
+option_B: informing
+option_C: to inform
+option_D: informed
+answer: C
+clue: Regret + to + V1 (news/information).
+
+[SOAL]
+text: "She is fond of ______ classical music."
+option_A: listen
+option_B: listening
+option_C: listened
+option_D: to listen
+answer: B
+clue: Fond of + V-ing.
+
+[SOAL]
+text: "He succeeded in ______ the exam."
+option_A: pass
+option_B: passing
+option_C: passed
+option_D: to pass
+answer: B
+clue: Succeed in + V-ing.
+
+[SOAL]
+text: "She was accused of ______ the crime."
+option_A: commit
+option_B: committing
+option_C: committed
+option_D: to commit
+answer: B
+clue: Accused of + V-ing.
+
+[SOAL]
+text: "It's no use ______ about it now."
+option_A: complain
+option_B: complaining
+option_C: complained
+option_D: to complain
+answer: B
+clue: It's no use + V-ing.
+
+[SOAL]
+text: "I can't help ______ worried about the results."
+option_A: feel
+option_B: feeling
+option_C: felt
+option_D: to feel
+answer: B
+clue: Can't help + V-ing.
+
+[SOAL]
+text: "She is thinking of ______ abroad for further studies."
+option_A: go
+option_B: going
+option_C: gone
+option_D: went
+answer: B
+clue: Think of + V-ing.
+
+[SOAL]
+text: "He dreams of ______ a successful entrepreneur."
+option_A: become
+option_B: becoming
+option_C: became
+option_D: to become
+answer: B
+clue: Dream of + V-ing.
+
+[SOAL]
+text: "The teacher warned the students ______ late again."
+option_A: not to be
+option_B: not being
+option_C: not be
+option_D: don't be
+answer: A
+clue: Warn + object + not to + V1.
+
+[SOAL]
+text: "She advised me ______ the job offer."
+option_A: accept
+option_B: accepting
+option_C: to accept
+option_D: accepted
+answer: C
+clue: Advise + object + to + V1.
+
+[SOAL]
+text: "I'm considering ______ my major."
+option_A: change
+option_B: changing
+option_C: changed
+option_D: to change
+answer: B
+clue: Consider + V-ing.
+
+[SOAL]
+text: "He denied ______ the mistake."
+option_A: make
+option_B: making
+option_C: made
+option_D: to make
+answer: B
+clue: Deny + V-ing.
+
+[SOAL]
+text: "The book is worth ______."
+option_A: read
+option_B: reading
+option_C: to read
+option_D: reads
+answer: B
+clue: Worth + V-ing.
+
+[SOAL]
+text: "She couldn't afford ______ the concert."
+option_A: attend
+option_B: attending
+option_C: to attend
+option_D: attended
+answer: C
+clue: Afford + to + V1.
+
+[SOAL]
+text: "He failed ______ the entrance exam."
+option_A: pass
+option_B: passing
+option_C: to pass
+option_D: passed
+answer: C
+clue: Fail + to + V1.
+
+[SOAL]
+text: "I hope ______ you again soon."
+option_A: see
+option_B: seeing
+option_C: to see
+option_D: saw
+answer: C
+clue: Hope + to + V1.
+
+[SOAL]
+text: "The problem is too difficult ______."
+option_A: solve
+option_B: solving
+option_C: to solve
+option_D: solved
+answer: C
+clue: Too + adjective + to + V1.
+
+[SOAL]
+text: "She is old enough ______ by herself."
+option_A: live
+option_B: living
+option_C: to live
+option_D: lived
+answer: C
+clue: Adjective + enough + to + V1.
+
+[SOAL]
+text: "The film was exciting ______."
+option_A: watch
+option_B: watching
+option_C: to watch
+option_D: watched
+answer: C
+clue: Subject + be + adjective + to + V1.
+
+[SOAL]
+text: "I have a lot of work ______ today."
+option_A: do
+option_B: doing
+option_C: to do
+option_D: done
+answer: C
+clue: Have + noun + to + V1.
+
+[SOAL]
+text: "He is the man ______ car was stolen."
+option_A: who
+option_B: whom
+option_C: whose
+option_D: which
+answer: C
+clue: Whose = possessive relative pronoun.
+
+[SOAL]
+text: "The house ______ roof is red is mine."
+option_A: who
+option_B: which
+option_C: whose
+option_D: where
+answer: C
+clue: Whose for possession.
+
+[SOAL]
+text: "This is the place ______ I met her."
+option_A: where
+option_B: which
+option_C: that
+option_D: when
+answer: A
+clue: Where for location.
+
+[SOAL]
+text: "Do you know the reason ______ she left?"
+option_A: why
+option_B: which
+option_C: where
+option_D: when
+answer: A
+clue: Why for reason.
+
+[SOAL]
+text: "I'll never forget ______ you told me."
+option_A: what
+option_B: that
+option_C: which
+option_D: who
+answer: A
+clue: What = the thing that.

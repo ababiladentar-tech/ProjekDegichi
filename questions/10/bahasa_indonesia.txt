@@ -1,0 +1,359 @@
+[SOAL]
+text: Kalimat yang benar secara ejaan adalah...
+option_A: Dia pergi ke pasar.
+option_B: Dia pergi ke-pasar.
+option_C: Dia pergi kep pasar.
+option_D: Dia pergi ke, pasar.
+answer: A
+clue: Tidak perlu tanda hubung.
+
+[SOAL]
+text: Majas perbandingan "seperti" disebut...
+option_A: Metafora
+option_B: Simile
+option_C: Personifikasi
+option_D: Hiperbola
+answer: B
+clue: "Hatinya keras seperti batu".
+
+[SOAL]
+text: Kalimat utama dalam paragraf biasanya terletak di...
+option_A: Awal paragraf
+option_B: Tengah paragraf
+option_C: Akhir paragraf
+option_D: Semua benar
+answer: D
+clue: Tergantung jenis paragraf.
+
+[SOAL]
+text: Sinonim kata "bahagia" adalah...
+option_A: Sedih
+option_B: Gembira
+option_C: Marah
+option_D: Takut
+answer: B
+clue: Persamaan makna.
+
+[SOAL]
+text: Antonim kata "tinggi" adalah...
+option_A: Besar
+option_B: Pendek
+option_C: Rendah
+option_D: Kecil
+answer: C
+clue: Lawan makna.
+
+[SOAL]
+text: Kata yang penulisannya sesuai KBBI adalah...
+option_A: Cekal
+option_B: Jekal
+option_C: Sekal
+option_D: Tekal
+answer: A
+clue: Teguh pendirian.
+
+[SOAL]
+text: Kalimat efektif harus...
+option_A: Menggunakan banyak kata
+option_B: Jelas dan tepat
+option_C: Panjang dan berbelit
+option_D: Banyak majas
+answer: B
+clue: Komunikatif.
+
+[SOAL]
+text: Paragraf yang pola pengembangannya dari umum ke khusus disebut...
+option_A: Deduktif
+option_B: Induktif
+option_C: Campuran
+option_D: Naratif
+answer: A
+clue: Kalimat utama di awal.
+
+[SOAL]
+text: Surat resmi harus mencantumkan...
+option_A: Kop surat
+option_B: Nomor surat
+option_C: Lampiran
+option_D: Semua benar
+answer: D
+clue: Kelengkapan surat dinas.
+
+[SOAL]
+text: Karya sastra yang menceritakan kisah hidup seseorang ditulis oleh orang lain disebut...
+option_A: Otobiografi
+option_B: Biografi
+option_C: Novel
+option_D: Cerpen
+answer: B
+clue: Otobiografi oleh diri sendiri.
+
+[SOAL]
+text: Yang termasuk kalimat deklaratif adalah...
+option_A: Siapa yang datang?
+option_B: Datanglah segera!
+option_C: Buku itu milikku.
+option_D: Aduh!
+answer: C
+clue: Kalimat pernyataan.
+
+[SOAL]
+text: Klausa bebas adalah klausa yang...
+option_A: Tidak dapat berdiri sendiri
+option_B: Dapat berdiri sendiri
+option_C: Tidak memiliki predikat
+option_D: Tidak memiliki subjek
+answer: B
+clue: Dapat menjadi kalimat utuh.
+
+[SOAL]
+text: Imbuhan "me-" pada kata "membaca" berfungsi untuk membentuk...
+option_A: Adjektiva
+option_B: Verba
+option_C: Nomina
+option_D: Adverbia
+answer: B
+clue: Kata kerja.
+
+[SOAL]
+text: Kalimat majemuk setara disebut juga kalimat...
+option_A: Bertingkat
+option_B: Pararel
+option_C: Koordinatif
+option_D: Subordinatif
+answer: C
+clue: Menggunakan kata sambung koordinatif.
+
+[SOAL]
+text: Kalimat pasif ditandai dengan...
+option_A: Subjek sebagai pelaku
+option_B: Subjek sebagai penderita
+option_C: Tidak ada predikat
+option_D: Tidak ada objek
+answer: B
+clue: Subjek dikenai perbuatan.
+
+[SOAL]
+text: Gaya bahasa yang menyamakan dua hal yang berbeda disebut...
+option_A: Metafora
+option_B: Simile
+option_C: Personifikasi
+option_D: Hiperbola
+answer: A
+clue: "Dia adalah bintang kelas".
+
+[SOAL]
+text: Kalimat yang menyatakan perintah disebut...
+option_A: Interogatif
+option_B: Deklaratif
+option_C: Imperatif
+option_D: Ekspresif
+answer: C
+clue: Kalimat perintah.
+
+[SOAL]
+text: Yang termasuk majas hiperbola adalah...
+option_A: Hatinya sebesar gajah
+option_B: Hatinya seperti batu
+option_C: Hatinya menyatu dengan alam
+option_D: Hatinya menjerit
+answer: A
+clue: Berlebihan, hiperbola.
+
+[SOAL]
+text: Dalam puisi, baris pertama disebut...
+option_A: Isi
+option_B: Sampiran
+option_B: Isi
+option_D: Sajak
+answer: B
+clue: Bagian awal sebelum isi.
+
+[SOAL]
+text: Kalimat yang menyatakan pertanyaan disebut...
+option_A: Deklaratif
+option_B: Interogatif
+option_C: Imperatif
+option_D: Ekspresif
+answer: B
+clue: Kalimat tanya.
+
+[SOAL]
+text: Kalimat "Aku sedang membaca buku" termasuk jenis...
+option_A: Kalimat aktif transitif
+option_B: Kalimat aktif intransitif
+option_C: Kalimat pasif
+option_D: Kalimat perintah
+answer: A
+clue: Ada objek "buku".
+
+[SOAL]
+text: Kaidah kebahasaan yang tidak boleh dilanggar dalam surat resmi adalah...
+option_A: Ejaan
+option_B: Struktur kalimat
+option_C: Tanda baca
+option_D: Semua benar
+answer: D
+clue: Surat resmi harus formal.
+
+[SOAL]
+text: Sinonim dari kata "gigih" adalah...
+option_A: Malas
+option_B: Rajin
+option_C: Lekas
+option_D: Tidak semangat
+answer: B
+clue: Teguh dan ulet.
+
+[SOAL]
+text: Antonim dari kata "berani" adalah...
+option_A: Tegas
+option_B: Takut
+option_C: Bijak
+option_D: Cerdas
+answer: B
+clue: Lawan dari keberanian.
+
+[SOAL]
+text: Kalimat "Jika hujan turun, saya tidak pergi." termasuk kalimat...
+option_A: Majemuk bertingkat
+option_B: Majemuk setara
+option_C: Tunggal
+option_D: Rangkap
+answer: A
+clue: Ada klausa utama dan klausa pengganti.
+
+[SOAL]
+text: Gaya bahasa yang memberikan sifat manusia pada benda mati disebut...
+option_A: Metafora
+option_B: Simile
+option_C: Personifikasi
+option_D: Hiperbola
+answer: C
+clue: "Pintu menangis".
+
+[SOAL]
+text: Kalimat "Ia adalah seorang guru yang hebat." termasuk jenis...
+option_A: Kalimat aktif
+option_B: Kalimat pasif
+option_C: Kalimat nominal
+option_D: Kalimat verbal
+answer: C
+clue: Predikatnya bukan kata kerja.
+
+[SOAL]
+text: Kata "karena" dalam kalimat "Karena hujan, ia tidak datang." berfungsi sebagai...
+option_A: Kata sambung
+option_B: Kata depan
+option_C: Kata kerja
+option_D: Kata benda
+answer: A
+clue: Menghubungkan dua bagian kalimat.
+
+[SOAL]
+text: Kalimat yang menyatakan perasaan disebut...
+option_A: Deklaratif
+option_B: Interogatif
+option_C: Imperatif
+option_D: Ekspresif
+answer: D
+clue: Kalimat ekspresif.
+
+[SOAL]
+text: Yang termasuk majas ironi adalah...
+option_A: Pekerjaanmu sangat rapi
+option_B: Pekerjaanmu kacau
+option_C: Pekerjaanmu biasa
+option_D: Pekerjaanmu tidak rapi
+answer: A
+clue: Mengatakan sebaliknya dari maksud.
+
+[SOAL]
+text: Dalam puisi, rima ABCD disebut rima...
+option_A: Bebas
+option_B: Terpaut
+option_C: Segi empat
+option_D: Tidak teratur
+answer: A
+clue: Tidak berpola.
+
+[SOAL]
+text: Kalimat "Ia diberi hadiah oleh ibunya." termasuk kalimat...
+option_A: Aktif transitif
+option_B: Pasif
+option_C: Aktif intransitif
+option_D: Imperatif
+answer: B
+clue: Subjek dikenai perbuatan.
+
+[SOAL]
+text: Gaya bahasa yang berlebihan disebut...
+option_A: Metafora
+option_B: Simile
+option_C: Hiperbola
+option_D: Personifikasi
+answer: C
+clue: "Saya menangis hingga lautan kering".
+
+[SOAL]
+text: Dalam teks narasi, bagian orientasi berisi...
+option_A: Konflik
+option_B: Klimaks
+option_C: Pengenalan tokoh dan latar
+option_D: Penyelesaian
+answer: C
+clue: Awal cerita.
+
+[SOAL]
+text: Kalimat "Semoga sukses." termasuk jenis kalimat...
+option_A: Deklaratif
+option_B: Interogatif
+option_C: Imperatif
+option_D: Ekspresif
+answer: D
+clue: Menyatakan perasaan harapan.
+
+[SOAL]
+text: Imbuhan "ber-" pada kata "bermain" termasuk kategori...
+option_A: Awalan
+option_B: Akhiran
+option_C: Sisipan
+option_D: Pelengkap
+answer: A
+clue: Awalan.
+
+[SOAL]
+text: Dalam puisi, irama terbentuk dari...
+option_A: Rima
+option_B: Irama kata
+option_C: Tanda baca
+option_D: A dan B benar
+answer: D
+clue: Rima dan irama kata.
+
+[SOAL]
+text: Kalimat "Apa yang kamu lakukan?" termasuk jenis...
+option_A: Deklaratif
+option_B: Interogatif
+option_C: Imperatif
+option_D: Ekspresif
+answer: B
+clue: Kalimat tanya.
+
+[SOAL]
+text: Kalimat yang tidak memiliki objek disebut...
+option_A: Kalimat aktif transitif
+option_B: Kalimat aktif intransitif
+option_C: Kalimat pasif
+option_D: Kalimat nominal
+answer: B
+clue: Tidak memerlukan objek.
+
+[SOAL]
+text: Dalam teks eksposisi, tujuan utama adalah...
+option_A: Menceritakan pengalaman
+option_B: Menjelaskan suatu topik
+option_C: Meyakinkan pembaca
+option_D: Menghibur pembaca
+answer: B
+clue: Penjelasan objektif.

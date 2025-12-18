@@ -1,0 +1,359 @@
+[SOAL]
+text: Kalimat yang menyatakan peristiwa yang benar-benar terjadi disebut kalimat...
+option_A: Imperatif
+option_B: Interogatif
+option_C: Deklaratif
+option_D: Ekspresif
+answer: C
+clue: Kalimat pernyataan.
+
+[SOAL]
+text: Kalimat "Berapa jumlah siswa di kelas ini?" merupakan contoh kalimat...
+option_A: Deklaratif
+option_B: Interogatif
+option_C: Imperatif
+option_D: Ekspresif
+answer: B
+clue: Kalimat tanya.
+
+[SOAL]
+text: Kalimat "Tolong tutup pintunya!" merupakan contoh kalimat...
+option_A: Deklaratif
+option_B: Interogatif
+option_C: Imperatif
+option_D: Ekspresif
+answer: C
+clue: Kalimat perintah.
+
+[SOAL]
+text: Kalimat yang menyatakan perasaan disebut...
+option_A: Deklaratif
+option_B: Interogatif
+option_C: Imperatif
+option_D: Ekspresif
+answer: D
+clue: Kalimat ungkapan perasaan.
+
+[SOAL]
+text: Kalimat efektif harus memenuhi syarat-syarat berikut, kecuali...
+option_A: Jelas
+option_B: Ringkas
+option_C: Bermakna ganda
+option_D: Logis
+answer: C
+clue: Kalimat efektif tidak ambigu.
+
+[SOAL]
+text: Kalimat berikut yang efektif adalah...
+option_A: Ia adalah seorang yang pandai, cerdas, dan jujur.
+option_B: Ia pandai, cerdas, dan jujur.
+option_C: Ia adalah seorang yang pandai, cerdas, dan jujur yang baik.
+option_D: Ia pandai, cerdas, jujur, dan orang yang baik.
+answer: B
+clue: Hindari repetisi makna.
+
+[SOAL]
+text: Kalimat berikut yang tidak efektif adalah...
+option_A: Banyak siswa yang datang.
+option_B: Siswa-siswa datang.
+option_C: Banyak siswa-siswanya yang datang-datang.
+option_D: Mereka datang.
+answer: C
+clue: Berlebihan dan tidak logis.
+
+[SOAL]
+text: Gagasan utama dalam sebuah paragraf disebut...
+option_A: Gagasan penjelas
+option_B: Kalimat utama
+option_C: Kalimat penjelas
+option_D: Pokok pikiran
+answer: B
+clue: Inti dari paragraf.
+
+[SOAL]
+text: Paragraf yang gagasan utamanya terletak di awal disebut paragraf...
+option_A: Induktif
+option_B: Deduktif
+option_C: Campuran
+option_D: Naratif
+answer: B
+clue: Kalimat utama di awal.
+
+[SOAL]
+text: Paragraf yang gagasan utamanya terletak di akhir disebut paragraf...
+option_A: Deduktif
+option_B: Induktif
+option_C: Campuran
+option_D: Deskriptif
+answer: B
+clue: Kalimat utama di akhir.
+
+[SOAL]
+text: Majas yang menyamakan dua hal yang berbeda disebut...
+option_A: Metafora
+option_B: Simile
+option_C: Personifikasi
+option_D: Hiperbola
+answer: A
+clue: Contoh: "Dia adalah bintang kelas."
+
+[SOAL]
+text: Majas yang menggunakan perbandingan dengan kata "seperti" atau "laksana" disebut...
+option_A: Metafora
+option_B: Simile
+option_C: Personifikasi
+option_D: Hiperbola
+answer: B
+clue: Contoh: "Hatinya seperti batu."
+
+[SOAL]
+text: Majas yang memberi sifat manusia pada benda mati disebut...
+option_A: Metafora
+option_B: Simile
+option_C: Personifikasi
+option_D: Hiperbola
+answer: C
+clue: Contoh: "Angin berbisik."
+
+[SOAL]
+text: Majas yang bersifat berlebihan disebut...
+option_A: Metafora
+option_B: Simile
+option_C: Personifikasi
+option_D: Hiperbola
+answer: D
+clue: Contoh: "Saya menangis hingga lautan kering."
+
+[SOAL]
+text: "Besar harapan kami agar usaha ini berhasil." Kalimat tersebut menggunakan majas...
+option_A: Metafora
+option_B: Eufemisme
+option_C: Hiperbola
+option_D: Ironi
+answer: B
+clue: Ucapan yang halus untuk menyamarkan makna.
+
+[SOAL]
+text: Kalimat berikut yang menggunakan majas metafora adalah...
+option_A: Hatinya sekeras batu.
+option_B: Hatinya seperti batu.
+option_C: Hatinya keras seolah batu.
+option_D: Hatinya keras seperti batu.
+answer: A
+clue: Tidak menggunakan kata "seperti".
+
+[SOAL]
+text: Kalimat berikut yang menggunakan majas personifikasi adalah...
+option_A: Angin bertiup kencang.
+option_B: Angin berbisik lembut.
+option_C: Angin menerjang pepohonan.
+option_D: Angin bertiup.
+answer: B
+clue: Memberi sifat manusia (berbisik).
+
+[SOAL]
+text: "Harga tiketnya selangit." Kalimat tersebut menggunakan majas...
+option_A: Metafora
+option_B: Simile
+option_C: Hiperbola
+option_D: Eufemisme
+answer: C
+clue: Berlebihan, tidak harfiah.
+
+[SOAL]
+text: "Ani rajin belajar, tetapi Budi malas." Kalimat tersebut menggunakan konjungsi...
+option_A: Kausal
+option_B: Temporal
+option_C: Perlawanan
+option_D: Penjelasan
+answer: C
+clue: Kata "tetapi" menunjukkan perlawanan.
+
+[SOAL]
+text: "Karena hujan, pertemuan dibatalkan." Kalimat tersebut menggunakan konjungsi...
+option_A: Temporal
+option_B: Kausal
+option_C: Perlawanan
+option_D: Penjelasan
+answer: B
+clue: Menyatakan sebab-akibat.
+
+[SOAL]
+text: "Saat istirahat, para siswa duduk di bawah pohon." Kalimat tersebut menggunakan konjungsi...
+option_A: Kausal
+option_B: Temporal
+option_C: Spasial
+option_D: Perlawanan
+answer: B
+clue: Menyatakan waktu.
+
+[SOAL]
+text: "Dia tidak datang, padahal sudah diundang." Kalimat tersebut menggunakan konjungsi...
+option_A: Temporal
+option_B: Kausal
+option_C: Perlawanan
+option_D: Penjelasan
+answer: C
+clue: Menyatakan hal yang bertentangan.
+
+[SOAL]
+text: Teks yang isinya menceritakan kejadian atau peristiwa nyata disebut...
+option_A: Fiksi
+option_B: Nonfiksi
+option_C: Puisi
+option_D: Drama
+answer: B
+clue: Berdasarkan fakta.
+
+[SOAL]
+text: Teks yang isinya rekaan atau khayalan disebut...
+option_A: Nonfiksi
+option_B: Fiksi
+option_C: Laporan
+option_D: Berita
+answer: B
+clue: Cerita buatan.
+
+[SOAL]
+text: Unsur intrinsik cerita adalah sebagai berikut, kecuali...
+option_A: Tema
+option_B: Alur
+option_C: Latar
+option_D: Nilai-nilai moral
+answer: D
+clue: Nilai moral termasuk unsur ekstrinsik.
+
+[SOAL]
+text: Latar waktu dalam cerita disebut juga...
+option_A: Temporal
+option_B: Spasial
+option_C: Sosial
+option_D: Fisik
+answer: A
+clue: Waktu kejadian cerita.
+
+[SOAL]
+text: Latar tempat dalam cerita disebut juga...
+option_A: Temporal
+option_B: Spasial
+option_C: Sosial
+option_D: Waktu
+answer: B
+clue: Tempat kejadian cerita.
+
+[SOAL]
+text: Tokoh utama dalam cerita disebut...
+option_A: Antagonis
+option_B: Protagonis
+option_C: Tritagonis
+option_D: Figuran
+answer: B
+clue: Tokoh yang diceritakan.
+
+[SOAL]
+text: Tokoh yang berperan sebagai penentang protagonis disebut...
+option_A: Protagonis
+option_B: Antagonis
+option_C: Tritagonis
+option_D: Figuran
+answer: B
+clue: Tokoh yang menghalangi.
+
+[SOAL]
+text: Alur yang bergerak dari akhir ke awal disebut...
+option_A: Alur maju
+option_B: Alur mundur
+option_C: Alur campuran
+option_D: Alur lurus
+answer: B
+clue: Flashback.
+
+[SOAL]
+text: Teks yang berisi langkah-langkah untuk melakukan sesuatu disebut...
+option_A: Eksposisi
+option_B: Narasi
+option_C: Prosedur
+option_D: Deskripsi
+answer: C
+clue: Instruksi atau cara.
+
+[SOAL]
+text: Teks yang berisi penjelasan tentang suatu hal disebut...
+option_A: Argumentasi
+option_B: Eksposisi
+option_C: Narasi
+option_D: Deskripsi
+answer: B
+clue: Menjelaskan fenomena.
+
+[SOAL]
+text: Teks yang berisi pembuktian atau alasan disebut...
+option_A: Eksposisi
+option_B: Argumentasi
+option_C: Narasi
+option_D: Deskripsi
+answer: B
+clue: Meyakinkan pembaca.
+
+[SOAL]
+text: Teks yang berisi pemaparan suatu objek secara rinci disebut...
+option_A: Eksposisi
+option_B: Argumentasi
+option_C: Narasi
+option_D: Deskripsi
+answer: D
+clue: Menggambarkan objek.
+
+[SOAL]
+text: Teks yang berisi urutan peristiwa disebut...
+option_A: Eksposisi
+option_B: Argumentasi
+option_C: Narasi
+option_D: Deskripsi
+answer: C
+clue: Menceritakan kejadian.
+
+[SOAL]
+text: "Pada suatu hari, seorang petani pergi ke sawah." Kalimat ini merupakan bagian dari struktur teks...
+option_A: Eksposisi
+option_B: Argumentasi
+option_C: Narasi
+option_D: Prosedur
+answer: C
+clue: Pembukaan cerita.
+
+[SOAL]
+text: "Demikian surat laporan ini kami buat." Kalimat ini biasanya terdapat dalam bagian akhir teks...
+option_A: Laporan
+option_B: Berita
+option_C: Cerita
+option_D: Prosedur
+answer: A
+clue: Penutup laporan.
+
+[SOAL]
+text: "Tujuan penulisan teks berita adalah untuk..."
+option_A: Menghibur
+option_B: Menceritakan pengalaman
+option_C: Menyampaikan informasi
+option_D: Meyakinkan
+answer: C
+clue: Berdasarkan fakta aktual.
+
+[SOAL]
+text: "Dalam artikel ini akan dijelaskan bahwa..." merupakan kalimat yang biasa ditemukan dalam teks...
+option_A: Narasi
+option_B: Deskripsi
+option_C: Eksposisi
+option_D: Argumentasi
+answer: C
+clue: Menjelaskan suatu topik.
+
+[SOAL]
+text: Teks yang berisi ajakan atau himbauan disebut...
+option_A: Editorial
+option_B: Iklan
+option_C: Cerita
+option_D: Puisi
+answer: B
+clue: Tujuan persuasif.

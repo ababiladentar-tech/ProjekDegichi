@@ -1,0 +1,341 @@
+[SOAL]
+text: Diketahui himpunan A = {1, 2, 3} dan B = {2, 3, 4}. Maka A ∩ B adalah...
+option_A: {1, 2, 3}
+option_B: {2, 3}
+option_C: {1, 2, 3, 4}
+option_D: {4}
+answer: B
+clue: Irisan = anggota yang sama.
+
+[SOAL]
+text: Jika f(x) = 2x + 3, maka f(4) = ...
+option_A: 7
+option_B: 8
+option_C: 10
+option_D: 11
+answer: D
+clue: f(4) = 2(4) + 3 = 11.
+
+[SOAL]
+text: Nilai dari 3x - 5 = 10 adalah...
+option_A: 3
+option_B: 4
+option_C: 5
+option_D: 6
+answer: C
+clue: 3x = 15 → x = 5.
+
+[SOAL]
+text: Diketahui sistem persamaan: x + y = 5 dan x - y = 1. Maka nilai x = ...
+option_A: 2
+option_B: 3
+option_C: 4
+option_D: 5
+answer: B
+clue: Jumlahkan kedua persamaan: 2x = 6 → x = 3.
+
+[SOAL]
+text: Nilai maksimum dari fungsi z = 3x + 2y dengan kendala x + y ≤ 5, x ≥ 0, y ≥ 0 adalah...
+option_A: 10
+option_B: 12
+option_C: 15
+option_D: 20
+answer: C
+clue: Maksimum terjadi di titik (5,0) → z = 15.
+
+[SOAL]
+text: Diketahui matriks A = [[1, 2], [3, 4]] dan B = [[2, 0], [1, 1]]. Maka A + B = ...
+option_A: [[3, 2], [4, 5]]
+option_B: [[2, 2], [3, 4]]
+option_C: [[3, 2], [3, 5]]
+option_D: [[1, 2], [4, 5]]
+answer: A
+clue: Jumlahkan elemen seletak.
+
+[SOAL]
+text: Jika vektor a = (2, 3) dan b = (1, -1), maka a + b = ...
+option_A: (3, 2)
+option_B: (1, 4)
+option_C: (3, -2)
+option_D: (1, 2)
+answer: A
+clue: (2+1, 3+(-1)) = (3, 2).
+
+[SOAL]
+text: Diketahui segitiga siku-siku dengan sisi siku-siku 3 cm dan 4 cm. Maka sisi miringnya adalah...
+option_A: 5 cm
+option_B: 6 cm
+option_C: 7 cm
+option_D: 8 cm
+answer: A
+clue: c = √(3² + 4²) = √25 = 5.
+
+[SOAL]
+text: Diketahui cos A = 1/2, maka besar sudut A adalah...
+option_A: 30°
+option_B: 45°
+option_C: 60°
+option_D: 90°
+answer: C
+clue: cos 60° = 1/2.
+
+[SOAL]
+text: Diketahui barisan aritmetika: 2, 5, 8, 11, ... Maka suku ke-10 adalah...
+option_A: 28
+option_B: 29
+option_C: 30
+option_D: 31
+answer: B
+clue: Un = a + (n-1)b → U10 = 2 + 9(3) = 29.
+
+[SOAL]
+text: Diketahui barisan geometri: 2, 6, 18, ... Maka rasio barisan tersebut adalah...
+option_A: 2
+option_B: 3
+option_C: 4
+option_D: 6
+answer: B
+clue: r = 6/2 = 3.
+
+[SOAL]
+text: Diketahui Sn = n/2 [2a + (n-1)d], rumus ini digunakan untuk mencari...
+option_A: Suku ke-n barisan aritmetika
+option_B: Jumlah n suku pertama barisan aritmetika
+option_C: Jumlah n suku pertama barisan geometri
+option_D: Rasio barisan geometri
+answer: B
+clue: Rumus jumlah deret aritmetika.
+
+[SOAL]
+text: Diketahui Un = ar^(n-1), rumus ini digunakan untuk mencari...
+option_A: Jumlah n suku pertama barisan geometri
+option_B: Suku ke-n barisan geometri
+option_C: Rasio barisan geometri
+option_D: Suku pertama barisan geometri
+answer: B
+clue: Rumus suku ke-n barisan geometri.
+
+[SOAL]
+text: Diketahui limit (x→2) (x² - 4)/(x - 2). Nilai limitnya adalah...
+option_A: 2
+option_B: 3
+option_C: 4
+option_D: Tak hingga
+answer: C
+clue: Faktorisasi: (x-2)(x+2)/(x-2) = x+2 → 4.
+
+[SOAL]
+text: Turunan dari f(x) = 3x² adalah...
+option_A: 3x
+option_B: 6x
+option_C: 3
+option_D: 6
+answer: B
+clue: f'(x) = 6x.
+
+[SOAL]
+text: Turunan dari f(x) = sin(x) adalah...
+option_A: cos(x)
+option_B: -cos(x)
+option_C: sin(x)
+option_D: -sin(x)
+answer: A
+clue: f'(sin x) = cos x.
+
+[SOAL]
+text: Turunan dari f(x) = e^x adalah...
+option_A: e^x
+option_B: xe^x
+option_C: e
+option_D: 1
+answer: A
+clue: f'(e^x) = e^x.
+
+[SOAL]
+text: Turunan dari f(x) = ln(x) adalah...
+option_A: x
+option_B: 1/x
+option_C: ln(x)
+option_D: e^x
+answer: B
+clue: f'(ln x) = 1/x.
+
+[SOAL]
+text: Diketahui f(x) = x³ - 3x² + 2. Turunan pertama f(x) adalah...
+option_A: 3x² - 6x
+option_B: 3x² - 6x + 2
+option_C: 3x² - 6x + 1
+option_D: x² - 3x
+answer: A
+clue: Turunan suku-suku.
+
+[SOAL]
+text: Nilai maksimum fungsi f(x) = -x² + 4x adalah...
+option_A: 2
+option_B: 3
+option_C: 4
+option_D: 5
+answer: C
+clue: x = -b/2a = 2, f(2) = 4.
+
+[SOAL]
+text: Diketahui f(x) = x² - 4x + 3. Nilai minimum fungsi tersebut adalah...
+option_A: -1
+option_B: 0
+option_C: 1
+option_D: 2
+answer: A
+clue: x = 2, f(2) = -1.
+
+[SOAL]
+text: Nilai dari ∫ 2x dx adalah...
+option_A: x²
+option_B: x² + C
+option_C: 2x²
+option_D: 2x² + C
+answer: B
+clue: ∫ x^n dx = x^(n+1)/(n+1).
+
+[SOAL]
+text: Diketahui ∫₀² (x + 1) dx. Nilai integral tentu tersebut adalah...
+option_A: 2
+option_B: 3
+option_C: 4
+option_D: 5
+answer: C
+clue: [x²/2 + x]₀² = 2 + 2 = 4.
+
+[SOAL]
+text: Diketahui log₂(8) = ...
+option_A: 2
+option_B: 3
+option_C: 4
+option_D: 8
+answer: B
+clue: 2³ = 8.
+
+[SOAL]
+text: Diketahui log₃(x) = 2, maka x = ...
+option_A: 6
+option_B: 8
+option_C: 9
+option_D: 12
+answer: C
+clue: x = 3² = 9.
+
+[SOAL]
+text: Nilai dari 2^log₂(5) = ...
+option_A: 2
+option_B: 5
+option_C: 10
+option_D: 25
+answer: B
+clue: a^(log_a(x)) = x.
+
+[SOAL]
+text: Jika log a = 2 dan log b = 3, maka log(ab) = ...
+option_A: 5
+option_B: 6
+option_C: 1
+option_D: 1.5
+answer: A
+clue: log(ab) = log a + log b = 2 + 3 = 5.
+
+[SOAL]
+text: Jika log a = 2 dan log b = 3, maka log(a/b) = ...
+option_A: 1
+option_B: -1
+option_C: 5
+option_D: 6
+answer: B
+clue: log(a/b) = log a - log b = 2 - 3 = -1.
+
+[SOAL]
+text: Nilai dari sin(30°) = ...
+option_A: 1/2
+option_B: √2/2
+option_C: √3/2
+option_D: 1
+answer: A
+clue: Nilai standar.
+
+[SOAL]
+text: Nilai dari cos(60°) = ...
+option_A: 1/2
+option_B: √2/2
+option_C: √3/2
+option_D: 1
+answer: A
+clue: Nilai standar.
+
+[SOAL]
+text: Nilai dari tan(45°) = ...
+option_A: 1/2
+option_B: 1
+option_C: √2
+option_D: √3
+answer: B
+clue: tan 45° = 1.
+
+[SOAL]
+text: Diketahui sin A = 3/5, maka cos A = ... (jika A lancip)
+option_A: 4/5
+option_B: 3/4
+option_C: 5/4
+option_D: 5/3
+answer: A
+clue: Gunakan identitas sin²A + cos²A = 1.
+
+[SOAL]
+text: Diketahui segitiga ABC dengan sudut A = 30°, sisi a = 5 cm, dan sisi b = 8 cm. Maka besar sudut B dapat dicari dengan aturan...
+option_A: Sinus
+option_B: Cosinus
+option_C: Tangen
+option_D: Phytagoras
+answer: A
+clue: Aturan sinus: a/sin A = b/sin B.
+
+[SOAL]
+text: Diketahui segitiga ABC dengan sisi a = 6, b = 8, dan sudut C = 60°. Maka panjang sisi c dapat dicari dengan aturan...
+option_A: Sinus
+option_B: Cosinus
+option_C: Tangen
+option_D: Phytagoras
+answer: B
+clue: Aturan cosinus: c² = a² + b² - 2ab cos C.
+
+[SOAL]
+text: Jika f(x) = x² + 1 dan g(x) = 2x, maka (f ∘ g)(x) = ...
+option_A: 2x² + 1
+option_B: (2x)² + 1
+option_C: 4x² + 1
+option_D: 2x² + 2
+answer: C
+clue: f(g(x)) = f(2x) = (2x)² + 1 = 4x² + 1.
+
+[SOAL]
+text: Jika f(x) = 2x + 1, maka invers dari f(x) adalah...
+option_A: (x - 1)/2
+option_B: (x + 1)/2
+option_C: 2x - 1
+option_D: 2x + 1
+answer: A
+clue: y = 2x + 1 → x = (y - 1)/2.
+
+[SOAL]
+text: Jika f(x) = x², maka f⁻¹(x) = ...
+option_A: √x
+option_B: ±√x
+option_C: x²
+option_D: 1/x
+answer: B
+clue: Karena x² = y → x = ±√y.
+
+[SOAL]
+text: Jika logₐ(b) = c, maka bentuk eksponensialnya adalah...
+option_A: a^c = b
+option_B: b^c = a
+option_C: a^b = c
+option_D: c^a = b
+answer: A
+clue: Definisi logaritma.

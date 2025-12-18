@@ -1,0 +1,341 @@
+[SOAL]
+text: Kurva permintaan menunjukkan hubungan antara...
+option_A: Harga dan jumlah barang yang diminta
+option_B: Harga dan jumlah barang yang ditawarkan
+option_C: Biaya dan produksi
+option_D: Pendapatan dan konsumsi
+answer: A
+clue: Hukum permintaan.
+
+[SOAL]
+text: Kurva penawaran menunjukkan hubungan antara...
+option_A: Harga dan jumlah barang yang diminta
+option_B: Harga dan jumlah barang yang ditawarkan
+option_C: Biaya dan produksi
+option_D: Pendapatan dan konsumsi
+answer: B
+clue: Hukum penawaran.
+
+[SOAL]
+text: Pasar faktor produksi modal disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar uang
+option_D: Pasar modal
+answer: D
+clue: Surat berharga, saham, obligasi.
+
+[SOAL]
+text: Fungsi uang sebagai satuan hitung disebut...
+option_A: Medium of exchange
+option_B: Unit of account
+option_C: Store of value
+option_D: Standard of deferred payment
+answer: B
+clue: Menyatakan harga barang/jasa.
+
+[SOAL]
+text: Fungsi uang sebagai penyimpan nilai disebut...
+option_A: Medium of exchange
+option_B: Unit of account
+option_C: Store of value
+option_D: Standard of deferred payment
+answer: C
+clue: Menyimpan kekayaan.
+
+[SOAL]
+text: Inflasi yang disebabkan oleh kenaikan biaya produksi disebut...
+option_A: Demand pull inflation
+option_B: Cost push inflation
+option_C: Structural inflation
+option_D: Monetary inflation
+answer: B
+clue: Biaya produksi naik → harga naik.
+
+[SOAL]
+text: Inflasi yang disebabkan oleh permintaan yang berlebihan disebut...
+option_A: Demand pull inflation
+option_B: Cost push inflation
+option_C: Structural inflation
+option_D: Monetary inflation
+answer: A
+clue: Permintaan > penawaran.
+
+[SOAL]
+text: Kebijakan moneter kontraktif dilakukan dengan cara...
+option_A: Menaikkan suku bunga
+option_B: Menurunkan cadangan wajib
+option_C: Menurunkan suku bunga
+option_D: Menaikkan belanja pemerintah
+answer: A
+clue: Mengurangi jumlah uang beredar.
+
+[SOAL]
+text: Kebijakan fiskal kontraktif dilakukan dengan cara...
+option_A: Menaikkan pajak & menurunkan belanja
+option_B: Menurunkan pajak & menaikkan belanja
+option_C: Menaikkan suku bunga
+option_D: Menaikkan cadangan wajib
+answer: A
+clue: Mengurangi pengeluaran agregat.
+
+[SOAL]
+text: Defisit anggaran terjadi jika...
+option_A: Pendapatan > Pengeluaran
+option_B: Pendapatan < Pengeluaran
+option_C: Pendapatan = Pengeluaran
+option_D: Tidak ada pengeluaran
+answer: B
+clue: Lebih besar pengeluaran.
+
+[SOAL]
+text: Surplus anggaran terjadi jika...
+option_A: Pendapatan > Pengeluaran
+option_B: Pendapatan < Pengeluaran
+option_C: Pendapatan = Pengeluaran
+option_D: Tidak ada pendapatan
+answer: A
+clue: Lebih besar pendapatan.
+
+[SOAL]
+text: Pasar faktor produksi alam disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar sumber daya alam
+option_D: Pasar modal
+answer: C
+clue: Sumber daya alam sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi kewirausahaan disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar wirausaha
+option_D: Pasar modal
+answer: B
+clue: Fungsi wirausaha sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi modal disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar uang
+option_D: Pasar modal
+answer: D
+clue: Modal sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi tenaga kerja disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar uang
+option_D: Pasar modal
+answer: B
+clue: Tenaga kerja sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi tanah disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar sumber daya alam
+option_D: Pasar modal
+answer: C
+clue: Tanah sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi teknologi disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar teknologi
+option_D: Pasar modal
+answer: B
+clue: Teknologi sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi informasi disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar informasi
+option_D: Pasar modal
+answer: B
+clue: Informasi sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi kreativitas disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar kreativitas
+option_D: Pasar modal
+answer: B
+clue: Kreativitas sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi inovasi disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar inovasi
+option_D: Pasar modal
+answer: B
+clue: Inovasi sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi pengetahuan disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar pengetahuan
+option_D: Pasar modal
+answer: B
+clue: Pengetahuan sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi keterampilan disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar keterampilan
+option_D: Pasar modal
+answer: B
+clue: Keterampilan sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi manajemen disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar manajemen
+option_D: Pasar modal
+answer: B
+clue: Manajemen sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi organisasi disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar organisasi
+option_D: Pasar modal
+answer: B
+clue: Organisasi sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi komunikasi disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar komunikasi
+option_D: Pasar modal
+answer: B
+clue: Komunikasi sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi koordinasi disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar koordinasi
+option_D: Pasar modal
+answer: B
+clue: Koordinasi sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi komando disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar komando
+option_D: Pasar modal
+answer: B
+clue: Komando sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi kontrol disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar kontrol
+option_D: Pasar modal
+answer: B
+clue: Kontrol sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi evaluasi disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar evaluasi
+option_D: Pasar modal
+answer: B
+clue: Evaluasi sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi perencanaan disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar perencanaan
+option_D: Pasar modal
+answer: B
+clue: Perencanaan sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi pengambilan keputusan disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar pengambilan keputusan
+option_D: Pasar modal
+answer: B
+clue: Pengambilan keputusan sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi analisis disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar analisis
+option_D: Pasar modal
+answer: B
+clue: Analisis sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi sintesis disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar sintesis
+option_D: Pasar modal
+answer: B
+clue: Sintesis sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi kreativitas dan inovasi disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar kreativitas dan inovasi
+option_D: Pasar modal
+answer: B
+clue: Kreativitas dan inovasi sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi kreativitas dan pengetahuan disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar kreativitas dan pengetahuan
+option_D: Pasar modal
+answer: B
+clue: Kreativitas dan pengetahuan sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi kreativitas dan teknologi disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar kreativitas dan teknologi
+option_D: Pasar modal
+answer: B
+clue: Kreativitas dan teknologi sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi kreativitas dan informasi disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar kreativitas dan informasi
+option_D: Pasar modal
+answer: B
+clue: Kreativitas dan informasi sebagai faktor produksi.
+
+[SOAL]
+text: Pasar faktor produksi kreativitas dan komunikasi disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar kreativitas dan komunikasi
+option_D: Pasar modal
+answer: B
+clue: Kreativitas dan komunikasi sebagai faktor produksi.

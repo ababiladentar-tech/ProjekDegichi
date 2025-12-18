@@ -1,0 +1,341 @@
+[SOAL]
+text: Apa rukun Islam yang pertama?
+option_A: Shalat
+option_B: Puasa
+option_C: Syahadat
+option_D: Zakat
+answer: C
+clue: Diucapkan saat masuk Islam.
+
+[SOAL]
+text: Kitab suci umat Islam adalah...
+option_A: Injil
+option_B: Taurat
+option_C: Zabur
+option_D: Al-Qur'an
+answer: D
+clue: Diturunkan kepada Nabi Muhammad SAW.
+
+[SOAL]
+text: Nabi terakhir dalam Islam adalah...
+option_A: Nabi Isa
+option_B: Nabi Musa
+option_C: Nabi Muhammad
+option_D: Nabi Ibrahim
+answer: C
+clue: Disebut juga sebagai "Khatamul Anbiya".
+
+[SOAL]
+text: Jumlah rakaat shalat Subuh adalah...
+option_A: 2
+option_B: 3
+option_C: 4
+option_D: 5
+answer: A
+clue: 2 rakaat fardhu.
+
+[SOAL]
+text: Bulan suci umat Islam adalah...
+option_A: Muharram
+option_B: Rajab
+option_C: Ramadhan
+option_D: Dzulhijjah
+answer: C
+clue: Bulan puasa wajib.
+
+[SOAL]
+text: Ibadah haji dilaksanakan di kota...
+option_A: Madinah
+option_B: Mekah
+option_C: Mesir
+option_D: Yerusalem
+answer: B
+clue: Ka'bah berada di Masjidil Haram.
+
+[SOAL]
+text: Zakat fitrah wajib dikeluarkan sebelum...
+option_A: Shalat Idul Fitri
+option_B: Shalat Jumat
+option_C: Shalat Dzuhur
+option_D: Buka puasa
+answer: A
+clue: Waktunya sampai shalat Id dimulai.
+
+[SOAL]
+text: Surah pertama dalam Al-Qur'an adalah...
+option_A: Al-Baqarah
+option_B: Ali Imran
+option_C: Al-Fatihah
+option_D: An-Nas
+answer: C
+clue: Wajib dibaca dalam setiap rakaat.
+
+[SOAL]
+text: Malaikat yang meniup sangkakala adalah...
+option_A: Jibril
+option_B: Mikail
+option_C: Israfil
+option_D: Izrail
+answer: C
+clue: Pada hari kiamat.
+
+[SOAL]
+text: Hari kiamat disebut juga...
+option_A: Yaumul Jaza'
+option_B: Yaumul Hisab
+option_C: Yaumul Ba'ats
+option_D: Yaumul Qiyamah
+answer: D
+clue: Hari kebangkitan.
+
+[SOAL]
+text: Puasa Ramadhan rukun Islam ke...
+option_A: 1
+option_B: 2
+option_C: 3
+option_D: 4
+answer: C
+clue: Setelah syahadat & shalat.
+
+[SOAL]
+text: Zakat mal wajib jika harta capai...
+option_A: Nisab
+option_B: Fidyah
+option_C: Kaffarat
+option_D: Mahr
+answer: A
+clue: Minimal 85g emas/setara.
+
+[SOAL]
+text: Shalat Jumat wajib bagi...
+option_A: Semua muslim
+option_B: Laki-laki muslim baligh
+option_C: Perempuan muslim
+option_D: Anak-anak
+answer: B
+clue: Kecuali musafir atau sakit.
+
+[SOAL]
+text: Tayamum boleh jika...
+option_A: Tidak ada air atau sakit
+option_B: Air dingin
+option_C: Malas
+option_D: Hujan
+answer: A
+clue: Pengganti wudhu.
+
+[SOAL]
+text: Nabi yang membelah laut adalah...
+option_A: Nabi Musa
+option_B: Nabi Isa
+option_C: Nabi Yusuf
+option_D: Nabi Sulaiman
+answer: A
+clue: Laut Merah.
+
+[SOAL]
+text: Nabi yang bicara dengan hewan...
+option_A: Nabi Adam
+option_B: Nabi Nuh
+option_C: Nabi Sulaiman
+option_D: Nabi Daud
+answer: C
+clue: Diberi kerajaan besar.
+
+[SOAL]
+text: Surah tanpa "Bismillah" adalah...
+option_A: Al-Fatihah
+option_B: At-Taubah
+option_C: Al-Ikhlas
+option_D: An-Nas
+answer: B
+clue: Hanya satu di Al-Qur'an.
+
+[SOAL]
+text: Malaikat pencatat amal baik...
+option_A: Raqib
+option_B: Atid
+option_C: Jibril
+option_D: Mikail
+answer: A
+clue: Di sebelah kanan.
+
+[SOAL]
+text: Kitab Zabur untuk Nabi...
+option_A: Musa
+option_B: Daud
+option_C: Isa
+option_D: Muhammad
+answer: B
+clue: Berisi zikir & puji-pujian.
+
+[SOAL]
+text: Hari pembalasan disebut...
+option_A: Yaumul Mizan
+option_B: Yaumul Hisab
+option_C: Yaumul Jaza'
+option_D: Semua benar
+answer: D
+clue: Semua istilah benar.
+
+[SOAL]
+text: Shalat sunnah sebelum Subuh...
+option_A: Qabliyah Subuh
+option_B: Ba'diyah Subuh
+option_C: Tahajud
+option_D: Witir
+answer: A
+clue: 2 rakaat.
+
+[SOAL]
+text: Puasa Senin-Kamis hukumnya...
+option_A: Wajib
+option_B: Sunnah
+option_C: Makruh
+option_D: Haram
+answer: B
+clue: Dicontohkan Nabi.
+
+[SOAL]
+text: Niat zakat fitrah...
+option_A: "Nawaitu an ukhrija zakaata fithri..."
+option_B: "Nawaitu shouma ghadin..."
+option_C: "Ushalli fardhal maghribi..."
+option_D: "Allahu Akbar"
+answer: A
+clue: Saat membayar.
+
+[SOAL]
+text: Haji ifrad artinya...
+option_A: Haji saja
+option_B: Umrah dulu
+option_C: Bersamaan
+option_D: Bawa hewan
+answer: A
+clue: Tanpa umrah.
+
+[SOAL]
+text: Waktu mustajab Jumat...
+option_A: Setelah Ashar
+option_B: Saat khutbah
+option_C: Antara Ashar-Maghrib
+option_D: Saat imam duduk antara khutbah
+answer: D
+clue: Saat ijabah.
+
+[SOAL]
+text: Shalat tanpa azan...
+option_A: Jumat
+option_B: Id
+option_C: Dzuhur
+option_D: Maghrib
+answer: B
+clue: Idul Fitri/Adha.
+
+[SOAL]
+text: Bacaan rukuk...
+option_A: Al-Fatihah
+option_B: Al-Ikhlas
+option_C: Subhanallah (3x)
+option_D: Ayat Kursi
+answer: C
+clue: Bukan ayat.
+
+[SOAL]
+text: Malaikat pencabut nyawa...
+option_A: Jibril
+option_B: Mikail
+option_C: Israfil
+option_D: Izrail
+answer: D
+clue: Malaikat Maut.
+
+[SOAL]
+text: Nabi dibakar tapi selamat...
+option_A: Nabi Ibrahim
+option_B: Nabi Luth
+option_C: Nabi Yunus
+option_D: Nabi Ayub
+answer: A
+clue: Api jadi dingin.
+
+[SOAL]
+text: Puasa haram...
+option_A: Sehari penuh tanpa buka
+option_B: Ramadhan
+option_C: Senin-Kamis
+option_D: Arafah
+answer: A
+clue: Puasa wishal.
+
+[SOAL]
+text: Zakat profesi termasuk...
+option_A: Zakat fitrah
+option_B: Zakat mal
+option_C: Zakat tanaman
+option_D: Zakat emas
+answer: B
+clue: Harta berkembang.
+
+[SOAL]
+text: Shalat Tarawih setelah...
+option_A: Maghrib
+option_B: Isya
+option_C: Subuh
+option_D: Dzuhur
+answer: B
+clue: Malam Ramadhan.
+
+[SOAL]
+text: Surah Al-Kafirun ayat...
+option_A: 4
+option_B: 5
+option_C: 6
+option_D: 7
+answer: C
+clue: "Qul ya ayyuhal kafirun...".
+
+[SOAL]
+text: Kota hijrah Nabi...
+option_A: Mekah
+option_B: Madinah
+option_C: Thaif
+option_D: Yerusalem
+answer: B
+clue: Dari Mekah ke Yastrib.
+
+[SOAL]
+text: Perang pertama Islam...
+option_A: Uhud
+option_B: Khandaq
+option_C: Badar
+option_D: Tabuk
+answer: C
+clue: Tahun 2 H.
+
+[SOAL]
+text: Sahabat pertama masuk Islam...
+option_A: Abu Bakar
+option_B: Umar
+option_C: Utsman
+option_D: Ali
+answer: A
+clue: Ash-Shiddiq.
+
+[SOAL]
+text: Khutbah Jumat disampaikan...
+option_A: Duduk
+option_B: Berdiri
+option_C: Berbaring
+option_D: Rukuk
+answer: B
+clue: Imam berdiri.
+
+[SOAL]
+text: Waktu Dzuhur dimulai saat...
+option_A: Matahari terbit
+option_B: Matahari condong
+option_C: Matahari di atas kepala
+option_D: Bayangan = benda
+answer: B
+clue: Condong ke barat.

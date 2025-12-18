@@ -1,0 +1,359 @@
+[SOAL]
+text: The correct form of "go" in past tense is...
+option_A: goed
+option_B: went
+option_C: gone
+option_D: going
+answer: B
+clue: It's an irregular verb.
+
+[SOAL]
+text: "She ______ to school every day."
+option_A: go
+option_B: goes
+option_C: went
+option_D: going
+answer: B
+clue: Third person singular present tense.
+
+[SOAL]
+text: The past participle of "eat" is...
+option_A: eat
+option_B: ate
+option_C: eaten
+option_D: eating
+answer: C
+clue: Used in present perfect: have + past participle.
+
+[SOAL]
+text: "If I ______ you, I would study harder."
+option_A: am
+option_B: was
+option_C: were
+option_D: be
+answer: C
+clue: Second conditional: If + subject + were/was...
+
+[SOAL]
+text: "She has lived here since 2010." This sentence uses the...
+option_A: Simple Past
+option_B: Present Perfect
+option_C: Past Perfect
+option_D: Future Perfect
+answer: B
+clue: "Has/have + past participle" + "since/for".
+
+[SOAL]
+text: The synonym of "happy" is...
+option_A: Sad
+option_B: Joyful
+option_C: Angry
+option_D: Tired
+answer: B
+clue: Words with similar meaning.
+
+[SOAL]
+text: The antonym of "strong" is...
+option_A: Weak
+option_B: Powerful
+option_C: Big
+option_D: Tall
+answer: A
+clue: Words with opposite meaning.
+
+[SOAL]
+text: "I will call you ______ I arrive."
+option_A: after
+option_B: before
+option_C: when
+option_D: until
+answer: C
+clue: Time clause connector.
+
+[SOAL]
+text: The plural of "child" is...
+option_A: childs
+option_B: childes
+option_C: children
+option_D: child's
+answer: C
+clue: Irregular plural.
+
+[SOAL]
+text: "She is ______ architect."
+option_A: a
+option_B: an
+option_C: the
+option_D: -
+answer: B
+clue: Before words starting with vowel sound.
+
+[SOAL]
+text: "He ______ his homework yesterday."
+option_A: finish
+option_B: finishes
+option_C: finished
+option_D: finishing
+answer: C
+clue: Simple past tense.
+
+[SOAL]
+text: "Don't forget ______ your homework."
+option_A: doing
+option_B: to do
+option_C: do
+option_D: did
+answer: B
+clue: Verb pattern: forget + to + V1.
+
+[SOAL]
+text: "She enjoys ______ novels."
+option_A: read
+option_B: to read
+option_C: reading
+option_D: reads
+answer: C
+clue: Enjoy + V-ing.
+
+[SOAL]
+text: The comparative form of "good" is...
+option_A: goods
+option_B: gooder
+option_C: better
+option_D: more good
+answer: C
+clue: Irregular comparative.
+
+[SOAL]
+text: The superlative form of "bad" is...
+option_A: badder
+option_B: more bad
+option_C: worse
+option_D: worst
+answer: D
+clue: Irregular superlative.
+
+[SOAL]
+text: "I have ______ seen that movie."
+option_A: always
+option_B: never
+option_C: often
+option_D: usually
+answer: B
+clue: Negative adverb for present perfect.
+
+[SOAL]
+text: "The book ______ I borrowed is interesting."
+option_A: who
+option_B: whom
+option_C: whose
+option_D: which
+answer: D
+clue: Relative pronoun for objects (things).
+
+[SOAL]
+text: "She ______ when the phone rang."
+option_A: cooks
+option_B: cooked
+option_C: was cooking
+option_D: is cooking
+answer: C
+clue: Past continuous (was/were + V-ing) when interrupted.
+
+[SOAL]
+text: "By next week, I ______ my project."
+option_A: finish
+option_B: will finish
+option_C: will have finished
+option_D: finished
+answer: C
+clue: Future perfect: will have + past participle.
+
+[SOAL]
+text: "He asked me ______ I was coming."
+option_A: if
+option_B: what
+option_C: why
+option_D: how
+answer: A
+clue: Reported speech for yes/no question.
+
+[SOAL]
+text: "She said she ______ tired."
+option_A: is
+option_B: was
+option_C: will be
+option_D: has been
+answer: B
+clue: Reported speech: past tense shifts one step back.
+
+[SOAL]
+text: "The cake ______ by my mother."
+option_A: made
+option_B: makes
+option_C: was made
+option_D: is made
+answer: C
+clue: Passive voice: be + past participle.
+
+[SOAL]
+text: "It is important ______ hard."
+option_A: study
+option_B: to study
+option_C: studying
+option_D: studied
+answer: B
+clue: It is + adjective + to + V1.
+
+[SOAL]
+text: "She is interested ______ learning English."
+option_A: in
+option_B: on
+option_C: at
+option_D: to
+answer: A
+clue: Preposition after "interested".
+
+[SOAL]
+text: "He is good ______ playing football."
+option_A: in
+option_B: at
+option_C: on
+option_D: for
+answer: B
+clue: Preposition after "good".
+
+[SOAL]
+text: "I'm looking forward ______ meeting you."
+option_A: in
+option_B: at
+option_C: to
+option_D: on
+answer: C
+clue: Look forward to + V-ing.
+
+[SOAL]
+text: "She is ______ than her sister."
+option_A: tall
+option_B: taller
+option_C: tallest
+option_D: more tall
+answer: B
+clue: Comparative form.
+
+[SOAL]
+text: "This is ______ book I have ever read."
+option_A: good
+option_B: better
+option_C: best
+option_D: the best
+answer: D
+clue: Superlative with article "the".
+
+[SOAL]
+text: "He has ______ money than I do."
+option_A: little
+option_B: less
+option_C: least
+option_D: few
+answer: B
+clue: Comparative for uncountable nouns.
+
+[SOAL]
+text: "She ______ to Jakarta next month."
+option_A: go
+option_B: goes
+option_C: will go
+option_D: went
+answer: C
+clue: Future tense with "will".
+
+[SOAL]
+text: "She ______ her keys. She can't find them."
+option_A: loses
+option_B: lost
+option_C: has lost
+option_D: lose
+answer: C
+clue: Present perfect shows result of past action.
+
+[SOAL]
+text: "If it rains, we ______ stay inside."
+option_A: will
+option_B: would
+option_C: can
+option_D: should
+answer: A
+clue: First conditional: if + present, will + V1.
+
+[SOAL]
+text: "He speaks English ______ than I do."
+option_A: well
+option_B: good
+option_C: better
+option_D: best
+answer: C
+clue: Comparative adverb.
+
+[SOAL]
+text: "I ______ to the store yesterday."
+option_A: go
+option_B: went
+option_C: goes
+option_D: going
+answer: B
+clue: Simple past tense.
+
+[SOAL]
+text: "She ______ a letter right now."
+option_A: writes
+option_B: wrote
+option_C: is writing
+option_D: has written
+answer: C
+clue: Present continuous (am/is/are + V-ing).
+
+[SOAL]
+text: "The students ______ their lessons when the bell rang."
+option_A: review
+option_B: reviewed
+option_C: were reviewing
+option_D: had reviewed
+answer: C
+clue: Past continuous for ongoing action.
+
+[SOAL]
+text: "By the time I arrived, they ______ left."
+option_A: have
+option_B: had
+option_C: will have
+option_D: are
+answer: B
+clue: Past perfect: had + past participle.
+
+[SOAL]
+text: "She wishes she ______ taller."
+option_A: is
+option_B: was
+option_C: were
+option_D: will be
+answer: C
+clue: Wish + subject + were (for present unreal).
+
+[SOAL]
+text: "It's time ______ go home."
+option_A: for us
+option_B: us to
+option_C: we to
+option_D: we
+answer: B
+clue: It's time + object + to + V1.
+
+[SOAL]
+text: "He suggested ______ early."
+option_A: leave
+option_B: leaving
+option_C: to leave
+option_D: left
+answer: B
+clue: Suggest + V-ing.

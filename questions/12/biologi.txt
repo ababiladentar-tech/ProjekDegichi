@@ -1,0 +1,368 @@
+[SOAL]
+text: Hukum pewarisan sifat yang ditemukan oleh Mendel disebut...
+option_A: Hukum Hardy-Weinberg
+option_B: Hukum Segregasi dan Independent Assortment
+option_C: Hukum Dominansi
+option_D: Hukum Pewarisan Intermedier
+answer: B
+clue: Hukum I dan II Mendel.
+
+[SOAL]
+text: Hukum Segregasi menyatakan bahwa...
+option_A: Alel berpisah saat pembentukan gamet
+option_B: Alel berpisah saat fertilisasi
+option_C: Alel bergabung saat pembentukan gamet
+option_D: Alel tidak berpengaruh pada sifat
+answer: A
+clue: Setiap gamet hanya menerima satu alel.
+
+[SOAL]
+text: Hukum Independent Assortment menyatakan bahwa...
+option_A: Alel berpisah saat pembentukan gamet
+option_B: Alel dari gen berbeda diwariskan secara bebas
+option_C: Alel selalu dominan
+option_D: Alel tidak pernah terpisah
+answer: B
+clue: Gen yang berbeda diwariskan secara independen.
+
+[SOAL]
+text: Persilangan antara individu dengan genotipe AaBb × AaBb menghasilkan perbandingan fenotipe...
+option_A: 9:3:3:1
+option_B: 3:1
+option_C: 1:2:1
+option_D: 1:1:1:1
+answer: A
+clue: Dihibrid, dominan penuh.
+
+[SOAL]
+text: Persilangan antara individu dengan genotipe Aa × Aa menghasilkan perbandingan genotipe...
+option_A: 1:2:1
+option_B: 3:1
+option_C: 9:3:3:1
+option_D: 1:1:1:1
+answer: A
+clue: AA:Aa:aa = 1:2:1.
+
+[SOAL]
+text: Penyakit menurun yang ditularkan melalui kromosom X disebut...
+option_A: Autosomal dominan
+option_B: Autosomal resesif
+option_C: Gonosom dominan
+option_D: Terpaut seks
+answer: D
+clue: Contoh: buta warna, hemofilia.
+
+[SOAL]
+text: Penyakit buta warna disebabkan oleh gen resesif yang terpaut pada kromosom...
+option_A: Y
+option_B: X
+option_C: 21
+option_D: 18
+answer: B
+clue: X-linked recessive.
+
+[SOAL]
+text: Hemofilia adalah penyakit yang menyebabkan darah...
+option_A: Membeku normal
+option_B: Tidak membeku normal
+option_C: Membeku cepat
+option_D: Tidak mengandung sel darah
+answer: B
+clue: Gangguan pembekuan darah.
+
+[SOAL]
+text: Peta silang digunakan untuk mengetahui...
+option_A: Jumlah kromosom
+option_B: Jumlah gen
+option_C: Jarak antar gen dalam kromosom
+option_D: Tipe alel
+answer: C
+clue: Frekuensi rekombinasi.
+
+[SOAL]
+text: Mutasi gen disebut juga...
+option_A: Mutasi kromosom
+option_B: Mutasi titik
+option_C: Mutasi besar
+option_D: Aneuploidi
+answer: B
+clue: Perubahan satu atau beberapa basa.
+
+[SOAL]
+text: Perubahan urutan basa nitrogen dalam DNA disebut...
+option_A: Rekombinasi
+option_B: Mutasi
+option_C: Replikasi
+option_D: Transkripsi
+answer: B
+clue: Sumber variasi genetik.
+
+[SOAL]
+text: Mutasi yang tidak mengubah jumlah kromosom disebut...
+option_A: Aneuploidi
+option_B: Euploidi
+option_C: Mutasi gen
+option_D: Delesi
+answer: C
+clue: Hanya mengubah urutan gen.
+
+[SOAL]
+text: Mutasi yang menyebabkan kehilangan satu atau lebih segmen kromosom disebut...
+option_A: Inversi
+option_B: Duplikasi
+option_C: Delesi
+option_D: Translokasi
+answer: C
+clue: Kehilangan fragmen kromosom.
+
+[SOAL]
+text: Evolusi adalah perubahan...
+option_A: Gen dalam populasi dari waktu ke waktu
+option_B: Morfologi individu
+option_C: Lingkungan
+option_D: Makanan
+answer: A
+clue: Proses perubahan genetik.
+
+[SOAL]
+text: Teori evolusi yang menyatakan bahwa makhluk hidup berasal dari nenek moyang yang sama adalah teori...
+option_A: Lamarck
+option_B: Darwin
+option_C: Malthus
+option_D: Wallace
+answer: B
+clue: Seleksi alam.
+
+[SOAL]
+text: Fosil adalah bukti evolusi berupa...
+option_A: Struktur analog
+option_B: Sisa makhluk hidup purba
+option_C: Embrio
+option_D: Organ vestigial
+answer: B
+clue: Jejak masa lalu.
+
+[SOAL]
+text: Struktur analog adalah organ yang...
+option_A: Memiliki fungsi sama, struktur berbeda
+option_B: Memiliki struktur sama, fungsi berbeda
+option_C: Memiliki struktur dan fungsi sama
+option_D: Tidak berfungsi
+answer: A
+clue: Sayap burung dan sayap serangga.
+
+[SOAL]
+text: Struktur homolog adalah organ yang...
+option_A: Memiliki fungsi sama, struktur berbeda
+option_B: Memiliki struktur sama, fungsi berbeda
+option_C: Memiliki struktur dan fungsi sama
+option_D: Tidak berfungsi
+answer: B
+clue: Lengan manusia dan sirip paus.
+
+[SOAL]
+text: Organ vestigial adalah organ yang...
+option_A: Berfungsi penuh
+option_B: Tidak berfungsi atau berfungsi minimal
+option_C: Rusak
+option_D: Tidak ada
+answer: B
+clue: Usus buntu pada manusia.
+
+[SOAL]
+text: Faktor-faktor yang menyebabkan evolusi adalah...
+option_A: Mutasi, seleksi alam, isolasi
+option_B: Makanan, air, udara
+option_C: Cuaca dan iklim
+option_D: Habitat dan populasi
+answer: A
+clue: Mekanisme evolusi.
+
+[SOAL]
+text: Seleksi alam adalah proses di mana individu dengan sifat tertentu...
+option_A: Tidak mampu bertahan hidup
+option_B: Lebih mampu bertahan hidup dan berkembang biak
+option_C: Punah
+option_D: Berpindah habitat
+answer: B
+clue: Survival of the fittest.
+
+[SOAL]
+text: Rekayasa genetika adalah teknik untuk...
+option_A: Memperbanyak individu
+option_B: Mengubah urutan DNA
+option_C: Mengamati sel
+option_D: Mengganti organ
+answer: B
+clue: Manipulasi genetik.
+
+[SOAL]
+text: Teknik PCR (Polymerase Chain Reaction) digunakan untuk...
+option_A: Menggandakan DNA
+option_B: Memotong DNA
+option_C: Mengubah RNA
+option_D: Menganalisis protein
+answer: A
+clue: Amplifikasi DNA.
+
+[SOAL]
+text: Enzim restriksi digunakan untuk...
+option_A: Menggandakan DNA
+option_B: Memotong DNA
+option_C: Menggabungkan DNA
+option_D: Mentranskripsi DNA
+answer: B
+clue: Gunting molekuler.
+
+[SOAL]
+text: Vektor dalam rekayasa genetika biasanya berupa...
+option_A: Sel tumbuhan
+option_B: Virus atau plasmid
+option_C: Sel hewan
+option_D: DNA
+answer: B
+clue: Pembawa gen asing.
+
+[SOAL]
+text: Contoh produk bioteknologi konvensional adalah...
+option_A: Insulin
+option_B: Antibiotik
+option_C: Vaksin
+option_D: Hormon pertumbuhan
+answer: B
+clue: Dihasilkan oleh mikroorganisme.
+
+[SOAL]
+text: Contoh produk bioteknologi modern adalah...
+option_A: Yogurt
+option_B: Tempe
+option_C: Insulin rekombinan
+option_D: Keju
+answer: C
+clue: Dibuat dengan teknik DNA rekombinan.
+
+[SOAL]
+text: Keanekaragaman hayati tingkat gen terjadi karena...
+option_A: Perbedaan spesies
+option_B: Perbedaan individu dalam spesies
+option_C: Perbedaan ekosistem
+option_D: Perbedaan habitat
+answer: B
+clue: Variasi dalam satu spesies.
+
+[SOAL]
+text: Keanekaragaman hayati tingkat spesies terjadi karena...
+option_A: Perbedaan gen
+option_B: Perbedaan individu dalam spesies
+option_C: Perbedaan jenis organisme
+option_D: Perbedaan ekosistem
+answer: C
+clue: Macam-macam spesies.
+
+[SOAL]
+text: Keanekaragaman hayati tingkat ekosistem terjadi karena...
+option_A: Perbedaan gen
+option_B: Perbedaan spesies
+option_C: Perbedaan komunitas dan lingkungan
+option_D: Perbedaan individu
+answer: C
+clue: Interaksi makhluk hidup dan lingkungan.
+
+[SOAL]
+text: Rantai makanan yang benar adalah...
+option_A: Produsen → Konsumen 1 → Konsumen 2 → Pengurai
+option_B: Konsumen → Produsen → Pengurai
+option_C: Pengurai → Konsumen → Produsen
+option_D: Konsumen → Pengurai → Produsen
+answer: A
+clue: Aliran energi.
+
+[SOAL]
+text: Dalam piramida makanan, jumlah individu paling sedikit adalah...
+option_A: Produsen
+option_B: Konsumen tingkat 1
+option_C: Konsumen tingkat 2
+option_D: Konsumen puncak
+answer: D
+clue: Energi berkurang seiring trofik.
+
+[SOAL]
+text: Simbiosis mutualisme adalah hubungan yang...
+option_A: Menguntungkan salah satu pihak
+option_B: Merugikan salah satu pihak
+option_C: Menguntungkan kedua belah pihak
+option_D: Tidak saling mempengaruhi
+answer: C
+clue: Contoh: lebah dan bunga.
+
+[SOAL]
+text: Simbiosis parasitisme adalah hubungan yang...
+option_A: Menguntungkan kedua belah pihak
+option_B: Merugikan salah satu pihak
+option_C: Menguntungkan salah satu pihak
+option_D: Tidak saling mempengaruhi
+answer: C
+clue: Contoh: cacing dan manusia.
+
+[SOAL]
+text: Simbiosis komensalisme adalah hubungan yang...
+option_A: Menguntungkan kedua belah pihak
+option_B: Merugikan salah satu pihak
+option_C: Menguntungkan salah satu pihak, tidak merugikan yang lain
+option_D: Tidak saling mempengaruhi
+answer: C
+clue: Contoh: ikan remora dan hiu.
+
+[SOAL]
+text: Faktor biotik dalam ekosistem adalah...
+option_A: Cahaya, suhu, air
+option_B: Tanah, udara, suhu
+option_C: Tumbuhan, hewan, mikroorganisme
+option_D: Iklim dan cuaca
+answer: C
+clue: Makhluk hidup.
+
+[SOAL]
+text: Faktor abiotik dalam ekosistem adalah...
+option_A: Tumbuhan dan hewan
+option_B: Mikroorganisme
+option_C: Cahaya, air, suhu
+option_D: Populasi
+answer: C
+clue: Benda mati.
+
+[SOAL]
+text: Perubahan suhu global dapat menyebabkan...
+option_A: Peningkatan keanekaragaman hayati
+option_B: Kepunahan spesies
+option_C: Penurunan populasi predator
+option_D: Meningkatnya populasi herbivora
+answer: B
+clue: Perubahan habitat.
+
+[SOAL]
+text: Polusi air dapat menyebabkan...
+option_A: Peningkatan kadar oksigen
+option_B: Penurunan kadar oksigen
+option_C: Penurunan suhu air
+option_D: Meningkatnya populasi ikan
+answer: B
+clue: Eutrofikasi.
+
+[SOAL]
+text: Penghijauan dapat membantu mengurangi...
+option_A: Polusi suara
+option_B: Polusi udara
+option_C: Polusi tanah
+option_D: Polusi air
+answer: B
+clue: Penyerapan CO₂ dan produksi O₂.
+
+[SOAL]
+text: CFC (Chlorofluorocarbon) menyebabkan kerusakan...
+option_A: Ozon
+option_B: Oksigen
+option_C: Karbon dioksida
+option_D: Nitrogen
+answer: A
+clue: Lubang ozon.

@@ -1,0 +1,350 @@
+[SOAL]
+text: Ilmu yang mempelajari kelangkaan sumber daya adalah...
+option_A: Sosiologi
+option_B: Ekonomi
+option_C: Geografi
+option_D: Sejarah
+answer: B
+clue: "Scarcity" sebagai dasar.
+
+[SOAL]
+text: Permintaan dan penawaran bertemu di...
+option_A: Pasar
+option_B: Bank
+option_C: Pabrik
+option_D: Rumah
+answer: A
+clue: Titik keseimbangan harga.
+
+[SOAL]
+text: Hukum permintaan menyatakan hubungan harga dan jumlah yang diminta bersifat...
+option_A: Sebanding
+option_B: Berbanding terbalik
+option_C: Tidak berhubungan
+option_D: Eksponensial
+answer: B
+clue: Harga naik → permintaan turun.
+
+[SOAL]
+text: Biaya yang harus dibayar jika memilih alternatif tertentu disebut...
+option_A: Biaya tetap
+option_B: Biaya variabel
+option_C: Biaya oportunitas
+option_D: Biaya produksi
+answer: C
+clue: Biaya kesempatan.
+
+[SOAL]
+text: Pasar di mana hanya ada satu penjual disebut...
+option_A: Monopoli
+option_B: Oligopoli
+option_C: Persaingan sempurna
+option_D: Monopolistik
+answer: A
+clue: PLN, PDAM contohnya.
+
+[SOAL]
+text: Kebijakan pemerintah untuk mengatur perekonomian disebut...
+option_A: Kebijakan moneter
+option_B: Kebijakan fiskal
+option_C: Kebijakan ekonomi
+option_D: Kebijakan publik
+answer: C
+clue: Moneter & fiskal termasuk di dalamnya.
+
+[SOAL]
+text: Bank sentral di Indonesia adalah...
+option_A: Bank Mandiri
+option_B: BRI
+option_C: BCA
+option_D: Bank Indonesia
+answer: D
+clue: Penjaga stabilitas moneter.
+
+[SOAL]
+text: Inflasi adalah kenaikan harga secara...
+option_A: Sementara
+option_B: Umum & terus-menerus
+option_C: Musiman
+option_D: Lokal
+answer: B
+clue: Indikator stabilitas ekonomi.
+
+[SOAL]
+text: Produk Domestik Bruto (PDB) mengukur...
+option_A: Nilai semua barang & jasa yang diproduksi
+option_B: Jumlah uang beredar
+option_C: Tingkat pengangguran
+option_D: Neraca perdagangan
+answer: A
+clue: Dalam satu tahun di suatu negara.
+
+[SOAL]
+text: Kurs valuta asing ditentukan oleh...
+option_A: Bank Indonesia
+option_B: Pasar
+option_C: Pemerintah
+option_D: IMF
+answer: B
+clue: Sistem kurs mengambang.
+
+[SOAL]
+text: Perdagangan antarnegara disebut...
+option_A: Perdagangan domestik
+option_B: Perdagangan internasional
+option_C: Ekspor
+option_D: Impor
+answer: B
+clue: Ekspor & impor termasuk di dalamnya.
+
+[SOAL]
+text: Pajak yang dikenakan pada barang mewah adalah...
+option_A: Pajak langsung
+option_B: Pajak tidak langsung
+option_C: Pajak progresif
+option_D: Pajak regresif
+answer: B
+clue: PPN, cukai termasuk di sini.
+
+[SOAL]
+text: APBN adalah singkatan dari...
+option_A: Anggaran Pendapatan dan Belanja Negara
+option_B: Anggaran Penerimaan dan Belanja Nasional
+option_C: Anggaran Proyek dan Belanja Negara
+option_D: Anggaran Pengeluaran dan Belanja Nasional
+answer: A
+clue: Rencana keuangan tahunan pemerintah.
+
+[SOAL]
+text: Obligasi adalah...
+option_A: Saham perusahaan
+option_B: Surat utang
+option_C: Simpanan di bank
+option_D: Emas batangan
+answer: B
+clue: Surat berharga jangka panjang.
+
+[SOAL]
+text: Saham biasa memberikan hak kepada pemegangnya untuk...
+option_A: Menerima bunga tetap
+option_B: Mengambil alih perusahaan
+option_C: Hadir dalam RUPS & membagi laba
+option_D: Menarik dana kapan saja
+answer: C
+clue: Dividen & hak suara.
+
+[SOAL]
+text: Resesi ekonomi ditandai dengan pertumbuhan ekonomi negatif selama...
+option_A: 1 kuartal
+option_B: 2 kuartal berturut-turut
+option_C: 1 tahun
+option_D: 6 bulan
+answer: B
+clue: Definisi standar internasional.
+
+[SOAL]
+text: Koperasi berdasarkan asas...
+option_A: Keuntungan
+option_B: Keanggotaan
+option_C: Modal
+option_D: Kekeluargaan
+answer: D
+clue: UU No. 25/1992.
+
+[SOAL]
+text: BUMN adalah badan usaha yang seluruh/modal mayoritas dimiliki oleh...
+option_A: Swasta
+option_B: Pemerintah
+option_C: Asing
+option_D: Koperasi
+answer: B
+clue: Contoh: Pertamina, PLN.
+
+[SOAL]
+text: Neraca perdagangan surplus jika...
+option_A: Ekspor > Impor
+option_B: Impor > Ekspor
+option_C: Ekspor = Impor
+option_D: Tidak ada perdagangan
+answer: A
+clue: Positif untuk perekonomian.
+
+[SOAL]
+text: Fungsi uang sebagai alat tukar disebut...
+option_A: Medium of exchange
+option_B: Unit of account
+option_C: Store of value
+option_D: Standard of deferred payment
+answer: A
+clue: Mempermudah transaksi.
+
+[SOAL]
+text: Kebijakan menurunkan suku bunga termasuk kebijakan...
+option_A: Fiskal ekspansif
+option_B: Fiskal kontraktif
+option_C: Moneter ekspansif
+option_D: Moneter kontraktif
+answer: C
+clue: Mendorong investasi & konsumsi.
+
+[SOAL]
+text: Pengangguran karena pergantian pekerjaan disebut...
+option_A: Friksional
+option_B: Struktural
+option_C: Siklikal
+option_D: Musiman
+answer: A
+clue: Sementara, mencari pekerjaan baru.
+
+[SOAL]
+text: Indeks Harga Konsumen (IHK) digunakan untuk mengukur...
+option_A: Inflasi
+option_B: Pertumbuhan ekonomi
+option_C: Pengangguran
+option_D: Kemiskinan
+answer: A
+clue: Perubahan harga barang konsumsi.
+
+[SOAL]
+text: Perusahaan yang sahamnya diperdagangkan di bursa efek disebut...
+option_A: Perusahaan tertutup
+option_B: Perusahaan terbuka
+option_C: PT
+option_D: CV
+answer: B
+clue: Go public.
+
+[SOAL]
+text: Nilai uang rupiah terhadap dolar AS turun disebut...
+option_A: Apresiasi
+option_B: Depresiasi
+option_C: Revaluasi
+option_D: Devaluasi
+answer: B
+clue: Rupiah melemah.
+
+[SOAL]
+text: Tabungan termasuk dalam uang...
+option_A: M1
+option_B: M2
+option_C: M3
+option_D: M0
+answer: B
+clue: M1 (uang kartal & giral), M2 = M1 + tabungan.
+
+[SOAL]
+text: Laporan keuangan yang menunjukkan posisi keuangan perusahaan adalah...
+option_A: Laporan laba rugi
+option_B: Laporan arus kas
+option_C: Neraca
+option_D: Laporan perubahan modal
+answer: C
+clue: Aset, kewajiban, ekuitas.
+
+[SOAL]
+text: Prinsip ekonomi adalah...
+option_A: Dengan korban sekecil-kecilnya memperoleh hasil sebesar-besarnya
+option_B: Mencari keuntungan sebanyak-banyaknya
+option_C: Menghindari risiko
+option_D: Memaksimalkan konsumsi
+answer: A
+clue: Efisiensi sumber daya.
+
+[SOAL]
+text: Pasar faktor produksi tenaga kerja disebut juga...
+option_A: Pasar barang
+option_B: Pasar jasa
+option_C: Pasar uang
+option_D: Pasar modal
+answer: B
+clue: Upah sebagai balas jasa.
+
+[SOAL]
+text: Globalisasi ekonomi ditandai dengan...
+option_A: Perdagangan bebas
+option_B: Proteksionisme
+option_C: Subsidi
+option_D: Kuota
+answer: A
+clue: WTO, AFTA, dll.
+
+[SOAL]
+text: Kebijakan perdagangan yang membatasi impor disebut...
+option_A: Kuota
+option_B: Tarif
+option_C: Proteksionisme
+option_D: Semua benar
+answer: D
+clue: Semua alat proteksi.
+
+[SOAL]
+text: Fungsi bank umum adalah...
+option_A: Menghimpun dana
+option_B: Menyalurkan dana
+option_C: Membiayai proyek
+option_D: Semua benar
+answer: D
+clue: Intermediasi keuangan.
+
+[SOAL]
+text: Surat berharga jangka pendek dikeluarkan oleh...
+option_A: Bank Indonesia
+option_B: Pemerintah
+option_C: Perusahaan
+option_D: Semua benar
+answer: D
+clue: SBI, SPN, Commercial Paper.
+
+[SOAL]
+text: Analisis SWOT terdiri dari...
+option_A: Strengths, Weaknesses, Opportunities, Threats
+option_B: Sales, Workers, Output, Time
+option_C: Strategy, Work, Operation, Target
+option_D: System, Workforce, Output, Technology
+answer: A
+clue: Analisis lingkungan bisnis.
+
+[SOAL]
+text: Break even point (BEP) adalah titik di mana...
+option_A: Laba maksimal
+option_B: Rugi minimal
+option_C: Total penerimaan = total biaya
+option_D: Produksi maksimal
+answer: C
+clue: Tidak untung, tidak rugi.
+
+[SOAL]
+text: Pasar persaingan monopolistik ditandai dengan...
+option_A: Banyak penjual, produk homogen
+option_B: Sedikit penjual, produk berbeda
+option_C: Banyak penjual, produk berbeda
+option_D: Satu penjual, produk unik
+answer: C
+clue: Restoran, salon kecantikan.
+
+[SOAL]
+text: Kebijakan fiskal ekspansif dilakukan dengan...
+option_A: Menurunkan pajak & menaikkan belanja
+option_B: Menaikkan pajak & menurunkan belanja
+option_C: Menurunkan suku bunga
+option_D: Menaikkan cadangan wajib
+answer: A
+clue: Stimulus ekonomi.
+
+[SOAL]
+text: Neraca pembayaran yang defisit berarti...
+option_A: Debit > Kredit
+option_B: Kredit > Debit
+option_C: Ekspor > Impor
+option_D: Investasi > Tabungan
+answer: A
+clue: Arus keluar > arus masuk.
+
+[SOAL]
+text: Lembaga keuangan bukan bank contohnya...
+option_A: Asuransi
+option_B: Bank
+option_C: Pegadaian
+option_D: Semua benar
+answer: A
+clue: Asuransi, dana pensiun, dll.

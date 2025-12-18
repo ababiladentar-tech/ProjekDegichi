@@ -1,0 +1,359 @@
+[SOAL]
+text: Apa yang dimaksud dengan syirik?
+option_A: Menyembah Allah
+option_B: Menyekutukan Allah
+option_C: Membaca Al-Qur'an
+option_D: Shalat lima waktu
+answer: B
+clue: Dosa terbesar dalam Islam.
+
+[SOAL]
+text: Nama lain dari Al-Qur'an adalah...
+option_A: Al-Furqan
+option_B: Al-Masih
+option_C: Al-Ma'idah
+option_D: Al-Kautsar
+answer: A
+clue: Artinya "pembeda".
+
+[SOAL]
+text: Malaikat yang diperintahkan untuk mencatat amal baik adalah...
+option_A: Raqib
+option_B: Atid
+option_C: Munkar
+option_D: Nakir
+answer: A
+clue: Ditempatkan di kanan.
+
+[SOAL]
+text: Hukum membaca Al-Qur'an adalah...
+option_A: Wajib
+option_B: Sunnah
+option_C: Makruh
+option_D: Haram
+answer: B
+clue: Dianjurkan, tidak wajib.
+
+[SOAL]
+text: Shalat yang dikerjakan hanya dengan gerakan dan bacaan dalam hati disebut...
+option_A: Shalat sunnah
+option_B: Shalat jenazah
+option_C: Shalat khauf
+option_D: Shalat jama'
+answer: C
+clue: Saat takut atau bahaya.
+
+[SOAL]
+text: Zakat yang wajib dikeluarkan saat Idul Fitri disebut...
+option_A: Zakat maal
+option_B: Zakat fitrah
+option_C: Zakat profesi
+option_D: Zakat perdagangan
+answer: B
+clue: Wajib atas setiap muslim.
+
+[SOAL]
+text: Ibadah haji wajib dilakukan sekali seumur hidup bagi...
+option_A: Semua muslim
+option_B: Muslim yang mampu
+option_C: Laki-laki saja
+option_D: Perempuan saja
+answer: B
+clue: Syarat: mampu secara fisik dan finansial.
+
+[SOAL]
+text: Surah Al-Baqarah ayat 183 membahas tentang...
+option_A: Shalat
+option_B: Puasa
+option_C: Zakat
+option_D: Haji
+answer: B
+clue: "Wahai orang-orang yang beriman, diwajibkan atas kamu berpuasa".
+
+[SOAL]
+text: Malaikat Jibril diperintah oleh Allah untuk membawa wahyu kepada...
+option_A: Manusia
+option_B: Nabi dan Rasul
+option_C: Malaikat
+option_D: Jin
+answer: B
+clue: Wahyu hanya untuk utusan Allah.
+
+[SOAL]
+text: Ibadah yang paling utama setelah iman adalah...
+option_A: Shalat
+option_B: Zakat
+option_C: Puasa
+option_D: Haji
+answer: A
+clue: Rukun Islam kedua.
+
+[SOAL]
+text: Orang yang menerima zakat disebut...
+option_A: Muzakki
+option_B: Mustahik
+option_C: Amil
+option_D: Rikaz
+answer: B
+clue: Orang yang berhak menerima.
+
+[SOAL]
+text: Perbuatan yang dapat menggugurkan puasa adalah...
+option_A: Makan dan minum dengan sengaja
+option_B: Makan dan minum karena lupa
+option_C: Mandi
+option_D: Berjalan kaki
+answer: A
+clue: Harus mengqadha'.
+
+[SOAL]
+text: Shalat sunnah rawatib yang jumlahnya 12 rakaat adalah...
+option_A: Tarawih
+option_B: Tahajud
+option_C: Qabliyah dan Ba'diyah Dzuhur, Ashar, Maghrib, Isya
+option_D: Witir
+answer: C
+clue: Ditambah 2 rakaat Subuh.
+
+[SOAL]
+text: Nama lain dari bulan Ramadhan adalah...
+option_A: Syahrul Mubahalah
+option_B: Syahrul Jihad
+option_C: Syahrus Shiyam
+option_D: Syahrul Qurban
+answer: C
+clue: Bulan puasa.
+
+[SOAL]
+text: Tempat perhentian jamaah haji di Arafah disebut...
+option_A: Wuquf
+option_B: Tawaf
+option_C: Sa'i
+option_D: Ihram
+answer: A
+clue: Wajib dalam haji.
+
+[SOAL]
+text: Hukum tayamum jika air tidak ditemukan adalah...
+option_A: Haram
+option_B: Makruh
+option_C: Wajib
+option_D: Mubah
+answer: C
+clue: Pengganti wudhu/mandi.
+
+[SOAL]
+text: Surah An-Nur ayat 31 membahas tentang...
+option_A: Aurat wanita
+option_B: Aurat pria
+option_C: Shalat
+option_D: Puasa
+answer: A
+clue: "Katakanlah kepada wanita-wanita mukmin...".
+
+[SOAL]
+text: Nama malaikat yang mencatat amal buruk adalah...
+option_A: Raqib
+option_B: Atid
+option_C: Jibril
+option_D: Mikail
+answer: B
+clue: Ditempatkan di kiri.
+
+[SOAL]
+text: Shalat yang tidak memiliki rukun rukuk adalah...
+option_A: Shalat jenazah
+option_B: Shalat gerhana
+option_C: Shalat istikharah
+option_D: Shalat tahiyatul masjid
+answer: A
+clue: Hanya berdiri dan bacaan.
+
+[SOAL]
+text: Zakat yang dikeluarkan atas harta yang diperdagangkan disebut...
+option_A: Zakat emas
+option_B: Zakat pertanian
+option_C: Zakat perdagangan
+option_D: Zakat fitrah
+answer: C
+clue: Diambil dari modal dagang.
+
+[SOAL]
+text: Puasa sunnah yang dianjurkan pada hari Senin dan Kamis adalah...
+option_A: Puasa Arafah
+option_B: Puasa Asyura
+option_C: Puasa Dawud
+option_D: Puasa Senin-Kamis
+answer: D
+clue: Dicontohkan Rasulullah.
+
+[SOAL]
+text: Surah Al-Ikhlas menjelaskan tentang...
+option_A: Kekuasaan Allah
+option_B: Keimanan
+option_C: Keesaan Allah
+option_D: Hari akhir
+answer: C
+clue: "Qul huwa Allahu ahad".
+
+[SOAL]
+text: Shalat yang dikerjakan saat terjadi gerhana matahari atau bulan disebut...
+option_A: Shalat Tahajud
+option_B: Shalat Istikharah
+option_C: Shalat Gerhana
+option_D: Shalat Dhuha
+answer: C
+clue: Sunnah mu'akkadah.
+
+[SOAL]
+text: Ibadah yang menjadi pembeda antara orang beriman dan kafir adalah...
+option_A: Shalat
+option_B: Zakat
+option_C: Puasa
+option_D: Haji
+answer: A
+clue: Batas antara iman dan kufur.
+
+[SOAL]
+text: Nama lain dari hari kiamat adalah...
+option_A: Yaumul Jaza'
+option_B: Yaumul Hisab
+option_C: Yaumul Qiyamah
+option_D: Semua benar
+answer: D
+clue: Berbagai istilah dalam Al-Qur'an.
+
+[SOAL]
+text: Surah Al-Fatihah disebut juga...
+option_A: Ummul Qur'an
+option_B: Asas Al-Qur'an
+option_C: Pembukaan Al-Qur'an
+option_D: Semua benar
+answer: D
+clue: Surah paling agung.
+
+[SOAL]
+text: Nama malaikat yang mengatur rezeki adalah...
+option_A: Jibril
+option_B: Mikail
+option_C: Israfil
+option_D: Izrail
+answer: B
+clue: Mengatur hujan dan makanan.
+
+[SOAL]
+text: Ibadah yang paling tinggi nilainya di sisi Allah adalah...
+option_A: Jihad
+option_B: Shalat
+option_C: Iman
+option_D: Zakat
+answer: C
+clue: Iman adalah dasar segalanya.
+
+[SOAL]
+text: Surah Al-Maidah ayat 3 menyatakan bahwa Islam adalah agama...
+option_A: Agama yang sempurna
+option_B: Agama yang benar
+option_C: Agama yang terakhir
+option_D: Agama yang paling tua
+answer: A
+clue: "Pada hari ini Aku telah sempurnakan agamamu".
+
+[SOAL]
+text: Shalat sunnah yang dilakukan sebelum shalat Jumat disebut...
+option_A: Qabliyah Jumat
+option_B: Ba'diyah Jumat
+option_C: Rawatib
+option_D: Tarawih
+answer: A
+clue: 4 rakaat sebelum khutbah.
+
+[SOAL]
+text: Zakat yang dikeluarkan dari hasil pertanian disebut...
+option_A: Zakat emas
+option_B: Zakat perdagangan
+option_C: Zakat pertanian
+option_D: Zakat fitrah
+answer: C
+clue: 5% atau 10% tergantung pengairan.
+
+[SOAL]
+text: Shalat yang tidak diawali dengan azan adalah...
+option_A: Shalat Id
+option_B: Shalat Jumat
+option_C: Shalat Dzuhur
+option_D: Shalat Ashar
+answer: A
+clue: Hanya ada satu khutbah.
+
+[SOAL]
+text: Malaikat yang bertugas mengatur kehidupan manusia adalah...
+option_A: Raqib dan Atid
+option_B: Munkar dan Nakir
+option_C: Izrail
+option_D: Jibril
+answer: A
+clue: Mencatat amal.
+
+[SOAL]
+text: Shalat sunnah yang dikerjakan 2 rakaat sebelum Subuh adalah...
+option_A: Qabliyah Subuh
+option_B: Ba'diyah Subuh
+option_C: Tahajud
+option_D: Witir
+answer: A
+clue: Sunnah mu'akkadah.
+
+[SOAL]
+text: Surah Al-Baqarah ayat 285 menyatakan bahwa setiap manusia tidak dibebani...
+option_A: Lebih dari kemampuannya
+option_B: Lebih dari satu agama
+option_C: Lebih dari satu tuhan
+option_D: Lebih dari satu nabi
+answer: A
+clue: "Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya".
+
+[SOAL]
+text: Orang yang membayar zakat disebut...
+option_A: Mustahik
+option_B: Muzakki
+option_C: Amil
+option_D: Muallaf
+answer: B
+clue: Orang yang berzakat.
+
+[SOAL]
+text: Hukum puasa di bulan Muharram adalah...
+option_A: Wajib
+option_B: Sunnah
+option_C: Haram
+option_D: Makruh
+answer: B
+clue: Terutama tanggal 10 (Asyura).
+
+[SOAL]
+text: Surah Al-Ankabut ayat 45 menyatakan bahwa shalat mencegah dari perbuatan...
+option_A: Baik dan buruk
+option_B: Kejahatan dan kemungkaran
+option_C: Sombong dan iri
+option_D: Cinta dan benci
+answer: B
+clue: "Sesungguhnya shalat itu mencegah dari perbuatan keji dan mungkar".
+
+[SOAL]
+text: Nama surah yang tidak dimulai dengan Basmalah adalah...
+option_A: Al-Fatihah
+option_B: At-Taubah
+option_C: An-Naml
+option_D: Al-Kahfi
+answer: B
+clue: Hanya satu surah yang tidak ada Basmalah di awal.
+
+[SOAL]
+text: Zakat yang dikeluarkan dari harta simpanan disebut...
+option_A: Zakat pertanian
+option_B: Zakat fitrah
+option_C: Zakat maal
+option_D: Zakat profesi
+answer: C
+clue: Zakat harta yang dimiliki lebih dari nisab selama setahun.

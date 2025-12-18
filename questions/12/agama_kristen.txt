@@ -1,0 +1,350 @@
+[SOAL]
+text: Dalam surat Roma 3:23, Paulus menyatakan bahwa semua orang...
+option_A: Berdosa
+option_B: Saleh
+option_C: Kudus
+option_D: Bijaksana
+answer: A
+clue: "Karena semua orang telah berbuat dosa".
+
+[SOAL]
+text: Dalam surat Yohanes 3:16, Allah begitu mengasihi dunia, sehingga Ia memberikan...
+option_A: Anak-Nya yang tunggal
+option_B: Roh Kudus
+option_C: Hukum
+option_D: Nabi
+answer: A
+clue: "Sehingga Ia memberikan Anak-Nya yang tunggal".
+
+[SOAL]
+text: Dalam surat Filipi 4:13, Paulus menyatakan bahwa aku dapat segala perkara...
+option_A: Dalam Yesus
+option_B: Dalam Kristus
+option_C: Dalam Allah
+option_D: Dalam Roh
+answer: B
+clue: "Aku dapat segala perkara di dalam Dia yang memberi kekuatan kepadaku".
+
+[SOAL]
+text: Dalam surat 1 Korintus 13:4, kasih itu sabar, murah hati, tidak cemburu, tidak...
+option_A: Sombong
+option_B: Pamer
+option_C: Tidak sombong
+option_D: Tidak iri
+answer: C
+clue: "Kasih itu tidak sombong".
+
+[SOAL]
+text: Dalam surat Yohanes 14:6, Yesus berkata, "Akulah jalan, kebenaran, dan..."
+option_A: Kehidupan
+option_B: Kebenaran
+option_C: Kekuatan
+option_D: Kasih
+answer: A
+clue: "Tidak ada seorangpun yang datang kepada Bapa selain melalui Aku".
+
+[SOAL]
+text: Dalam surat 1 Yohanes 4:8, barangsiapa tidak mengasihi, ia tidak mengenal Allah, karena Allah adalah...
+option_A: Kekuatan
+option_B: Kebenaran
+option_C: Kasih
+option_D: Kehidupan
+answer: C
+clue: "Allah adalah kasih".
+
+[SOAL]
+text: Dalam surat Matius 11:28, Yesus berkata, "Marilah kepada-Ku, semua yang letih..."
+option_A: Lesu
+option_B: Lesu dan berat beban
+option_C: Lesu dan lapar
+option_D: Lesu dan haus
+answer: B
+clue: "Aku akan memberi kelegaan kepadamu".
+
+[SOAL]
+text: Dalam surat 1 Petrus 5:7, "Serahkanlah segala kekuatiranmu kepada-Nya, karena..."
+option_A: Ia peduli kepada kamu
+option_B: Ia mencintaimu
+option_C: Ia menyelamatkan kamu
+option_D: Ia mengasihi kamu
+answer: A
+clue: "Allah peduli kepada kamu".
+
+[SOAL]
+text: Dalam surat Yeremia 29:11, Allah berfirman, "Aku tahu rancangan-Ku, yaitu untuk memberikan kamu..."
+option_A: Harapan dan masa depan
+option_B: Kekuatan dan keberanian
+option_C: Kekayaan dan kemuliaan
+option_D: Kesehatan dan keselamatan
+answer: A
+clue: "Rancangan damai sejahtera".
+
+[SOAL]
+text: Dalam surat Yesaya 40:31, orang yang menantikan Tuhan akan...
+option_A: Diberkati
+option_B: Diberdayakan
+option_C: Diberi kekuatan
+option_D: Diselamatkan
+answer: C
+clue: "Mereka akan mendapat kekuatan baru".
+
+[SOAL]
+text: Dalam surat Filipi 4:6, janganlah kamu kuatir tentang apa pun, tetapi...
+option_A: Berdoa
+option_B: Bersyukur
+option_C: Berdoa dan bersyukur
+option_D: Tawakal
+answer: C
+clue: "Dengan doa dan permohonan, sertakan juga ucapan syukur".
+
+[SOAL]
+text: Dalam surat Yakobus 1:2-4, ujian-ujian iman itu harus kita sambut dengan...
+option_A: Sukacita
+option_B: Ketabahan
+option_C: Ketenangan
+option_D: Kebijaksanaan
+answer: A
+clue: "Sambutlah dengan sukacita".
+
+[SOAL]
+text: Dalam surat 1 Korintus 15:58, Paulus menyatakan bahwa janganlah kamu menjadi...
+option_A: Malas
+option_B: Lelah
+option_C: Lekas jemu
+option_D: Tidak percaya
+answer: C
+clue: "Tetap teguh, jangan goyah, dan jangan lekas jemu".
+
+[SOAL]
+text: Dalam surat 1 Tesalonika 5:16-18, Paulus menasihati untuk senantiasa bersukacita, terus-menerus...
+option_A: Berdoa
+option_B: Bersyukur
+option_C: Berdoa dan bersyukur
+option_D: Tawakal
+answer: C
+clue: "Karena inilah kehendak Allah".
+
+[SOAL]
+text: Dalam surat Amsal 3:5-6, percayalah kepada Tuhan dengan segenap hatimu, dan jangan bergantung pada...
+option_A: Kekuatanmu
+option_B: Akal budimu
+option_C: Hartamu
+option_D: Kekayaanmu
+answer: B
+clue: "Jangan bergantung pada akal budimu sendiri".
+
+[SOAL]
+text: Dalam surat Amsal 22:6, didiklah anak itu menurut jalan yang seharusnya, maka...
+option_A: Ia akan menjadi bijak
+option_B: Ia akan menjadi saleh
+option_C: Ia tidak akan menyimpang
+option_D: Ia akan menjadi kuat
+answer: C
+clue: "Sekalipun kalau ia sudah tua, ia tidak akan menyimpang dari jalan itu".
+
+[SOAL]
+text: Dalam surat Ulangan 6:5, kasihilah Tuhan Allahmu dengan segenap hatimu, segenap jiwamu, dan...
+option_A: Sebulat-bulatnya
+option_B: Seutuhnya
+option_C: Sehebat-hebatnya
+option_D: Sepenuh-penuhnya
+answer: A
+clue: "Sebulat-bulatnya".
+
+[SOAL]
+text: Dalam surat Imamat 19:18, kamu harus mengasihi sesamamu seperti...
+option_A: Dirimu sendiri
+option_B: Keluargamu
+option_C: Tetanggamu
+option_D: Anakmu
+answer: A
+clue: "Kasihilah sesamamu seperti dirimu sendiri".
+
+[SOAL]
+text: Dalam surat Matius 22:39, hukum kedua yang terbesar adalah...
+option_A: Kasihilah Tuhan
+option_B: Kasihilah sesamamu
+option_C: Hormatilah orang tuamu
+option_D: Taatlah pada hukum
+answer: B
+clue: "Kasihilah sesamamu seperti dirimu sendiri".
+
+[SOAL]
+text: Dalam surat Matius 5:16, biarlah terangmu bercahaya di depan orang, supaya mereka melihat perbuatanmu yang baik dan memuliakan Bapa di...
+option_A: Sorga
+option_B: Dunia
+option_C: Gereja
+option_D: Rumah
+answer: A
+clue: "Supaya mereka memuliakan Bapa-Mu yang di sorga".
+
+[SOAL]
+text: Dalam surat Matius 5:14, kamu adalah terang dunia, seperti kota yang terletak di atas...
+option_A: Bukit
+option_B: Gunung
+option_C: Puncak
+option_D: Lembah
+answer: A
+clue: "Kota yang terletak di atas bukit tidak mungkin tersembunyi".
+
+[SOAL]
+text: Dalam surat Matius 5:13, kamu adalah garam dunia, tetapi jika garam itu menjadi tawar, dengan apakah ia...
+option_A: Dimasak
+option_B: Dibasahi
+option_C: Dibumbui
+option_D: Diberi garam
+answer: C
+clue: "Tidak ada gunanya lagi".
+
+[SOAL]
+text: Dalam surat Matius 6:33, carilah dahulu Kerajaan Allah dan kebenarannya, maka semuanya itu akan...
+option_A: Ditambahkan kepadamu
+option_B: Diberikan kepadamu
+option_C: Dijaminkan kepadamu
+option_D: Diberkati kepadamu
+answer: A
+clue: "Maka semua itu akan ditambahkan kepadamu".
+
+[SOAL]
+text: Dalam surat Matius 7:7, mintalah, maka akan diberikan kepadamu; carilah, maka kamu akan...
+option_A: Ditemukan
+option_B: Menemukan
+option_C: Mengetahui
+option_D: Mengerti
+answer: B
+clue: "Carilah, maka kamu akan menemukan".
+
+[SOAL]
+text: Dalam surat Matius 7:12, segala sesuatu yang kamu kehendaki supaya manusia perbuat kepadamu, perbuatlah demikian juga kepada mereka, itulah...
+option_A: Hukum dan nabi
+option_B: Kasih dan kebenaran
+option_C: Kekuatan dan kebijaksanaan
+option_D: Kekudusan dan keselamatan
+answer: A
+clue: "Itulah hukum dan nabi".
+
+[SOAL]
+text: Dalam surat Matius 18:20, di mana dua atau tiga orang berkumpul dalam nama-Ku, di situ Aku...
+option_A: Hadir
+option_B: Berdoa
+option_C: Berbicara
+option_D: Menyembuhkan
+answer: A
+clue: "Aku ada di tengah-tengah mereka".
+
+[SOAL]
+text: Dalam surat Matius 28:20, Aku menyertai kamu senantiasa sampai kepada...
+option_A: Hari akhir
+option_B: Hari kiamat
+option_C: Hari kematian
+option_D: Hari kebangkitan
+answer: A
+clue: "Aku menyertai kamu senantiasa sampai kepada akhir zaman".
+
+[SOAL]
+text: Dalam surat Markus 16:15, pergilah ke seluruh dunia dan beritakanlah Injil kepada...
+option_A: Semua makhluk
+option_B: Semua manusia
+option_C: Semua orang percaya
+option_D: Semua orang kafir
+answer: A
+clue: "Beritakanlah Injil kepada segala makhluk".
+
+[SOAL]
+text: Dalam surat Lukas 10:27, kasihilah Tuhan Allahmu dengan segenap hati, segenap jiwa, segenap kekuatan, dan segenap...
+option_A: Akal budimu
+option_B: Pemikiranmu
+option_C: Hidupmu
+option_D: Hartamu
+answer: A
+clue: "Dan kasihilah sesamamu seperti dirimu sendiri".
+
+[SOAL]
+text: Dalam surat Yohanes 1:1, pada mulanya adalah...
+option_A: Allah
+option_B: Firman
+option_C: Anak
+option_D: Roh
+answer: B
+clue: "Firman itu Allah".
+
+[SOAL]
+text: Dalam surat Yohanes 1:14, Firman itu menjadi manusia dan diam di antara kita, dan kita telah melihat kemuliaan-Nya, kemuliaan yang diberikan kepada-Nya sebagai Anak...
+option_A: Allah
+option_B: Manusia
+option_C: Tunggal
+option_D: Allah yang tunggal
+answer: D
+clue: "Sebagai Anak yang tunggal dari Bapa".
+
+[SOAL]
+text: Dalam surat Yohanes 3:3, Yesus berkata, "Sesungguhnya Aku berkata kepadamu, jikalau seseorang tidak lahir kembali, ia tidak dapat melihat...
+option_A: Kerajaan Allah
+option_B: Allah
+option_C: Bapa
+option_D: Kebenaran
+answer: A
+clue: "Tidak dapat melihat Kerajaan Allah".
+
+[SOAL]
+text: Dalam surat Yohanes 3:5, Yesus berkata, "Sesungguhnya Aku berkata kepadamu, jikalau seseorang tidak lahir dari air dan...
+option_A: Roh
+option_B: Api
+option_C: Air
+option_D: Api dan Roh
+answer: A
+clue: "Ia tidak dapat masuk ke dalam Kerajaan Allah".
+
+[SOAL]
+text: Dalam surat Yohanes 8:12, Yesus berkata, "Akulah terang dunia, barangsiapa mengikuti Aku, ia tidak akan berjalan dalam kegelapan, tetapi ia akan mempunyai terang hidup".
+option_A: Kegelapan
+option_B: Terang
+option_C: Kebenaran
+option_D: Kasih
+answer: B
+clue: "Ia akan mempunyai terang hidup".
+
+[SOAL]
+text: Dalam surat Yohanes 10:10, Yesus berkata, "Aku datang supaya mereka mempunyai hidup, dan mempunyainya dalam limpah ruah".
+option_A: Kekuatan
+option_B: Hidup
+option_C: Kebenaran
+option_D: Kasih
+answer: B
+clue: "Hidup yang lebih berlimpah".
+
+[SOAL]
+text: Dalam surat Yohanes 14:27, Yesus berkata, "Damai sejahtera Kutinggalkan bagimu, damai sejahtera-Ku Kuberikan kepadamu, bukan seperti dunia memberikannya, Aku memberikannya kepadamu".
+option_A: Damai sejahtera
+option_B: Kekuatan
+option_C: Kebenaran
+option_D: Kasih
+answer: A
+clue: "Damai sejahtera-Ku Kuberikan kepadamu".
+
+[SOAL]
+text: Dalam surat Yohanes 15:5, Yesus berkata, "Akulah pokok anggur dan kamulah ranting-rantingnya, barangsiapa tinggal di dalam Aku dan Aku di dalam dia, ia menghasilkan buah yang banyak".
+option_A: Pokok anggur
+option_B: Jalan
+option_C: Kebenaran
+option_D: Kehidupan
+answer: A
+clue: "Barangsiapa tinggal di dalam Aku".
+
+[SOAL]
+text: Dalam surat Yohanes 15:13, Yesus berkata, "Tidak ada kasih yang lebih besar dari pada kasih seorang yang memberikan nyawanya untuk sahabat-sahabatnya".
+option_A: Kasih
+option_B: Pengorbanan
+option_C: Kekuatan
+option_D: Kebenaran
+answer: A
+clue: "Tidak ada kasih yang lebih besar".
+
+[SOAL]
+text: Dalam surat Yohanes 20:29, Yesus berkata kepada Tomas, "Karena kamu telah melihat Aku, maka kamu percaya; berbahagialah mereka yang tidak melihat, tetapi...
+option_A: Percaya
+option_B: Melihat
+option_C: Mengerti
+option_D: Tahu
+answer: A
+clue: "Berbahagialah mereka yang tidak melihat tetapi percaya".

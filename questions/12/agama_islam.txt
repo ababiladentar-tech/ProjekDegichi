@@ -1,0 +1,377 @@
+[SOAL]
+text: Dalam Al-Qur'an, Allah menyebutkan bahwa tidak ada paksaan dalam agama pada surah...
+option_A: Al-Baqarah ayat 256
+option_B: Al-Maidah ayat 3
+option_C: An-Nahl ayat 90
+option_D: Al-Ankabut ayat 46
+answer: A
+clue: "Tidak ada paksaan dalam agama".
+
+[SOAL]
+text: Surah Al-Mujadilah ayat 7 membahas tentang...
+option_A: Perempuan yang menggugat
+option_B: Larangan berwasiat
+option_C: Pembagian warisan
+option_D: Kewajiban menuntut ilmu
+answer: A
+clue: "Sesungguhnya Allah telah mendengar perkataan orang yang menggugatmu".
+
+[SOAL]
+text: Surah Al-Hujurat ayat 12 membahas tentang...
+option_A: Menjaga kehormatan
+option_B: Menjaga harta
+option_C: Menjaga shalat
+option_D: Menjaga puasa
+answer: A
+clue: "Wahai orang-orang yang beriman, janganlah saling mencela".
+
+[SOAL]
+text: Surah Al-Mumtahanah ayat 12 menyatakan bahwa seorang mukmin tidak boleh...
+option_A: Menyembah selain Allah
+option_B: Mencintai kafir musyrik
+option_C: Makan daging babi
+option_D: Minum khamr
+answer: B
+clue: "Janganlah kalian mengambil mereka sebagai kekasih".
+
+[SOAL]
+text: Surah Al-Ahzab ayat 70 membahas tentang...
+option_A: Menyambung silaturahmi
+option_B: Menjaga diri dari maksiat
+option_C: Menjaga kehormatan keluarga
+option_D: Menjaga adab dan sopan santun
+answer: D
+clue: "Wahai orang-orang yang beriman, bertakwalah kamu".
+
+[SOAL]
+text: Surah An-Nisa ayat 59 membahas tentang...
+option_A: Kewajiban taat kepada Allah dan Rasul
+option_B: Kewajiban taat kepada ulil amri
+option_C: Kewajiban taat kepada orang tua
+option_D: Kewajiban taat kepada guru
+answer: B
+clue: "Wahai orang-orang yang beriman, taatilah Allah, Rasul, dan ulil amri di antara kamu".
+
+[SOAL]
+text: Surah Al-Maidah ayat 8 menyatakan bahwa kita harus menjadi...
+option_A: Saksi yang adil
+option_B: Saksi yang kuat
+option_C: Saksi yang tegas
+option_D: Saksi yang jujur
+answer: A
+clue: "Wahai orang-orang yang beriman, jadilah kamu penegak (kebenaran) karena Allah, menjadi saksi yang adil".
+
+[SOAL]
+text: Surah Al-Hujurat ayat 10 menyatakan bahwa umat Islam adalah...
+option_A: Ummatan Wasathan
+option_B: Ummatan Musliman
+option_C: Ummatan Qayyiman
+option_D: Ummatan Muhsinan
+answer: C
+clue: "Sesungguhnya umatmu ini adalah umat yang satu".
+
+[SOAL]
+text: Surah Al-Bayyinah ayat 5 menyatakan bahwa orang yang beriman dan mengerjakan amal saleh adalah...
+option_A: Sebaik-baik makhluk
+option_B: Orang yang beruntung
+option_C: Orang yang selamat
+option_D: Orang yang beriman
+answer: A
+clue: "Sesungguhnya orang-orang yang beriman dan mengerjakan amal saleh adalah sebaik-baik makhluk".
+
+[SOAL]
+text: Surah Al-Anfal ayat 29 menyatakan bahwa barangsiapa bertakwa maka Allah akan memberikan...
+option_A: Kekayaan
+option_B: Ketenangan
+option_C: Kebaikan
+option_D: Jalan keluar
+answer: D
+clue: "Barangsiapa bertakwa kepada Allah, niscaya Dia akan membukakan jalan keluar".
+
+[SOAL]
+text: Surah Al-Imran ayat 190 menyatakan bahwa dalam penciptaan langit dan bumi terdapat tanda-tanda bagi...
+option_A: Orang yang beriman
+option_B: Orang yang berpikir
+option_C: Orang yang berilmu
+option_D: Orang yang bertakwa
+answer: B
+clue: "Sesungguhnya dalam penciptaan langit dan bumi terdapat tanda-tanda bagi orang-orang yang berpikir".
+
+[SOAL]
+text: Surah Al-Anbiya ayat 30 menyatakan bahwa langit dan bumi dulunya adalah...
+option_A: Satu benda padat
+option_B: Benda cair
+option_C: Benda gas
+option_D: Satu benda yang terpisah
+answer: D
+clue: "...Kami jadikan keduanya dari satu benda, lalu Kami pisahkan keduanya".
+
+[SOAL]
+text: Surah Al-Mulk ayat 3 menyatakan bahwa Allah menciptakan tujuh langit berlapis-lapis, tidak akan kamu lihat pada ciptaan Yang Maha Pengasih...
+option_A: Kesamaan
+option_B: Kecacatan
+option_C: Kekurangan
+option_D: Kelemahan
+answer: B
+clue: "Tidak akan kamu lihat pada ciptaan Yang Maha Pengasih sedikit pun cacat".
+
+[SOAL]
+text: Surah Al-Furqan ayat 48 menyatakan bahwa Allah menciptakan angin sebagai...
+option_A: Pembawa berita gembira
+option_B: Pembawa hujan
+option_C: Pembawa keheningan
+option_D: Pembawa kekacauan
+answer: A
+clue: "Dan Dialah yang mengirimkan angin sebagai pembawa berita gembira".
+
+[SOAL]
+text: Surah Ar-Rum ayat 30 menyatakan bahwa Allah menetapkan fitrah manusia, dan tidak ada yang mengubah ciptaan Allah selain...
+option_A: Manusia itu sendiri
+option_B: Setan
+option_C: Iblis
+option_D: Jin
+answer: A
+clue: "Hadapkanlah wajahmu kepada agama (Islam), (sesuai) fitrah Allah yang telah menciptakan manusia".
+
+[SOAL]
+text: Surah Al-A'raf ayat 179 menyatakan bahwa Allah menciptakan jin dan manusia hanya untuk...
+option_A: Beribadah kepada-Nya
+option_B: Menjaga bumi
+option_C: Menjaga alam
+option_D: Menjadi khalifah
+answer: A
+clue: "Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka menyembah-Ku".
+
+[SOAL]
+text: Surah Al-Mulk ayat 2 menyatakan bahwa Allah menciptakan kematian dan kehidupan untuk...
+option_A: Menguji siapa yang lebih baik amalnya
+option_B: Memberi kesempatan
+option_C: Memberi hukuman
+option_D: Memberi nikmat
+answer: A
+clue: "Yang menciptakan mati dan hidup, untuk menguji siapa di antara kamu yang lebih baik amalnya".
+
+[SOAL]
+text: Surah Al-Anbiya ayat 107 menyatakan bahwa Muhammad diutus sebagai...
+option_A: Rahmat bagi alam semesta
+option_B: Pembawa hukum
+option_C: Pembawa perang
+option_D: Pembawa kekayaan
+answer: A
+clue: "Dan Kami tidak mengutus kamu melainkan sebagai rahmat bagi seluruh alam".
+
+[SOAL]
+text: Surah Al-Ma'idah ayat 6 menyatakan bahwa jika air tidak ditemukan, maka bersucilah dengan...
+option_A: Debu
+option_B: Pasir
+option_C: Batu
+option_D: Kayu
+answer: A
+clue: "...Maka bersucilah kamu dengan tanah yang baik".
+
+[SOAL]
+text: Surah Al-Baqarah ayat 187 menyatakan bahwa pada malam hari bulan Ramadhan, kamu diizinkan untuk...
+option_A: Bercampur dengan istri
+option_B: Bekerja
+option_C: Makan dan minum
+option_D: Tidur
+answer: A
+clue: "Dihalalkan bagimu pada malam hari bulan puasa bercampur dengan istrimu".
+
+[SOAL]
+text: Surah Al-Anfal ayat 60 menyatakan bahwa kamu harus menyiapkan kekuatan untuk melawan musuh, yaitu...
+option_A: Pasukan berkuda
+option_B: Senjata modern
+option_C: Kekuatan dan kuda yang ditambatkan
+option_D: Ilmu pengetahuan
+answer: C
+clue: "Dan siapkanlah untuk menghadapi mereka kekuatan apa pun yang kamu sanggupi".
+
+[SOAL]
+text: Surah Al-Hujurat ayat 6 menyatakan bahwa jika datang berita dari orang fasiq, maka harus...
+option_A: Diterima
+option_B: Diteliti
+option_C: Ditolak
+option_D: Dikabarkan
+answer: B
+clue: "Hai orang-orang yang beriman, jika datang kepadamu seorang fasik membawa suatu berita, maka telitilah".
+
+[SOAL]
+text: Surah Al-Ahzab ayat 35 menyatakan bahwa laki-laki dan perempuan yang beriman, laki-laki dan perempuan yang...
+option_A: Taat, jujur, sabar, tawaduk
+option_B: Kaya, kuat, pintar, sehat
+option_C: Sombong, iri, dengki, tamak
+option_D: Tidak berdoa, tidak shalat, tidak zakat
+answer: A
+clue: "...Allah telah menyediakan ampunan dan pahala yang besar".
+
+[SOAL]
+text: Surah Al-Anfal ayat 40 menyatakan bahwa jika musuh menghendaki perdamaian, maka kamu harus...
+option_A: Menolak
+option_B: Memperkuat pertahanan
+option_C: Menerima dengan syarat
+option_D: Menjawab dengan perdamaian
+answer: D
+clue: "Jika mereka condong kepada perdamaian, maka condonglah kamu".
+
+[SOAL]
+text: Surah Al-Baqarah ayat 216 menyatakan bahwa kamu diwajibkan berperang, padahal itu...
+option_A: Disukai
+option_B: Tidak disukai
+option_C: Mudah
+option_D: Sulit
+answer: B
+clue: "Diwajibkan atas kamu berperang, padahal itu membencimu".
+
+[SOAL]
+text: Surah An-Nisa ayat 90 menyatakan bahwa jika mereka (musuh) condong kepada perdamaian, maka kamu harus...
+option_A: Menolak
+option_B: Berperang
+option_C: Menjawab dengan perdamaian
+option_D: Meninggalkan mereka
+answer: C
+clue: "Jika mereka condong kepada perdamaian, maka condonglah kamu".
+
+[SOAL]
+text: Surah Al-Anfal ayat 29 menyatakan bahwa jika kamu bertakwa, maka Allah akan memberikan...
+option_A: Kekayaan
+option_B: Kekuatan
+option_C: Pembeda antara yang hak dan yang bathil
+option_D: Ketenangan
+answer: C
+clue: "Dan jika kamu bertakwa, maka Allah akan memberikan kamu furqan".
+
+[SOAL]
+text: Surah Al-A'raf ayat 157 menyatakan bahwa Muhammad adalah utusan Allah yang...
+option_A: Membaca Al-Qur'an
+option_B: Tidak bisa baca dan tulis
+option_C: Mengajar agama
+option_D: Menjadi pemimpin
+answer: B
+clue: "Utusan (Muhammad) yang tidak bisa baca dan tulis".
+
+[SOAL]
+text: Surah Al-Anbiya ayat 102 menyatakan bahwa Al-Qur'an ini bukanlah...
+option_A: Dari Allah
+option_B: Dari syaitan
+option_C: Dari manusia
+option_D: Dari malaikat
+answer: B
+clue: "Dan Al-Qur'an ini bukanlah dibuat-buat oleh syaitan".
+
+[SOAL]
+text: Surah Al-Anbiya ayat 105 menyatakan bahwa bumi ini Kami wariskan kepada...
+option_A: Orang kafir
+option_B: Orang mukmin
+option_C: Orang saleh
+option_D: Orang kaya
+answer: C
+clue: "Dan telah Kami tuliskan dalam Zabur, sesudah (adanya) Al-Qur'an, bahwa bumi ini adalah milik hamba-hamba-Ku yang saleh".
+
+[SOAL]
+text: Surah Al-Ma'idah ayat 48 menyatakan bahwa Kami telah menurunkan Kitab dengan membawa kebenaran, untuk...
+option_A: Menjadi pedoman
+option_B: Menguji manusia
+option_C: Menjadi hukum
+option_D: Menjadi peringatan
+answer: A
+clue: "Kami telah menurunkan Kitab (Taurat) kepadamu dengan membawa kebenaran".
+
+[SOAL]
+text: Surah Al-Mujadilah ayat 11 menyatakan bahwa jika kamu mengundang seseorang ke makanan, maka jangan kamu...
+option_A: Membatalkan shalat
+option_B: Membatalkan puasa
+option_C: Mengganggu orang shalat
+option_D: Memperkenalkan diri
+answer: C
+clue: "Dan jangan kamu ganggu orang yang shalat".
+
+[SOAL]
+text: Surah Al-Ahzab ayat 53 menyatakan bahwa kamu jangan memasuki rumah Nabi, kecuali...
+option_A: Diperintah
+option_B: Diizinkan
+option_C: Diberi makan
+option_D: Diberi minum
+answer: B
+clue: "Janganlah kamu memasuki rumah Nabi, kecuali bila kamu diizinkan".
+
+[SOAL]
+text: Surah Al-Hujurat ayat 2 menyatakan bahwa kamu jangan membunuh...
+option_A: Binatang
+option_B: Manusia
+option_C: Orang tua
+option_D: Diri sendiri
+answer: D
+clue: "Dan janganlah kamu membunuh dirimu".
+
+[SOAL]
+text: Surah An-Nisa ayat 29 menyatakan bahwa kamu jangan saling memakan harta dengan jalan yang batil, kecuali...
+option_A: Dengan jual beli yang sah
+option_B: Dengan berjudi
+option_C: Dengan pinjaman
+option_D: Dengan hadiah
+answer: A
+clue: "Dan janganlah kamu saling memakan harta sesamamu dengan jalan yang batil".
+
+[SOAL]
+text: Surah Al-An'am ayat 151 menyatakan bahwa kamu jangan membunuh anak-anakmu karena...
+option_A: Takut miskin
+option_B: Takut sakit
+option_C: Takut lapar
+option_D: Takut haus
+answer: A
+clue: "Dan janganlah kamu membunuh anak-anakmu karena takut kemiskinan".
+
+[SOAL]
+text: Surah Al-Isra ayat 32 menyatakan bahwa kamu jangan mendekati zina, karena itu...
+option_A: Perbuatan keji
+option_B: Perbuatan hina
+option_C: Perbuatan dosa
+option_D: Perbuatan buruk
+answer: A
+clue: "Dan janganlah kamu mendekati zina; sesungguhnya zina itu adalah suatu perbuatan keji".
+
+[SOAL]
+text: Surah Al-Ma'idah ayat 32 menyatakan bahwa barangsiapa membunuh seseorang, maka seolah-olah ia membunuh...
+option_A: Manusia lain
+option_B: Manusia seluruhnya
+option_C: Orang tua
+option_D: Orang kaya
+answer: B
+clue: "...maka seolah-olah ia telah membunuh manusia seluruhnya".
+
+[SOAL]
+text: Surah Al-An'am ayat 152 menyatakan bahwa kamu harus memenuhi janji, karena janji itu akan diminta pertanggungan jawabnya...
+option_A: Di dunia
+option_B: Di akhirat
+option_C: Di antara manusia
+option_D: Di antara malaikat
+answer: B
+clue: "Dan penuhilah janji; sesungguhnya janji itu akan diminta pertanggungan jawabnya".
+
+[SOAL]
+text: Surah Al-Mulk ayat 15 menyatakan bahwa Allah menciptakan langit tanpa tiang yang kamu lihat, sebagai tanda kekuasaan-Nya, yang disebut...
+option_A: Langit berlapis
+option_B: Langit yang tinggi
+option_C: Langit tanpa tiang
+option_D: Langit yang kuat
+answer: C
+clue: "...Dan Dia menciptakan langit tanpa tiang yang kamu lihat".
+
+[SOAL]
+text: Surah Al-Anbiya ayat 33 menyatakan bahwa masing-masing matahari dan bulan beredar di garis lintasannya, yang menunjukkan bahwa...
+option_A: Mereka tidak akan bertabrakan
+option_B: Mereka diciptakan oleh Allah
+option_C: Mereka mengorbit
+option_D: Mereka diciptakan sejak zaman dahulu
+answer: A
+clue: "...Masing-masing beredar pada garis lintasannya, tidak akan saling bertabrakan".
+
+[SOAL]
+text: Surah Al-Anbiya ayat 32 menyatakan bahwa bumi Kami hamparkan, yang berarti...
+option_A: Datar
+option_B: Bulat
+option_C: Luas
+option_D: Dihuni
+answer: C
+clue: "...Dan bumi Kami hamparkan, sungguh Kami pelindung yang hebat".

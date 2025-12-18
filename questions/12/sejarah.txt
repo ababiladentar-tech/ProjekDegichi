@@ -1,0 +1,332 @@
+[SOAL]
+text: Peristiwa reformasi di Indonesia dipicu oleh...
+option_A: Krisis moneter 1997
+option_B: Tuntutan demokratisasi
+option_C: Kehidupan politik yang otoriter
+option_D: Semua benar
+answer: D
+clue: Kombinasi berbagai faktor.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia terjadi pada masa pemerintahan...
+option_A: Soekarno
+option_B: Soeharto
+option_C: BJ Habibie
+option_D: Gus Dur
+answer: B
+clue: Akhir Orde Baru.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia ditandai dengan...
+option_A: Jatuhnya Orde Baru
+option_B: Tuntutan reformasi
+option_C: Kehidupan politik yang demokratis
+option_D: Semua benar
+answer: D
+clue: Perubahan total.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia berdampak pada...
+option_A: Perubahan konstitusi
+option_B: Perubahan sistem politik
+option_C: Perubahan sistem ekonomi
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia berpengaruh pada...
+option_A: Pemilihan umum
+option_B: Sistem partai politik
+option_C: Otonomi daerah
+option_D: Semua benar
+answer: D
+clue: Semua aspek berubah.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Hukum
+option_B: Politik
+option_C: Ekonomi
+option_D: Semua benar
+answer: D
+clue: Perubahan multidimensi.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Sosial
+option_B: Budaya
+option_C: Teknologi
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Pendidikan
+option_B: Kesehatan
+option_C: Lingkungan
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Pertahanan
+option_B: Keamanan
+option_C: Diplomasi
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Infrastruktur
+option_B: Komunikasi
+option_C: Transportasi
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Energi
+option_B: Pertambangan
+option_C: Industri
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Pertanian
+option_B: Kelautan
+option_C: Perikanan
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Pariwisata
+option_B: Kebudayaan
+option_C: Olahraga
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Kearsipan
+option_B: Perpustakaan
+option_C: Museum
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Kependudukan
+option_B: Catatan sipil
+option_C: Administrasi negara
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Statistik
+option_B: Pers
+option_C: Media massa
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Pemasyarakatan
+option_B: Rehabilitasi sosial
+option_C: Perlindungan anak
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Pemberdayaan perempuan
+option_B: Perlindungan perempuan
+option_C: Ketenagakerjaan
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Sosial
+option_B: Pendidikan
+option_C: Kesehatan
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Pangan
+option_B: Pertanian
+option_C: Perikanan
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Energi
+option_B: Pertambangan
+option_C: Lingkungan hidup
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Perumahan
+option_B: Kawasan permukiman
+option_C: Penataan ruang
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Pekerjaan umum
+option_B: Perhubungan
+option_C: Komunikasi dan informatika
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Pariwisata dan ekonomi kreatif
+option_B: Koperasi
+option_C: UKM
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Agraria dan tata ruang
+option_B: Lingkungan hidup
+option_C: Kehutanan
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Agraria dan tata ruang
+option_B: Lingkungan hidup
+option_C: Kehutanan
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Perdagangan
+option_B: Ketenagakerjaan
+option_C: Koperasi
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Perindustrian
+option_B: Perdagangan
+option_C: Koperasi
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Perdagangan
+option_B: Koperasi
+option_C: UKM
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Koperasi
+option_B: UKM
+option_C: Ekonomi kreatif
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: UKM
+option_B: Ekonomi kreatif
+option_C: Ekonomi digital
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Ekonomi kreatif
+option_B: Ekonomi digital
+option_C: Ekonomi biru
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Ekonomi digital
+option_B: Ekonomi biru
+option_C: Ekonomi hijau
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Ekonomi biru
+option_B: Ekonomi hijau
+option_C: Ekonomi sirkular
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Ekonomi hijau
+option_B: Ekonomi sirkular
+option_C: Ekonomi berkelanjutan
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Ekonomi sirkular
+option_B: Ekonomi berkelanjutan
+option_C: Ekonomi inklusif
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.
+
+[SOAL]
+text: Peristiwa reformasi di Indonesia membawa perubahan dalam bidang...
+option_A: Ekonomi berkelanjutan
+option_B: Ekonomi inklusif
+option_C: Ekonomi digital
+option_D: Semua benar
+answer: D
+clue: Perubahan menyeluruh.

@@ -1,0 +1,368 @@
+[SOAL]
+text: Teks editorial biasanya berisi...
+option_A: Berita terbaru
+option_B: Opini/redaksi surat kabar
+option_C: Iklan produk
+option_D: Cerita fiksi
+answer: B
+clue: Pandangan redaksi terhadap isu aktual.
+
+[SOAL]
+text: Tujuan dari teks kritik dan esai adalah untuk...
+option_A: Menghibur
+option_B: Menjelaskan
+option_C: Memberikan penilaian atau pendapat
+option_D: Menceritakan
+answer: C
+clue: Kritik: negatif, Esai: positif/negatif.
+
+[SOAL]
+text: Teks yang berisi ulasan terhadap suatu buku, film, atau pertunjukan disebut...
+option_A: Artikel
+option_B: Resensi
+option_C: Laporan
+option_D: Editorial
+answer: B
+clue: Tinjauan objektif dan subjektif.
+
+[SOAL]
+text: Dalam resensi, bagian yang berisi keunggulan karya disebut...
+option_A: Kelemahan
+option_B: Sinopsis
+option_C: Pujian
+option_D: Kesan
+answer: C
+clue: Bagian evaluasi positif.
+
+[SOAL]
+text: Dalam teks diskusi, argumen yang disampaikan harus...
+option_A: Subjektif
+option_B: Objektif dan rasional
+option_C: Emosional
+option_D: Singkat
+answer: B
+clue: Berdasarkan fakta dan logika.
+
+[SOAL]
+text: Fungsi dari teks diskusi adalah untuk...
+option_A: Menghibur
+option_B: Menjelaskan
+option_C: Mencari solusi dari permasalahan
+option_D: Menceritakan
+answer: C
+clue: Proses tukar-menukar pendapat.
+
+[SOAL]
+text: Teks yang digunakan dalam debat harus bersifat...
+option_A: Deskriptif
+option_B: Argumentatif
+option_C: Naratif
+option_D: Lyrical
+answer: B
+clue: Meyakinkan pihak lawan.
+
+[SOAL]
+text: Dalam debat, pihak yang menyampaikan pendapat disebut...
+option_A: Moderator
+option_B: Penonton
+option_C: Pembicara
+option_D: Juri
+answer: C
+clue: Pihak yang berpidato.
+
+[SOAL]
+text: Penulisan ilmiah harus bersifat objektif, artinya...
+option_A: Subjektif
+option_B: Berdasarkan perasaan
+option_C: Berdasarkan fakta
+option_D: Berdasarkan opini
+answer: C
+clue: Tidak memihak, netral.
+
+[SOAL]
+text: Dalam penulisan ilmiah, bahasa yang digunakan sebaiknya...
+option_A: Kiasan
+option_B: Santai
+option_C: Formal dan lugas
+option_D: Puitis
+answer: C
+clue: Untuk kejelasan dan profesionalisme.
+
+[SOAL]
+text: "Menurut hemat saya..." merupakan kalimat yang sebaiknya...
+option_A: Digunakan dalam teks ilmiah
+option_B: Dihindari dalam teks ilmiah
+option_C: Tidak masalah
+option_D: Hanya untuk narasi
+answer: B
+clue: Bersifat subjektif.
+
+[SOAL]
+text: "Diperkirakan bahwa..." merupakan contoh kalimat yang bersifat...
+option_A: Pasti
+option_B: Tidak pasti
+option_C: Tegas
+option_D: Formal
+answer: B
+clue: Menyiratkan ketidakpastian.
+
+[SOAL]
+text: Dalam interpretasi grafik atau tabel, langkah pertama yang harus dilakukan adalah...
+option_A: Membaca judul dan keterangan
+option_B: Menganalisis data
+option_C: Menyimpulkan
+option_D: Membaca legenda
+answer: A
+clue: Memahami konteks grafik.
+
+[SOAL]
+text: Grafik garis biasanya digunakan untuk menunjukkan...
+option_A: Perbandingan
+option_B: Perkembangan dalam waktu
+option_C: Komposisi
+option_D: Frekuensi
+answer: B
+clue: Data berdasarkan waktu.
+
+[SOAL]
+text: Sinonim dari kata "gigih" adalah...
+option_A: Malas
+option_B: Rajin
+option_C: Lekas
+option_D: Tidak semangat
+answer: B
+clue: Teguh dan ulet.
+
+[SOAL]
+text: Antonim dari kata "berani" adalah...
+option_A: Tegas
+option_B: Takut
+option_C: Bijak
+option_D: Cerdas
+answer: B
+clue: Lawan dari keberanian.
+
+[SOAL]
+text: Peribahasa "Bagai aur dengan tebing" bermakna...
+option_A: Saling membenci
+option_B: Saling melindungi
+option_C: Saling bertengkar
+option_D: Saling menghina
+answer: B
+clue: Hubungan erat dan saling menjaga.
+
+[SOAL]
+text: Peribahasa "Air susu dibalas dengan air tuba" bermakna...
+option_A: Dibayar dengan susu
+option_B: Dibayar dengan tuba
+option_C: Dibalas dengan kebaikan
+option_D: Dibalas dengan kejahatan
+answer: D
+clue: Kebaikan dibalas kejahatan.
+
+[SOAL]
+text: Peribahasa "Sedia payung sebelum hujan" bermakna...
+option_A: Membeli payung
+option_B: Bersiap sebelum datang kesulitan
+option_C: Menunggu hujan
+option_D: Menunggu payung
+answer: B
+clue: Antisipasi.
+
+[SOAL]
+text: Kalimat berikut yang menggunakan ejaan yang benar adalah...
+option_A: Dia pergi ke toko buku.
+option_B: Dia pergi ke-toko-buku.
+option_C: Dia pergi ketoko buku.
+option_D: Dia pergi ke, toko, buku.
+answer: A
+clue: Tidak ada tanda hubung.
+
+[SOAL]
+text: Kata "mengapa" ditulis serangkai karena...
+option_A: Imbuhan me- + kata dasar
+option_B: Gabungan kata tanya
+option_C: Kata kerja
+option_D: Kata sifat
+answer: B
+clue: Gabungan "me" + "apa".
+
+[SOAL]
+text: Kata "kapan" ditulis serangkai karena...
+option_A: Imbuhan ke- + kata dasar
+option_B: Gabungan kata tanya
+option_C: Kata kerja
+option_D: Kata sifat
+answer: B
+clue: Gabungan "ka" + "apan".
+
+[SOAL]
+text: Kata "ke mana" ditulis terpisah karena...
+option_A: Imbuhan + kata benda
+option_B: Kata depan + kata tanya
+option_C: Kata kerja + objek
+option_D: Kata sifat + benda
+answer: B
+clue: "Ke" adalah kata depan.
+
+[SOAL]
+text: Dalam penulisan judul, huruf pertama setiap kata harus...
+option_A: Huruf besar
+option_B: Huruf kecil
+option_C: Tergantung panjangnya
+option_D: Tidak penting
+answer: A
+clue: Kecuali kata tugas seperti "dan", "di", "ke".
+
+[SOAL]
+text: Dalam penulisan daftar pustaka, sumber dari internet harus mencantumkan...
+option_A: Hanya URL
+option_B: Hanya judul
+option_C: Judul, URL, dan tanggal akses
+option_D: Hanya tanggal akses
+answer: C
+clue: Standar penulisan ilmiah.
+
+[SOAL]
+text: Dalam penulisan angka, angka yang menyatakan jumlah kurang dari sepuluh sebaiknya ditulis dengan...
+option_A: Huruf
+option_B: Angka Arab
+option_C: Angka Romawi
+option_D: Tidak ditulis
+answer: A
+clue: Aturan ejaan.
+
+[SOAL]
+text: Dalam penulisan angka, angka yang menyatakan jumlah sepuluh ke atas sebaiknya ditulis dengan...
+option_A: Huruf
+option_B: Angka Arab
+option_C: Angka Romawi
+option_D: Tidak ditulis
+answer: B
+clue: Aturan ejaan.
+
+[SOAL]
+text: Dalam penulisan angka tahun, sebaiknya ditulis dengan...
+option_A: Huruf
+option_B: Angka Arab
+option_C: Angka Romawi
+option_D: Tidak ditulis
+answer: B
+clue: Contoh: Tahun 2025.
+
+[SOAL]
+text: Dalam penulisan angka jam, sebaiknya ditulis dengan...
+option_A: Huruf
+option_B: Angka Arab
+option_C: Angka Romawi
+option_D: Tidak ditulis
+answer: B
+clue: Contoh: Pukul 14.30.
+
+[SOAL]
+text: Dalam penulisan angka persen, sebaiknya ditulis dengan...
+option_A: Huruf
+option_B: Angka Arab + simbol %
+option_C: Angka Romawi
+option_D: Tidak ditulis
+answer: B
+clue: Contoh: 50%.
+
+[SOAL]
+text: Dalam penulisan angka desimal, sebaiknya menggunakan koma (,) sebagai pemisah...
+option_A: Ribuan
+option_B: Pecahan desimal
+option_C: Persen
+option_D: Jam
+answer: B
+clue: Contoh: 3,14.
+
+[SOAL]
+text: Dalam penulisan angka ribuan, sebaiknya menggunakan titik (.) sebagai pemisah...
+option_A: Pecahan desimal
+option_B: Ribuan
+option_C: Persen
+option_D: Jam
+answer: B
+clue: Contoh: 1.000.
+
+[SOAL]
+text: Dalam penulisan angka romawi, angka 100 ditulis sebagai...
+option_A: L
+option_B: C
+option_C: D
+option_D: M
+answer: B
+clue: C = 100.
+
+[SOAL]
+text: Dalam penulisan angka romawi, angka 500 ditulis sebagai...
+option_A: L
+option_B: C
+option_C: D
+option_D: M
+answer: C
+clue: D = 500.
+
+[SOAL]
+text: Dalam penulisan angka romawi, angka 1000 ditulis sebagai...
+option_A: L
+option_B: C
+option_C: D
+option_D: M
+answer: D
+clue: M = 1000.
+
+[SOAL]
+text: Dalam penulisan angka romawi, angka 50 ditulis sebagai...
+option_A: L
+option_B: C
+option_C: D
+option_D: M
+answer: A
+clue: L = 50.
+
+[SOAL]
+text: Dalam penulisan angka romawi, angka 10 ditulis sebagai...
+option_A: X
+option_B: V
+option_C: I
+option_D: L
+answer: A
+clue: X = 10.
+
+[SOAL]
+text: Dalam penulisan angka romawi, angka 5 ditulis sebagai...
+option_A: X
+option_B: V
+option_C: I
+option_D: L
+answer: B
+clue: V = 5.
+
+[SOAL]
+text: Dalam penulisan angka romawi, angka 1 ditulis sebagai...
+option_A: X
+option_B: V
+option_C: I
+option_D: L
+answer: C
+clue: I = 1.
+
+[SOAL]
+text: Dalam penulisan angka romawi, angka 4 ditulis sebagai...
+option_A: III
+option_B: IV
+option_C: VI
+option_D: IX
+answer: B
+clue: I sebelum V berarti 5 - 1 = 4.
+
+[SOAL]
+text: Dalam penulisan angka romawi, angka 9 ditulis sebagai...
+option_A: VII
+option_B: VIII
+option_C: IX
+option_D: XI
+answer: C
+clue: I sebelum X berarti 10 - 1 = 9.

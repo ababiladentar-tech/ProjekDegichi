@@ -1,0 +1,359 @@
+[SOAL]
+text: Organel penghasil energi dalam sel disebut...
+option_A: Nukleus
+option_B: Mitokondria
+option_C: Ribosom
+option_D: Lisosom
+answer: B
+clue: "Pembangkit tenaga sel".
+
+[SOAL]
+text: Proses pembuatan makanan pada tumbuhan disebut...
+option_A: Respirasi
+option_B: Fotosintesis
+option_C: Transpirasi
+option_D: Gutasi
+answer: B
+clue: Butuh cahaya, CO2, dan air.
+
+[SOAL]
+text: Unit terkecil makhluk hidup adalah...
+option_A: Jaringan
+option_B: Organ
+option_C: Sel
+option_D: Sistem organ
+answer: C
+clue: Teori sel.
+
+[SOAL]
+text: DNA terdapat di dalam...
+option_A: Ribosom
+option_B: Mitokondria
+option_C: Nukleus
+option_D: Sitoplasma
+answer: C
+clue: Materi genetik utama.
+
+[SOAL]
+text: Proses pernapasan menghasilkan...
+option_A: Oksigen
+option_B: Karbon dioksida
+option_C: Glukosa
+option_D: Air
+answer: B
+clue: C6H12O6 + 6O2 → 6CO2 + 6H2O + energi.
+
+[SOAL]
+text: Hewan pemakan tumbuhan disebut...
+option_A: Karnivora
+option_B: Herbivora
+option_C: Omnivora
+option_D: Insektivora
+answer: B
+clue: Contoh: sapi, kambing.
+
+[SOAL]
+text: Proses pembelahan sel menjadi dua sel anak identik disebut...
+option_A: Mitosis
+option_B: Meiosis
+option_C: Amitosis
+option_D: Gametogenesis
+answer: A
+clue: Untuk pertumbuhan.
+
+[SOAL]
+text: Sistem peredaran darah manusia adalah...
+option_A: Terbuka
+option_B: Tertutup
+option_C: Ganda
+option_D: Tertutup & ganda
+answer: D
+clue: Jantung → paru → jantung → tubuh.
+
+[SOAL]
+text: Hormon yang mengatur kadar gula darah adalah...
+option_A: Adrenalin
+option_B: Tiroksin
+option_C: Insulin
+option_D: Estrogen
+answer: C
+clue: Diproduksi pankreas.
+
+[SOAL]
+text: Teori evolusi dikemukakan oleh...
+option_A: Lamarck
+option_B: Darwin
+option_C: Mendel
+option_D: Wallace
+answer: B
+clue: Seleksi alam.
+
+[SOAL]
+text: Fungsi jantung adalah...
+option_A: Menyaring darah
+option_B: Memompa darah
+option_C: Menghasilkan darah
+option_D: Menyimpan darah
+answer: B
+clue: Alat sirkulasi utama.
+
+[SOAL]
+text: Zat hijau daun pada tumbuhan disebut...
+option_A: Karoten
+option_B: Klorofil
+option_C: Xantofil
+option_D: Antosianin
+answer: B
+clue: Menangkap cahaya matahari.
+
+[SOAL]
+text: Proses pengeluaran sisa metabolisme disebut...
+option_A: Ekskresi
+option_B: Sekresi
+option_C: Respirasi
+option_D: Digesti
+answer: A
+clue: Ginjal, paru, kulit.
+
+[SOAL]
+text: Enzim yang mengubah amilum menjadi glukosa adalah...
+option_A: Amilase
+option_B: Lipase
+option_C: Pepsin
+option_D: Tripsin
+answer: A
+clue: Di air liur.
+
+[SOAL]
+text: Proses pencernaan makanan dimulai di...
+option_A: Lambung
+option_B: Usus halus
+option_C: Mulut
+option_D: Usus besar
+answer: C
+clue: Dengan gigi dan air liur.
+
+[SOAL]
+text: Zat yang diperlukan dalam fotosintesis adalah...
+option_A: Karbon dioksida dan oksigen
+option_B: Karbon dioksida dan air
+option_C: Oksigen dan air
+option_D: Karbon dioksida dan nitrogen
+answer: B
+clue: Dengan cahaya.
+
+[SOAL]
+text: Fungsi akar pada tumbuhan adalah...
+option_A: Menyerap air dan garam mineral
+option_B: Menghasilkan oksigen
+option_C: Menyimpan makanan
+option_D: Semua benar
+answer: A
+clue: Penyerapan dari tanah.
+
+[SOAL]
+text: Sel darah merah diproduksi di...
+option_A: Jantung
+option_B: Ginjal
+option_C: Sumsum tulang
+option_D: Paru-paru
+answer: C
+clue: Tempat hematopoiesis.
+
+[SOAL]
+text: Proses pernapasan pada tumbuhan terjadi di...
+option_A: Daun
+option_B: Akar
+option_C: Batang
+option_D: Semua organ
+answer: D
+clue: Di semua sel.
+
+[SOAL]
+text: Fungsi ginjal adalah...
+option_A: Mencerna makanan
+option_B: Menghasilkan urine
+option_C: Menyaring darah
+option_D: B dan C benar
+answer: D
+clue: Filtrasi dan ekskresi.
+
+[SOAL]
+text: Proses penggabungan sperma dan sel telur disebut...
+option_A: Pembuahan
+option_B: Ovulasi
+option_C: Menstruasi
+option_D: Oogenesis
+answer: A
+clue: Pembentukan zigot.
+
+[SOAL]
+text: Pembuluh darah yang membawa darah dari jantung disebut...
+option_A: Vena
+option_B: Arteri
+option_C: Kapiler
+option_D: Pembuluh limfa
+answer: B
+clue: Arteri → keluar.
+
+[SOAL]
+text: Proses pembentukan sel telur disebut...
+option_A: Spermatogenesis
+option_B: Oogenesis
+option_C: Mitosis
+option_D: Meiosis
+answer: B
+clue: Di ovarium.
+
+[SOAL]
+text: Enzim pepsin dihasilkan di...
+option_A: Usus halus
+option_B: Lambung
+option_C: Pankreas
+option_D: Hati
+answer: B
+clue: Mengubah protein.
+
+[SOAL]
+text: Fungsi alveolus adalah...
+option_A: Tempat pertukaran gas
+option_B: Tempat penyaringan udara
+option_C: Tempat penyimpanan udara
+option_D: Tempat penghasil suara
+answer: A
+clue: Di paru-paru.
+
+[SOAL]
+text: Tumbuhan yang tidak berbunga disebut...
+option_A: Berbiji terbuka
+option_B: Berbiji tertutup
+option_C: Tumbuhan biji
+option_D: Tumbuhan karang
+answer: A
+clue: Contoh: pinus, melinjo.
+
+[SOAL]
+text: Fungsi kloroplas adalah...
+option_A: Sintesis protein
+option_B: Respirasi sel
+option_C: Fotosintesis
+option_D: Pembelahan sel
+answer: C
+clue: Tempat fotosintesis.
+
+[SOAL]
+text: Proses pembentukan sperma disebut...
+option_A: Oogenesis
+option_B: Spermatogenesis
+option_C: Mitosis
+option_D: Meiosis
+answer: B
+clue: Di testis.
+
+[SOAL]
+text: Hormon yang mengatur pertumbuhan adalah...
+option_A: Insulin
+option_B: Tiroksin
+option_C: Somatotropin
+option_D: Estrogen
+answer: C
+clue: Dihasilkan hipofisis.
+
+[SOAL]
+text: Jaringan yang berfungsi mengangkut air dan garam mineral adalah...
+option_A: Floem
+option_B: Xilem
+option_C: Parenkim
+option_D: Epidermis
+answer: B
+clue: Dari akar ke daun.
+
+[SOAL]
+text: Proses pernapasan sel disebut juga...
+option_A: Respirasi eksternal
+option_B: Respirasi internal
+option_C: Fotosintesis
+option_D: Fermentasi
+answer: B
+clue: Di mitokondria.
+
+[SOAL]
+text: Contoh hewan ovipar adalah...
+option_A: Kucing
+option_B: Anjing
+option_C: Ayam
+option_D: Kuda
+answer: C
+clue: Bertelur.
+
+[SOAL]
+text: Jaringan yang berfungsi mengangkut hasil fotosintesis adalah...
+option_A: Xilem
+option_B: Floem
+option_C: Epidermis
+option_D: Parenkim
+answer: B
+clue: Dari daun ke organ lain.
+
+[SOAL]
+text: Proses penguraian glukosa tanpa oksigen disebut...
+option_A: Fotosintesis
+option_B: Fermentasi
+option_C: Respirasi aerob
+option_D: Transpirasi
+answer: B
+clue: Contoh: ragi.
+
+[SOAL]
+text: Bagian sel yang mengatur semua kegiatan sel adalah...
+option_A: Mitokondria
+option_B: Nukleus
+option_C: Sitoplasma
+option_D: Membran sel
+answer: B
+clue: Mengandung DNA.
+
+[SOAL]
+text: Fungsi hemoglobin adalah...
+option_A: Mengangkut oksigen
+option_B: Mengangkut karbon dioksida
+option_C: Membunuh kuman
+option_D: A dan B benar
+answer: D
+clue: Protein dalam sel darah merah.
+
+[SOAL]
+text: Contoh tumbuhan berbiji tertutup adalah...
+option_A: Paku
+option_B: Lumut
+option_C: Mangga
+option_D: Pinus
+answer: C
+clue: Dikotil dan monokotil.
+
+[SOAL]
+text: Enzim yang mengubah lemak menjadi asam lemak adalah...
+option_A: Amilase
+option_B: Pepsin
+option_C: Lipase
+option_D: Tripsin
+answer: C
+clue: Di pankreas.
+
+[SOAL]
+text: Proses pengeluaran keringat berfungsi untuk...
+option_A: Menjaga suhu tubuh
+option_B: Membersihkan tubuh
+option_C: Mengeluarkan sisa metabolisme
+option_D: Semua benar
+answer: D
+clue: Ekskresi & termoregulasi.
+
+[SOAL]
+text: Fungsi hati adalah...
+option_A: Menyaring darah
+option_B: Menghasilkan empedu
+option_C: Menyimpan glikogen
+option_D: Semua benar
+answer: D
+clue: Organ multifungsi.

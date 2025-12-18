@@ -1,0 +1,359 @@
+[SOAL]
+text: Ilmu yang mempelajari makhluk hidup dan lingkungannya disebut...
+option_A: Botani
+option_B: Zoologi
+option_C: Ekologi
+option_D: Genetika
+answer: C
+clue: Studi tentang hubungan organisme dengan lingkungan.
+
+[SOAL]
+text: Cabang biologi yang mempelajari tumbuhan adalah...
+option_A: Zoologi
+option_B: Mikrobiologi
+option_C: Botani
+option_D: Embriologi
+answer: C
+clue: Studi tentang plantae.
+
+[SOAL]
+text: Cabang biologi yang mempelajari hewan adalah...
+option_A: Botani
+option_B: Zoologi
+option_C: Ekologi
+option_D: Histologi
+answer: B
+clue: Studi tentang animalia.
+
+[SOAL]
+text: Organel penghasil energi dalam sel disebut...
+option_A: Nukleus
+option_B: Mitokondria
+option_C: Ribosom
+option_D: Lisosom
+answer: B
+clue: Tempat respirasi sel.
+
+[SOAL]
+text: Organel yang berfungsi mensintesis protein adalah...
+option_A: Mitokondria
+option_B: Retikulum endoplasma
+option_C: Ribosom
+option_D: Sentrosom
+answer: C
+clue: Tempat translasi mRNA.
+
+[SOAL]
+text: Organel yang berfungsi menghancurkan organel rusak adalah...
+option_A: Mitokondria
+option_B: Retikulum endoplasma
+option_C: Lisosom
+option_D: Sentrosom
+answer: C
+clue: Mengandung enzim pencernaan.
+
+[SOAL]
+text: Organel yang hanya ditemukan pada sel tumbuhan adalah...
+option_A: Mitokondria
+option_B: Sentrosom
+option_C: Kloroplas
+option_D: Ribosom
+answer: C
+clue: Tempat fotosintesis.
+
+[SOAL]
+text: Sel yang tidak memiliki membran inti disebut...
+option_A: Eukariotik
+option_B: Prokariotik
+option_C: Multiseluler
+option_D: Uniseluler
+answer: B
+clue: Contoh: bakteri, ganggang biru.
+
+[SOAL]
+text: Sel yang memiliki membran inti disebut...
+option_A: Prokariotik
+option_B: Eukariotik
+option_C: Multiseluler
+option_D: Uniseluler
+answer: B
+clue: Contoh: hewan, tumbuhan, jamur.
+
+[SOAL]
+text: Jaringan epitel pada hewan berfungsi untuk...
+option_A: Transportasi
+option_B: Penguat struktur
+option_C: Pelindung permukaan
+option_D: Kontraksi
+answer: C
+clue: Melapisi organ dan permukaan tubuh.
+
+[SOAL]
+text: Jaringan ikat pada hewan berfungsi untuk...
+option_A: Konduksi impuls
+option_B: Pelindung
+option_C: Pengikat dan penguat organ
+option_D: Fotosintesis
+answer: C
+clue: Termasuk darah, tulang, lemak.
+
+[SOAL]
+text: Jaringan otot yang bekerja secara sadar adalah...
+option_A: Otot polos
+option_B: Otot jantung
+option_C: Otot lurik
+option_D: Otot rangka
+answer: D
+clue: Melekat pada tulang.
+
+[SOAL]
+text: Jaringan saraf berfungsi untuk...
+option_A: Kontraksi
+option_B: Menghantarkan impuls
+option_C: Melindungi
+option_D: Mengangkut
+answer: B
+clue: Neuron dan neuroglia.
+
+[SOAL]
+text: Jaringan pengangkut pada tumbuhan adalah...
+option_A: Epidermis
+option_B: Parenkim
+option_C: Xilem dan floem
+option_D: Korteks
+answer: C
+clue: Xilem (air), floem (hasil fotosintesis).
+
+[SOAL]
+text: Jaringan parenkim pada tumbuhan berfungsi untuk...
+option_A: Transportasi
+option_B: Penguat
+option_C: Penyimpanan dan fotosintesis
+option_D: Perlindungan
+answer: C
+clue: Jaringan dasar.
+
+[SOAL]
+text: Sistem organ yang berfungsi mengedarkan zat-zat ke seluruh tubuh adalah...
+option_A: Pencernaan
+option_B: Pernapasan
+option_C: Peredaran darah
+option_D: Saraf
+answer: C
+clue: Jantung dan pembuluh darah.
+
+[SOAL]
+text: Sistem organ yang berfungsi mencerna makanan adalah...
+option_A: Peredaran darah
+option_B: Pencernaan
+option_C: Saraf
+option_D: Ekskresi
+answer: B
+clue: Lambung, usus, hati, pankreas.
+
+[SOAL]
+text: Sistem organ yang berfungsi mengeluarkan sisa metabolisme adalah...
+option_A: Saraf
+option_B: Peredaran darah
+option_C: Ekskresi
+option_D: Pencernaan
+answer: C
+clue: Ginjal, paru, kulit, hati.
+
+[SOAL]
+text: Sistem organ yang berfungsi mengatur tubuh adalah...
+option_A: Pencernaan
+option_B: Peredaran darah
+option_C: Saraf dan endokrin
+option_D: Ekskresi
+answer: C
+clue: Koordinasi dan regulasi.
+
+[SOAL]
+text: Proses penguraian makanan menjadi zat yang dapat diserap oleh tubuh disebut...
+option_A: Absorpsi
+option_B: Digesti
+option_C: Asimilasi
+option_D: Ekskresi
+answer: B
+clue: Pencernaan mekanik dan kimiawi.
+
+[SOAL]
+text: Proses penyerapan zat makanan oleh tubuh disebut...
+option_A: Digesti
+option_B: Absorpsi
+option_C: Asimilasi
+option_D: Ekskresi
+answer: B
+clue: Di usus halus.
+
+[SOAL]
+text: Proses penggunaan zat makanan oleh sel disebut...
+option_A: Digesti
+option_B: Absorpsi
+option_C: Asimilasi
+option_D: Ekskresi
+answer: C
+clue: Metabolisme sel.
+
+[SOAL]
+text: Enzim yang mengubah amilum menjadi glukosa adalah...
+option_A: Pepsin
+option_B: Amilase
+option_C: Lipase
+option_D: tripsin
+answer: B
+clue: Di air liur dan pankreas.
+
+[SOAL]
+text: Enzim yang mengubah protein menjadi asam amino adalah...
+option_A: Amilase
+option_B: Lipase
+option_C: Pepsin
+option_D: Maltase
+answer: C
+clue: Di lambung dan pankreas.
+
+[SOAL]
+text: Enzim yang mengubah lemak menjadi asam lemak dan gliserol adalah...
+option_A: Pepsin
+option_B: Amilase
+option_C: Lipase
+option_D: Laktase
+answer: C
+clue: Di pankreas.
+
+[SOAL]
+text: Proses pernapasan seluler menghasilkan...
+option_A: Glukosa dan O₂
+option_B: CO₂ dan H₂O
+option_C: ATP, CO₂, dan H₂O
+option_D: Asam laktat
+answer: C
+clue: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ATP.
+
+[SOAL]
+text: Proses fotosintesis menghasilkan...
+option_A: CO₂ dan air
+option_B: Glukosa dan O₂
+option_C: Glukosa dan CO₂
+option_D: O₂ dan air
+answer: B
+clue: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂.
+
+[SOAL]
+text: Pigmen utama dalam fotosintesis adalah...
+option_A: Karoten
+option_B: Xantofil
+option_C: Klorofil
+option_D: Antosianin
+answer: C
+clue: Menangkap cahaya matahari.
+
+[SOAL]
+text: Fase terang fotosintesis terjadi di...
+option_A: Stroma
+option_B: Grana
+option_C: Mitokondria
+option_D: Sitoplasma
+answer: B
+clue: Tempat fotofosforilasi.
+
+[SOAL]
+text: Fase gelap fotosintesis terjadi di...
+option_A: Grana
+option_B: Stroma
+option_C: Mitokondria
+option_D: Nukleus
+answer: B
+clue: Tempat fiksasi CO₂ (siklus Calvin).
+
+[SOAL]
+text: Proses pembentukan RNA dari DNA disebut...
+option_A: Replikasi
+option_B: Transkripsi
+option_C: Translasi
+option_D: Mutasi
+answer: B
+clue: DNA → mRNA.
+
+[SOAL]
+text: Proses pembentukan protein dari RNA disebut...
+option_A: Replikasi
+option_B: Transkripsi
+option_C: Translasi
+option_D: Mutasi
+answer: C
+clue: mRNA → protein.
+
+[SOAL]
+text: Proses penggandaan DNA disebut...
+option_A: Transkripsi
+option_B: Translasi
+option_C: Replikasi
+option_D: Mutasi
+answer: C
+clue: Duplikasi materi genetik.
+
+[SOAL]
+text: Struktur DNA berbentuk...
+option_A: Heliks ganda
+option_B: Heliks tunggal
+option_C: Rantai lurus
+option_D: Bola
+answer: A
+clue: Model Watson-Crick.
+
+[SOAL]
+text: Basa nitrogen purin dalam DNA adalah...
+option_A: Adenin dan sitosin
+option_B: Adenin dan guanin
+option_C: Timin dan sitosin
+option_D: Timin dan guanin
+answer: B
+clue: Purin: A dan G.
+
+[SOAL]
+text: Basa nitrogen pirimidin dalam DNA adalah...
+option_A: Adenin dan guanin
+option_B: Adenin dan sitosin
+option_C: Timin dan sitosin
+option_D: Timin dan guanin
+answer: C
+clue: Pirimidin: T dan C.
+
+[SOAL]
+text: Dalam DNA, adenin berpasangan dengan...
+option_A: Guanin
+option_B: Sitosin
+option_C: Timin
+option_D: Urasil
+answer: C
+clue: A-T, G-C.
+
+[SOAL]
+text: Dalam RNA, adenin berpasangan dengan...
+option_A: Guanin
+option_B: Sitosin
+option_C: Timin
+option_D: Urasil
+answer: D
+clue: A-U, G-C.
+
+[SOAL]
+text: Jumlah kromosom dalam sel tubuh manusia adalah...
+option_A: 23 pasang
+option_B: 46 pasang
+option_C: 23 buah
+option_D: 46 buah
+answer: A
+clue: 46 total, 23 pasang.
+
+[SOAL]
+text: Sel sperma dan sel telur memiliki jumlah kromosom...
+option_A: Diploid
+option_B: Triploid
+option_C: Haploid
+option_D: Tetraploid
+answer: C
+clue: n = 23.

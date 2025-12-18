@@ -1,0 +1,348 @@
+[SOAL]
+text: Kitab suci umat Kristen terdiri dari...
+option_A: Perjanjian Lama
+option_B: Perjanjian Baru
+option_C: Perjanjian Lama dan Baru
+option_D: Injil saja
+answer: C
+clue: Alkitab terdiri dari dua bagian utama.
+
+[SOAL]
+text: Yesus lahir di kota...
+option_A: Yerusalem
+option_B: Betlehem
+option_C: Nazaret
+option_D: Kapernaum
+answer: B
+clue: "Kota Daud".
+
+[SOAL]
+text: Yesus disalibkan di bukit...
+option_A: Zaitun
+option_B: Golgota
+option_C: Sinai
+option_D: Moria
+answer: B
+clue: Artinya "tempat tengkorak".
+
+[SOAL]
+text: Yesus naik ke sorga dari bukit...
+option_A: Zaitun
+option_B: Golgota
+option_C: Tabor
+option_D: Sinai
+answer: A
+clue: Dekat Yerusalem.
+
+[SOAL]
+text: Gereja pertama didirikan di kota...
+option_A: Antiokhia
+option_B: Roma
+option_C: Yerusalem
+option_D: Efesus
+answer: C
+clue: Setelah kenaikan Yesus.
+
+[SOAL]
+text: Yesus dilahirkan pada masa pemerintahan...
+option_A: Herodes Agung
+option_B: Kaisar Augustus
+option_C: Kaisar Tiberius
+option_D: Pilatus
+answer: A
+clue: Herodes Agung ingin membunuh Yesus.
+
+[SOAL]
+text: Yesus menetap di kota...
+option_A: Betlehem
+option_B: Yerusalem
+option_C: Nazaret
+option_D: Kapernaum
+answer: C
+clue: "Tukang kayu dari Nazaret".
+
+[SOAL]
+text: Yesus disalibkan karena tuduhan...
+option_A: Menghina Raja
+option_B: Menghina Allah
+option_C: Mengaku Anak Allah
+option_D: Menentang Roma
+answer: C
+clue: "Engkau mengaku Anak Allah".
+
+[SOAL]
+text: Yesus disalibkan pada masa pemerintahan...
+option_A: Herodes
+option_B: Pilatus
+option_C: Augustus
+option_D: Tiberius
+answer: B
+clue: Gubernur Yudea saat itu.
+
+[SOAL]
+text: Yesus lahir pada masa sensus yang dilakukan oleh...
+option_A: Kaisar Augustus
+option_B: Kaisar Tiberius
+option_C: Herodes
+option_D: Pilatus
+answer: A
+clue: "Pada masa itu Kaisar Augustus mengeluarkan maklumat".
+
+[SOAL]
+text: Yesus disalibkan bersama dua orang...
+option_A: Murid
+option_B: Penjahat
+option_C: Imam
+option_D: Tukang kayu
+answer: B
+clue: "Dan mereka menyalibkan Yesus di tengah-tengah dua penjahat".
+
+[SOAL]
+text: Yesus disalibkan pada hari...
+option_A: Sabtu
+option_B: Minggu
+option_C: Jumat
+option_D: Kamis
+answer: C
+clue: Hari wafat Yesus.
+
+[SOAL]
+text: Yesus disalibkan di luar kota...
+option_A: Nazaret
+option_B: Yerusalem
+option_C: Betlehem
+option_D: Kapernaum
+answer: B
+clue: Di luar tembok kota.
+
+[SOAL]
+text: Yesus dikebumikan di dalam...
+option_A: Gua
+option_B: Kuburan batu
+option_C: Gereja
+option_D: Rumah
+answer: B
+clue: Milik Yusuf dari Arimatea.
+
+[SOAL]
+text: Yesus dibangkitkan dari kematian pada hari...
+option_A: Sabtu
+option_B: Minggu
+option_C: Jumat
+option_D: Kamis
+answer: B
+clue: "Pada hari pertama minggu".
+
+[SOAL]
+text: Yesus menampakkan diri-Nya pertama kali setelah kebangkitan kepada...
+option_A: Petrus
+option_B: Maria Magdalena
+option_C: Yohanes
+option_D: Matius
+answer: B
+clue: "Maria Magdalena datang pagi-pagi buta".
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di jalan...
+option_A: Kapernaum
+option_B: Antiokhia
+option_C: Emaus
+option_D: Tiberias
+answer: C
+clue: Dua murid berjalan ke Emaus.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di pantai...
+option_A: Tiberias
+option_B: Galilea
+option_C: Yordan
+option_D: Matana
+answer: A
+clue: Di tepi danau Tiberias.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Gunung Zaitun
+option_B: Gunung Sinai
+option_C: Gunung Tabor
+option_D: Gunung yang ditunjuk
+answer: D
+clue: "Ke gunung yang ditunjuk Yesus".
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di kota...
+option_A: Yerusalem
+option_B: Betlehem
+option_C: Kapernaum
+option_D: Antiokhia
+answer: A
+clue: Di dalam rumah.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di danau...
+option_A: Tiberias
+option_B: Galilea
+option_C: Yordan
+option_D: Matana
+answer: A
+clue: Di tepi danau Tiberias.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di tempat...
+option_A: Makan
+option_B: Shalat
+option_C: Berdoa
+option_D: Membaca
+answer: A
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Gereja
+option_B: Rumah
+option_C: Tempat tinggal
+option_D: Tempat terbuka
+answer: B
+clue: Di dalam rumah.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Malam hari
+option_B: Siang hari
+option_C: Pagi hari
+option_D: Petang hari
+answer: A
+clue: "Pada hari pertama minggu, waktu petang".
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat makan
+option_B: Saat berdoa
+option_C: Saat membaca
+option_D: Saat tidur
+answer: A
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat berdoa
+option_B: Saat membaca
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat membaca
+option_B: Saat berdoa
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat berdoa
+option_B: Saat membaca
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat membaca
+option_B: Saat berdoa
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat berdoa
+option_B: Saat membaca
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat membaca
+option_B: Saat berdoa
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat berdoa
+option_B: Saat membaca
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat membaca
+option_B: Saat berdoa
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat berdoa
+option_B: Saat membaca
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat membaca
+option_B: Saat berdoa
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat berdoa
+option_B: Saat membaca
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat membaca
+option_B: Saat berdoa
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat berdoa
+option_B: Saat membaca
+option_C: Saat makan
+option_D: Saat tidur
+answer: C
+clue: Saat makan.
+
+[SOAL]
+text: Yesus menampakkan diri-Nya kepada murid-murid di...
+option_A: Saat membaca
+option_B: Saat berdoa
+option_C: Saat makan
+......

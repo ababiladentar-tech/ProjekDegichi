@@ -1,0 +1,332 @@
+[SOAL]
+text: Diketahui fungsi f(x) = x^x^x^x. Maka ln(f(x)) = ...
+option_A: x^x^x ln x
+option_B: x^x ln x
+option_C: x ln x
+option_D: ln x
+answer: A
+clue: Logaritma bertingkat.
+
+[SOAL]
+text: Turunan dari f(x) = ln(ln(x)) adalah...
+option_A: 1/(x ln(x))
+option_B: 1/x
+option_C: ln(x)
+option_D: 1/ln(x)
+answer: A
+clue: Aturan rantai.
+
+[SOAL]
+text: Diketahui f(x) = e^(x^x). Maka f'(x) = ...
+option_A: e^(x^x) (x^x)(ln x + 1)
+option_B: e^(x^x) (x^x)(ln x)
+option_C: e^(x^x) (x^x)
+option_D: e^(x^x) (ln x + 1)
+answer: A
+clue: Aturan rantai.
+
+[SOAL]
+text: Diketahui f(x) = x^(e^x). Maka ln(f(x)) = ...
+option_A: e^x ln x
+option_B: e^x
+option_C: ln x
+option_D: x
+answer: A
+clue: Logaritma.
+
+[SOAL]
+text: Diketahui f(x) = (e^x)^(e^x). Maka ln(f(x)) = ...
+option_A: e^x * e^x = e^(2x)
+option_B: e^x
+option_C: e^(x²)
+option_D: x
+answer: A
+clue: Logaritma.
+
+[SOAL]
+text: Diketahui f(x) = sin(x^(e^x)). Maka f'(0) = ...
+option_A: 0
+option_B: 1
+option_C: -1
+option_D: ∞
+answer: A
+clue: x=0 → x^(e^x) = 0 → sin(0)=0, f'(0)=cos(0)*turunan=0.
+
+[SOAL]
+text: Diketahui f(x) = cos(x^(e^x)). Maka f'(0) = ...
+option_A: 0
+option_B: 1
+option_C: -1
+option_D: ∞
+answer: A
+clue: x=0 → x^(e^x) = 0 → cos(0)=1, f'(0)=-sin(0)*turunan=0.
+
+[SOAL]
+text: Diketahui f(x) = tan(x^(e^x)). Maka f'(0) = ...
+option_A: 0
+option_B: 1
+option_C: -1
+option_D: ∞
+answer: B
+clue: x=0 → tan(0)=0, f'(0)=sec²(0)*turunan=1*1=1.
+
+[SOAL]
+text: Diketahui f(x) = e^(tan(x)). Maka f'(π/4) = ...
+option_A: e * sec²(π/4)
+option_B: e
+option_C: sec²(π/4)
+option_D: 0
+answer: A
+clue: f'(x) = e^(1) * sec²(π/4) = e * 2.
+
+[SOAL]
+text: Diketahui f(x) = ln(sec(x) + tan(x)). Maka f'(x) = ...
+option_A: sec(x)
+option_B: tan(x)
+option_C: sec²(x)
+option_D: cos(x)
+answer: A
+clue: f'(x) = 1/(sec x + tan x) * (sec x tan x + sec² x) = sec x.
+
+[SOAL]
+text: Diketahui f(x) = x^x^x^x^x. Fungsi ini terlalu kompleks, tetapi ln(ln(f(x))) = ...
+option_A: ln(x^x^x ln x)
+option_B: ln(x^x ln x)
+option_C: ln(x ln x)
+option_D: ln(ln x)
+answer: A
+clue: Logaritma bertingkat.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x²) e^t dt. Maka f'(x) = ...
+option_A: 2x e^(x²)
+option_B: e^(x²)
+option_C: x e^(x²)
+option_D: 2 e^(x²)
+answer: A
+clue: Aturan rantai + teorema dasar.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(ln x) e^t dt. Maka f'(x) = ...
+option_A: 1/x * e^(ln x) = 1
+option_B: 1/x
+option_C: e^(ln x)
+option_D: 1/x * ln x
+answer: A
+clue: Aturan rantai + teorema dasar.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(sin x) cos(t) dt. Maka f'(x) = ...
+option_A: cos(x) * cos(sin x)
+option_B: cos(x) * sin(sin x)
+option_C: sin(x) * cos(sin x)
+option_D: sin(x) * sin(sin x)
+answer: A
+clue: Aturan rantai + teorema dasar.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x^3) t² dt. Maka f'(x) = ...
+option_A: 3x^5
+option_B: x^5
+option_C: 3x^4
+option_D: x^4
+answer: A
+clue: ∫₀^(x^3) t² dt = [(t³/3)]₀^(x^3) = x^9/3. f'(x) = 9x^8 / 3 = 3x^8.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x^2) ln(t) dt. Maka f'(x) = ...
+option_A: 2x ln(x²)
+option_B: x ln(x²)
+option_C: 2x ln(x)
+option_D: x ln(x)
+answer: A
+clue: Aturan rantai.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(e^x) ln(t) dt. Maka f'(x) = ...
+option_A: e^x ln(e^x) = x e^x
+option_B: e^x ln(e^x)
+option_C: e^x
+option_D: ln(e^x)
+answer: A
+clue: Aturan rantai.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(tan x) sec²(t) dt. Maka f'(x) = ...
+option_A: sec²(x) * sec²(tan x)
+option_B: sec²(x) * sec²(x)
+option_C: sec²(x)
+option_D: sec^4(x)
+answer: A
+clue: Aturan rantai.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) t e^t dt. Maka f'(x) = ...
+option_A: x e^x
+option_B: e^x
+option_C: x
+option_D: e^x + x e^x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) e^t / t dt. Maka f'(x) = ...
+option_A: e^x / x
+option_B: e^x
+option_C: 1/x
+option_D: e^x * x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) ln(t) / t dt. Maka f'(x) = ...
+option_A: ln(x) / x
+option_B: ln(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) sin(t) / t dt. Maka f'(x) = ...
+option_A: sin(x) / x
+option_B: sin(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) cos(t) / t dt. Maka f'(x) = ...
+option_A: cos(x) / x
+option_B: cos(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) tan(t) / t dt. Maka f'(x) = ...
+option_A: tan(x) / x
+option_B: tan(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) cot(t) / t dt. Maka f'(x) = ...
+option_A: cot(x) / x
+option_B: cot(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) sec(t) / t dt. Maka f'(x) = ...
+option_A: sec(x) / x
+option_B: sec(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) csc(t) / t dt. Maka f'(x) = ...
+option_A: csc(x) / x
+option_B: csc(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) arcsin(t) / t dt. Maka f'(x) = ...
+option_A: arcsin(x) / x
+option_B: arcsin(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) arccos(t) / t dt. Maka f'(x) = ...
+option_A: arccos(x) / x
+option_B: arccos(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) arctan(t) / t dt. Maka f'(x) = ...
+option_A: arctan(x) / x
+option_B: arctan(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) arccot(t) / t dt. Maka f'(x) = ...
+option_A: arccot(x) / x
+option_B: arccot(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) arcsec(t) / t dt. Maka f'(x) = ...
+option_A: arcsec(x) / x
+option_B: arcsec(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) arccsc(t) / t dt. Maka f'(x) = ...
+option_A: arccsc(x) / x
+option_B: arccsc(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) sinh(t) / t dt. Maka f'(x) = ...
+option_A: sinh(x) / x
+option_B: sinh(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) cosh(t) / t dt. Maka f'(x) = ...
+option_A: cosh(x) / x
+option_B: cosh(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) tanh(t) / t dt. Maka f'(x) = ...
+option_A: tanh(x) / x
+option_B: tanh(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.
+
+[SOAL]
+text: Diketahui f(x) = ∫₀^(x) coth(t) / t dt. Maka f'(x) = ...
+option_A: coth(x) / x
+option_B: coth(x)
+option_C: 1/x
+option_D: x
+answer: A
+clue: Fundamental theorem.

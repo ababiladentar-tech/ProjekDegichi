@@ -1,0 +1,350 @@
+[SOAL]
+text: Pancasila sebagai dasar negara tercantum dalam...
+option_A: Pembukaan UUD 1945
+option_B: Batang Tubuh UUD 1945
+option_C: Penjelasan UUD 1945
+option_D: Ketetapan MPR
+answer: A
+clue: Alinea ke-4.
+
+[SOAL]
+text: Sila pertama Pancasila berbunyi...
+option_A: Ketuhanan Yang Maha Esa
+option_B: Kemanusiaan yang Adil dan Beradab
+option_C: Persatuan Indonesia
+option_D: Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan
+answer: A
+clue: Sila dasar.
+
+[SOAL]
+text: Pancasila sebagai pandangan hidup bangsa tercantum dalam...
+option_A: Pembukaan UUD 1945
+option_B: Penjelasan UUD 1945
+option_C: Batang Tubuh UUD 1945
+option_D: Tap MPR
+answer: B
+clue: Penjelasan.
+
+[SOAL]
+text: Pancasila sebagai ideologi negara berarti...
+option_A: Hanya satu-satunya ideologi
+option_B: Dasar kehidupan bernegara
+option_C: Pedoman hidup masyarakat
+option_D: Semua jawaban benar
+answer: D
+clue: Semua merupakan fungsi ideologi.
+
+[SOAL]
+text: Lembaga negara yang berwenang mengubah UUD 1945 adalah...
+option_A: DPR
+option_B: Presiden
+option_C: MPR
+option_D: Mahkamah Konstitusi
+answer: C
+clue: Sidang MPR.
+
+[SOAL]
+text: Sistem pemerintahan Indonesia adalah...
+option_A: Presidensial
+option_B: Parlementer
+option_C: Federal
+option_D: Otoriter
+answer: A
+clue: Presiden sebagai kepala negara dan pemerintahan.
+
+[SOAL]
+text: Kedaulatan rakyat di Indonesia diwujudkan dalam bentuk...
+option_A: Pemilu
+option_B: DPR
+option_C: MPR
+option_D: Semua jawaban benar
+answer: D
+clue: Semua merupakan wujud kedaulatan rakyat.
+
+[SOAL]
+text: Hak untuk memilih dan dipilih dalam pemilu disebut...
+option_A: Hak pilih aktif
+option_B: Hak pilih pasif
+option_C: Hak politik
+option_D: Hak konstitusional
+answer: C
+clue: Hak politik.
+
+[SOAL]
+text: Bhinneka Tunggal Ika berasal dari kitab...
+option_A: Ramayana
+option_B: Mahabharata
+option_C: Sutasoma
+option_D: Arjuna Wiwaha
+answer: C
+clue: Dikemukakan oleh Mpu Tantular.
+
+[SOAL]
+text: Pancasila disahkan sebagai dasar negara pada tanggal...
+option_A: 1 Juni 1945
+option_B: 18 Agustus 1945
+option_C: 17 Agustus 1945
+option_D: 22 Juni 1945
+answer: B
+clue: Sidang PPKI.
+
+[SOAL]
+text: Pancasila sebagai kepribadian bangsa berarti...
+option_A: Identitas bangsa
+option_B: Jiwa bangsa
+option_C: Karakter bangsa
+option_D: Semua benar
+answer: D
+clue: Pancasila mencerminkan identitas bangsa.
+
+[SOAL]
+text: Warga negara Indonesia yang berusia 17 tahun wajib memiliki...
+option_A: KTP
+option_B: SIM
+option_C: NPWP
+option_D: Paspor
+answer: A
+clue: Kartu Tanda Penduduk.
+
+[SOAL]
+text: Kewajiban warga negara tercantum dalam UUD 1945 Pasal...
+option_A: 27
+option_B: 28
+option_C: 29
+option_D: 30
+answer: D
+clue: Pasal 30 ayat 1 dan 2.
+
+[SOAL]
+text: Hak warga negara untuk mendapat pendidikan tercantum dalam UUD 1945 Pasal...
+option_A: 28
+option_B: 29
+option_C: 30
+option_D: 31
+answer: D
+clue: Pasal 31.
+
+[SOAL]
+text: Negara Indonesia berbentuk...
+option_A: Republik
+option_B: Kesatuan
+option_C: Republik Kesatuan
+option_D: Federasi
+answer: C
+clue: UUD 1945 Pasal 1 ayat 1.
+
+[SOAL]
+text: Presiden dan Wakil Presiden dipilih langsung oleh...
+option_A: MPR
+option_B: DPR
+option_C: Rakyat
+option_D: DPD
+answer: C
+clue: Sejak amendemen.
+
+[SOAL]
+text: Sistem pemerintahan daerah di Indonesia adalah...
+option_A: Desentralisasi
+option_B: Dekonsentrasi
+option_C: Tugas pembantuan
+option_D: Semua benar
+answer: D
+clue: Kombinasi sistem.
+
+[SOAL]
+text: Kekuasaan kehakiman di Indonesia dilaksanakan oleh...
+option_A: MA dan MK
+option_B: MA, MK, dan Mahkamah Agung Syariah
+option_C: MA, MK, dan Pengadilan di bawahnya
+option_D: MA saja
+answer: C
+clue: Kekuasaan kehakiman merdeka.
+
+[SOAL]
+text: Hak untuk tidak disiksa tercantum dalam UUD 1945 Pasal...
+option_A: 28A
+option_B: 28B
+option_C: 28C
+option_D: 28G
+answer: D
+clue: Pasal 28G ayat 1.
+
+[SOAL]
+text: Sistem pemerintahan presidensial berarti...
+option_A: Presiden tidak bertanggung jawab kepada DPR
+option_B: Presiden bertanggung jawab kepada DPR
+option_C: Presiden dipilih DPR
+option_D: Presiden bisa diganti DPR
+answer: A
+clue: Kekuasaan eksekutif terpisah dari legislatif.
+
+[SOAL]
+text: Pancasila sebagai sumber dari segala sumber hukum berarti...
+option_A: Semua hukum harus sesuai Pancasila
+option_B: Pancasila tertinggi dalam hirarki hukum
+option_C: Pancasila dasar pembentukan hukum
+option_D: Semua benar
+answer: D
+clue: Pancasila sebagai dasar hukum.
+
+[SOAL]
+text: Kedaulatan negara berada di tangan...
+option_A: Presiden
+option_B: MPR
+option_C: Rakyat
+option_D: DPR
+answer: C
+clue: UUD 1945 Pasal 1 ayat 2.
+
+[SOAL]
+text: Sistem pemerintahan Indonesia menganut asas...
+option_A: Pemisahan kekuasaan
+option_B: Pembagian kekuasaan
+option_C: Checks and balances
+option_D: Semua benar
+answer: D
+clue: Prinsip sistem pemerintahan.
+
+[SOAL]
+text: Kepala daerah provinsi disebut...
+option_A: Bupati
+option_B: Walikota
+option_C: Gubernur
+option_D: Camat
+answer: C
+clue: Kepala pemerintahan daerah provinsi.
+
+[SOAL]
+text: Sistem demokrasi yang dianut Indonesia adalah...
+option_A: Demokrasi liberal
+option_B: Demokrasi komunis
+option_C: Demokrasi Pancasila
+option_D: Demokrasi parlementer
+answer: C
+clue: Berdasarkan Pancasila dan UUD 1945.
+
+[SOAL]
+text: Hak DPR untuk mengajukan usul RUU disebut...
+option_A: Hak interpelasi
+option_B: Hak angket
+option_C: Hak inisiatif
+option_D: Hak menyatakan pendapat
+answer: C
+clue: Hak mengusulkan rancangan undang-undang.
+
+[SOAL]
+text: Hak DPR untuk meminta keterangan pemerintah disebut...
+option_A: Hak angket
+option_B: Hak interpelasi
+option_C: Hak menyatakan pendapat
+option_D: Hak budget
+answer: B
+clue: Hak meminta penjelasan.
+
+[SOAL]
+text: Hak DPR untuk menyelidiki suatu masalah disebut...
+option_A: Hak interpelasi
+option_B: Hak angket
+option_C: Hak menyatakan pendapat
+option_D: Hak inisiatif
+answer: B
+clue: Hak penyelidikan.
+
+[SOAL]
+text: Wewenang Presiden untuk mengangkat dan memberhentikan menteri adalah bentuk dari...
+option_A: Kekuasaan legislatif
+option_B: Kekuasaan eksekutif
+option_C: Kekuasaan yudikatif
+option_D: Kekuasaan konstitutif
+answer: B
+clue: Kewenangan Presiden sebagai kepala pemerintahan.
+
+[SOAL]
+text: Pemilihan umum di Indonesia bersifat...
+option_A: Langsung
+option_B: Umum
+option_C: Bebas dan rahasia
+option_D: Semua benar
+answer: D
+clue: Asas pemilu.
+
+[SOAL]
+text: Sistem partai politik di Indonesia adalah...
+option_A: Satu partai
+option_B: Dua partai
+option_C: Multi partai
+option_D: Tidak ada partai
+answer: C
+option_D: Partai peserta pemilu.
+
+[SOAL]
+text: Hak asasi manusia tercantum dalam UUD 1945 Pasal...
+option_A: 27 - 34
+option_B: 28 - 34
+option_C: 29 - 34
+option_D: 30 - 34
+answer: B
+clue: Bab XA tentang Hak Asasi Manusia.
+
+[SOAL]
+text: Perlindungan terhadap warga negara dan penduduk diatur dalam UUD 1945 Pasal...
+option_A: 27
+option_B: 28
+option_C: 29
+option_D: 30
+answer: D
+clue: Pasal 30 ayat 1.
+
+[SOAL]
+text: Kemerdekaan berserikat dan berkumpul diatur dalam UUD 1945 Pasal...
+option_A: 27
+option_B: 28
+option_C: 29
+option_D: 30
+answer: B
+clue: Pasal 28E ayat 1.
+
+[SOAL]
+text: Hak untuk hidup dan hak untuk mempertahankan hidup tercantum dalam UUD 1945 Pasal...
+option_A: 28A
+option_B: 28B
+option_C: 28C
+option_D: 28D
+answer: A
+clue: Pasal 28A.
+
+[SOAL]
+text: Hak untuk berkeluarga dan mendapatkan perlindungan tercantum dalam UUD 1945 Pasal...
+option_A: 28B
+option_B: 28C
+option_C: 28D
+option_D: 28E
+answer: A
+clue: Pasal 28B ayat 1.
+
+[SOAL]
+text: Hak untuk memperoleh pendidikan dan pengajaran tercantum dalam UUD 1945 Pasal...
+option_A: 28C
+option_B: 29
+option_C: 30
+option_D: 31
+answer: D
+clue: Pasal 31 ayat 1.
+
+[SOAL]
+text: Hak untuk bekerja dan mendapatkan penghidupan yang layak tercantum dalam UUD 1945 Pasal...
+option_A: 27 ayat 2
+option_B: 28
+option_C: 29
+option_D: 30
+answer: A
+clue: Pasal 27 ayat 2.
+
+[SOAL]
+text: Hak atas pengakuan, jaminan, perlindungan dan kepastian hukum tercantum dalam UUD 1945 Pasal...
+option_A: 28D
+option_B: 28E
+option_C: 28F
+option_D: 28G
+answer: A
+clue: Pasal 28D ayat 1.

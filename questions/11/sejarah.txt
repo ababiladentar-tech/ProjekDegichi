@@ -1,0 +1,359 @@
+[SOAL]
+text: Proklamasi Kemerdekaan Indonesia dibacakan pada tanggal...
+option_A: 16 Agustus 1945
+option_B: 17 Agustus 1945
+option_C: 18 Agustus 1945
+option_D: 19 Agustus 1945
+answer: B
+clue: Oleh Soekarno-Hatta di Jl. Pegangsaan Timur 56.
+
+[SOAL]
+text: Tokoh yang mengusulkan nama "Pancasila" adalah...
+option_A: Moh. Yamin
+option_B: Soepomo
+option_C: Soekarno
+option_D: Ki Hajar Dewantara
+answer: C
+clue: Dalam sidang BPUPKI 1 Juni 1945.
+
+[SOAL]
+text: Kerajaan Sriwijaya berkembang pesat karena...
+option_A: Hasil pertanian
+option_B: Perdagangan maritim
+option_C: Penaklukan wilayah
+option_D: Tambang emas
+answer: B
+clue: Penguasa Selat Malaka.
+
+[SOAL]
+text: Kitab Sutasoma dikarang oleh...
+option_A: Mpu Prapanca
+option_B: Mpu Tantular
+option_C: Mpu Sedah
+option_D: Mpu Panuluh
+answer: B
+clue: "Bhinneka Tunggal Ika" berasal dari sini.
+
+[SOAL]
+text: VOC didirikan pada tahun...
+option_A: 1596
+option_B: 1602
+option_C: 1619
+option_D: 1799
+answer: B
+clue: 20 Maret 1602.
+
+[SOAL]
+text: Pusat pemerintahan VOC di Indonesia adalah...
+option_A: Semarang
+option_B: Surabaya
+option_C: Batavia
+option_D: Makassar
+answer: C
+clue: Sekarang Jakarta.
+
+[SOAL]
+text: Perlawanan Pangeran Diponegoro dikenal sebagai...
+option_A: Perang Padri
+option_B: Perang Diponegoro
+option_C: Perang Jawa
+option_D: Perang Aceh
+answer: C
+clue: 1825-1830.
+
+[SOAL]
+text: Budi Utomo didirikan pada tanggal...
+option_A: 20 Mei 1908
+option_B: 28 Oktober 1928
+option_C: 1 Juni 1945
+option_D: 17 Agustus 1945
+answer: A
+clue: Hari Kebangkitan Nasional.
+
+[SOAL]
+text: Sumpah Pemuda dikumandangkan pada tahun...
+option_A: 1908
+option_B: 1928
+option_C: 1945
+option_D: 1950
+answer: B
+clue: Kongres Pemuda II.
+
+[SOAL]
+text: Tokoh yang membacakan teks Proklamasi adalah...
+option_A: Soekarno
+option_B: Mohammad Hatta
+option_C: Sayuti Melik
+option_D: Adam Malik
+answer: A
+clue: Ir. Soekarno.
+
+[SOAL]
+text: Konferensi Meja Bundar (KMB) dilaksanakan di...
+option_A: Jakarta
+option_B: Yogyakarta
+option_C: Den Haag
+option_D: New York
+answer: C
+clue: Belanda, 1949.
+
+[SOAL]
+text: Pemimpin PKI yang terlibat dalam G30S/PKI adalah...
+option_A: D.N. Aidit
+option_B: Musso
+option_C: Tan Malaka
+option_D: Semaun
+answer: A
+clue: Sekjen PKI.
+
+[SOAL]
+text: Repelita I dilaksanakan pada masa pemerintahan...
+option_A: Soekarno
+option_B: Soeharto
+option_C: Habibie
+option_D: Gus Dur
+answer: B
+clue: 1969-1974.
+
+[SOAL]
+text: Gerakan 30 September 1965 menewaskan... perwira tinggi
+option_A: 5
+option_B: 6
+option_C: 7
+option_D: 8
+answer: B
+clue: 6 jenderal & 1 perwira.
+
+[SOAL]
+text: Reformasi di Indonesia dimulai pada tahun...
+option_A: 1997
+option_B: 1998
+option_C: 1999
+option_D: 2000
+answer: B
+clue: 21 Mei 1998.
+
+[SOAL]
+text: Presiden pertama Indonesia adalah...
+option_A: Soekarno
+option_B: Mohammad Hatta
+option_C: Soeharto
+option_D: BJ Habibie
+answer: A
+clue: Proklamator & founding father.
+
+[SOAL]
+text: Kerajaan Majapahit mencapai puncak kejayaan di bawah...
+option_A: Raden Wijaya
+option_B: Hayam Wuruk
+option_C: Kertanegara
+option_D: Jayanegara
+answer: B
+clue: Dengan patih Gajah Mada.
+
+[SOAL]
+text: Sumpah Palapa diucapkan oleh...
+option_A: Raden Wijaya
+option_B: Gajah Mada
+option_C: Hayam Wuruk
+option_D: Tribhuwana
+answer: B
+clue: "Tak akan makan palapa sebelum Nusantara bersatu".
+
+[SOAL]
+text: Peristiwa Rengasdengklok terjadi pada tanggal...
+option_A: 15 Agustus 1945
+option_B: 16 Agustus 1945
+option_C: 17 Agustus 1945
+option_D: 18 Agustus 1945
+answer: B
+clue: Soekarno-Hatta diamankan pemuda.
+
+[SOAL]
+text: Tokoh yang mengetik naskah Proklamasi adalah...
+option_A: Soekarno
+option_B: Mohammad Hatta
+option_C: Sayuti Melik
+option_D: B.M. Diah
+answer: C
+clue: Hasil ketikan dibacakan 17 Agustus.
+
+[SOAL]
+text: Piagam Jakarta dirumuskan oleh...
+option_A: BPUPKI
+option_B: PPKI
+option_C: Panitia Sembilan
+option_D: KNIP
+answer: C
+clue: 22 Juni 1945.
+
+[SOAL]
+text: UUD 1945 disahkan pada tanggal...
+option_A: 16 Agustus 1945
+option_B: 17 Agustus 1945
+option_C: 18 Agustus 1945
+option_D: 19 Agustus 1945
+answer: C
+clue: Oleh PPKI.
+
+[SOAL]
+text: Indonesia menjadi anggota PBB pada tahun...
+option_A: 1945
+option_B: 1950
+option_C: 1965
+option_D: 1975
+answer: B
+clue: 28 September 1950.
+
+[SOAL]
+text: Operasi Trikora bertujuan untuk...
+option_A: Membebaskan Irian Barat
+option_B: Mengamankan Kalimantan
+option_C: Menumpas PRRI
+option_D: Menghadapi Malaysia
+answer: A
+clue: 1961-1962.
+
+[SOAL]
+text: G30S/PKI terjadi pada tanggal...
+option_A: 29 September 1965
+option_B: 30 September 1965
+option_C: 1 Oktober 1965
+option_D: 2 Oktober 1965
+answer: B
+clue: Malam hingga dini hari.
+
+[SOAL]
+text: Supersemar diberikan oleh Soekarno kepada...
+option_A: Soeharto
+option_B: Mohammad Hatta
+option_C: Adam Malik
+option_D: Suharto
+answer: A
+clue: 11 Maret 1966.
+
+[SOAL]
+text: Pemilu pertama di Indonesia dilaksanakan pada tahun...
+option_A: 1955
+option_B: 1971
+option_C: 1999
+option_D: 2004
+answer: A
+clue: Pemilu legislatif & konstituante.
+
+[SOAL]
+text: Konfrontasi dengan Malaysia terjadi pada masa...
+option_A: Soekarno
+option_B: Soeharto
+option_C: Habibie
+option_D: Gus Dur
+answer: A
+clue: 1963-1966.
+
+[SOAL]
+text: Tokoh yang dikenal sebagai "The Smiling General" adalah...
+option_A: Soeharto
+option_B: Nasution
+option_C: Yani
+option_D: Suharto
+answer: A
+clue: Panglima Kostrad.
+
+[SOAL]
+text: Peristiwa Tanjung Priok terjadi pada tahun...
+option_A: 1965
+option_B: 1974
+option_C: 1982
+option_D: 1984
+answer: D
+clue: 12 September 1984.
+
+[SOAL]
+text: Reformasi ditandai dengan...
+option_A: Jatuhnya Orde Baru
+option_B: Amien Rais memimpin demonstrasi
+option_C: Soeharto mengundurkan diri
+option_D: Semua benar
+answer: D
+clue: 21 Mei 1998.
+
+[SOAL]
+text: Presiden ketiga Indonesia adalah...
+option_A: Soeharto
+option_B: BJ Habibie
+option_C: Gus Dur
+option_D: Megawati
+answer: B
+clue: 1998-1999.
+
+[SOAL]
+text: Kerusuhan Mei 1998 terjadi di kota...
+option_A: Jakarta
+option_B: Surabaya
+option_C: Medan
+option_D: Semua benar
+answer: D
+clue: Nasional.
+
+[SOAL]
+text: Pemilu pertama era Reformasi dilaksanakan pada tahun...
+option_A: 1998
+option_B: 1999
+option_C: 2004
+option_D: 2009
+answer: B
+clue: 7 Juni 1999.
+
+[SOAL]
+text: Amandemen UUD 1945 dilakukan sebanyak...
+option_A: 2 kali
+option_B: 3 kali
+option_C: 4 kali
+option_D: 5 kali
+answer: C
+clue: 1999-2002.
+
+[SOAL]
+text: Lembaga yang mengadili Soeharto atas kasus korupsi adalah...
+option_A: MA
+option_B: MK
+option_C: Pengadilan Tipikor
+option_D: Tidak pernah diadili
+answer: D
+clue: Meninggal sebelum diadili.
+
+[SOAL]
+text: Gerakan Aceh Merdeka (GAM) berakhir dengan...
+option_A: Operasi militer
+option_B: MoU Helsinki
+option_C: Referendum
+option_D: Amnesti
+answer: B
+clue: 15 Agustus 2005.
+
+[SOAL]
+text: Presiden pertama yang dipilih langsung oleh rakyat adalah...
+option_A: Megawati
+option_B: SBY
+option_C: Jokowi
+option_D: Prabowo
+answer: B
+clue: 2004.
+
+[SOAL]
+text: Bencana tsunami Aceh terjadi pada tanggal...
+option_A: 26 Desember 2004
+option_B: 12 Januari 2005
+option_C: 26 Desember 2005
+option_D: 17 Agustus 2004
+answer: A
+clue: Gempa 9,1 SR.
+
+[SOAL]
+text: Tokoh yang dikenal sebagai "Bapak Pembangunan" adalah...
+option_A: Soekarno
+option_B: Soeharto
+option_C: Ali Sadikin
+option_D: Widjojo Nitisastro
+answer: B
+clue: Era Orde Baru.

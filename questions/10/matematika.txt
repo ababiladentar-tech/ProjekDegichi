@@ -1,0 +1,350 @@
+[SOAL]
+text: Hasil dari 2 + 3 × 4 adalah...
+option_A: 20
+option_B: 14
+option_C: 10
+option_D: 9
+answer: B
+clue: Perkalian dikerjakan dulu.
+
+[SOAL]
+text: Nilai x dari persamaan 2x + 5 = 15 adalah...
+option_A: 5
+option_B: 10
+option_C: 7.5
+option_D: 20
+answer: A
+clue: 2x = 10 → x = 5.
+
+[SOAL]
+text: Luas persegi dengan sisi 6 cm adalah...
+option_A: 12 cm²
+option_B: 24 cm²
+option_C: 36 cm²
+option_D: 48 cm²
+answer: C
+clue: s² = 6² = 36.
+
+[SOAL]
+text: Keliling lingkaran dengan jari-jari 7 cm adalah...
+option_A: 22 cm
+option_B: 44 cm
+option_C: 154 cm
+option_D: 308 cm
+answer: B
+clue: 2πr = 2×22/7×7 = 44.
+
+[SOAL]
+text: Volume kubus dengan rusuk 3 cm adalah...
+option_A: 9 cm³
+option_B: 18 cm³
+option_C: 27 cm³
+option_D: 81 cm³
+answer: C
+clue: r³ = 3³ = 27.
+
+[SOAL]
+text: 25% dari 200 adalah...
+option_A: 25
+option_B: 50
+option_C: 75
+option_D: 100
+answer: B
+clue: 0.25 × 200 = 50.
+
+[SOAL]
+text: FPB dari 12 dan 18 adalah...
+option_A: 3
+option_B: 6
+option_C: 9
+option_D: 12
+answer: B
+clue: Faktor persekutuan terbesar.
+
+[SOAL]
+text: KPK dari 4 dan 6 adalah...
+option_A: 12
+option_B: 24
+option_C: 36
+option_D: 48
+answer: A
+clue: Kelipatan persekutuan terkecil.
+
+[SOAL]
+text: Hasil dari (-5) × 4 adalah...
+option_A: 20
+option_B: -20
+option_C: 1
+option_D: -1
+answer: B
+clue: Negatif × positif = negatif.
+
+[SOAL]
+text: √64 = ...
+option_A: 4
+option_B: 6
+option_C: 8
+option_D: 16
+answer: C
+clue: 8 × 8 = 64.
+
+[SOAL]
+text: Jika a = 3 dan b = 4, maka a² + b² = ...
+option_A: 7
+option_B: 12
+option_C: 25
+option_D: 49
+answer: C
+clue: 3² + 4² = 9 + 16 = 25.
+
+[SOAL]
+text: Jumlah sudut dalam segitiga adalah...
+option_A: 90°
+option_B: 180°
+option_C: 270°
+option_D: 360°
+answer: B
+clue: Rumus dasar geometri.
+
+[SOAL]
+text: Hasil dari 3/4 + 1/2 = ...
+option_A: 1
+option_B: 5/4
+option_C: 7/4
+option_D: 3/2
+answer: B
+clue: Samakan penyebut.
+
+[SOAL]
+text: Jika x = 2, maka 3x + 5 = ...
+option_A: 8
+option_B: 9
+option_C: 10
+option_D: 11
+answer: D
+clue: 3×2 + 5 = 11.
+
+[SOAL]
+text: Luas segitiga dengan alas 10 cm dan tinggi 6 cm adalah...
+option_A: 16 cm²
+option_B: 30 cm²
+option_C: 36 cm²
+option_D: 60 cm²
+answer: B
+clue: ½ × a × t = ½ × 10 × 6 = 30.
+
+[SOAL]
+text: 1 jam = ... detik
+option_A: 60
+option_B: 120
+option_C: 360
+option_D: 3600
+answer: D
+clue: 1 jam = 60×60 detik.
+
+[SOAL]
+text: 0.75 dalam bentuk pecahan biasa adalah...
+option_A: 1/2
+option_B: 3/4
+option_C: 2/3
+option_D: 4/5
+answer: B
+clue: 0.75 = 75/100 = 3/4.
+
+[SOAL]
+text: Jika 2x - 3 = 7, maka x = ...
+option_A: 2
+option_B: 3
+option_C: 4
+option_D: 5
+answer: D
+clue: 2x = 10 → x = 5.
+
+[SOAL]
+text: Jumlah dari 1/3 + 1/6 = ...
+option_A: 1/2
+option_B: 1/3
+option_C: 2/3
+option_D: 1/6
+answer: A
+clue: Samakan penyebut → 2/6 + 1/6 = 3/6 = 1/2.
+
+[SOAL]
+text: Nilai dari 2⁵ = ...
+option_A: 10
+option_B: 25
+option_C: 32
+option_D: 64
+answer: C
+clue: 2×2×2×2×2 = 32.
+
+[SOAL]
+text: Dalam pecahan desimal, 1/5 = ...
+option_A: 0.1
+option_B: 0.2
+option_C: 0.5
+option_D: 0.05
+answer: B
+clue: 1÷5 = 0.2.
+
+[SOAL]
+text: 10% dari 500 adalah...
+option_A: 5
+option_B: 50
+option_C: 100
+option_D: 250
+answer: B
+clue: 0.10 × 500 = 50.
+
+[SOAL]
+text: Jika panjang persegi panjang adalah 8 cm dan lebar 5 cm, maka luasnya adalah...
+option_A: 13 cm²
+option_B: 26 cm²
+option_C: 40 cm²
+option_D: 80 cm²
+answer: C
+clue: p × l = 8 × 5 = 40.
+
+[SOAL]
+text: Jika diameter lingkaran adalah 14 cm, maka jari-jarinya adalah...
+option_A: 7 cm
+option_B: 14 cm
+option_C: 21 cm
+option_D: 28 cm
+answer: A
+clue: Jari-jari = diameter ÷ 2.
+
+[SOAL]
+text: Hasil dari 100 ÷ 4 = ...
+option_A: 20
+option_B: 25
+option_C: 30
+option_D: 40
+answer: B
+clue: 100 ÷ 4 = 25.
+
+[SOAL]
+text: Jika 3x = 27, maka x = ...
+option_A: 3
+option_B: 6
+option_C: 9
+option_D: 12
+answer: C
+clue: 27 ÷ 3 = 9.
+
+[SOAL]
+text: Bilangan prima antara 10 dan 20 adalah...
+option_A: 11, 13, 15, 17, 19
+option_B: 11, 13, 17, 19
+option_C: 12, 14, 16, 18
+option_D: 10, 11, 12
+answer: B
+clue: Bilangan yang hanya habis dibagi 1 dan dirinya sendiri.
+
+[SOAL]
+text: Hasil dari 0.5 × 0.4 = ...
+option_A: 0.02
+option_B: 0.2
+option_C: 0.9
+option_D: 2
+answer: B
+clue: 5/10 × 4/10 = 20/100 = 0.2.
+
+[SOAL]
+text: Jika x + 7 = 12, maka x = ...
+option_A: 5
+option_B: 6
+option_C: 7
+option_D: 8
+answer: A
+clue: x = 12 - 7 = 5.
+
+[SOAL]
+text: Jumlah dari 2/5 + 3/10 = ...
+option_A: 1/2
+option_B: 7/10
+option_C: 5/10
+option_D: 1
+answer: B
+clue: 4/10 + 3/10 = 7/10.
+
+[SOAL]
+text: Jika luas persegi adalah 49 cm², maka panjang sisinya adalah...
+option_A: 6 cm
+option_B: 7 cm
+option_C: 8 cm
+option_D: 9 cm
+answer: B
+clue: √49 = 7.
+
+[SOAL]
+text: Jika 4x - 8 = 0, maka x = ...
+option_A: 1
+option_B: 2
+option_C: 3
+option_D: 4
+answer: B
+clue: 4x = 8 → x = 2.
+
+[SOAL]
+text: 3/8 dalam bentuk desimal adalah...
+option_A: 0.375
+option_B: 0.35
+option_C: 0.4
+option_D: 0.3
+answer: A
+clue: 3÷8 = 0.375.
+
+[SOAL]
+text: Jika jari-jari lingkaran adalah 10 cm, maka luasnya adalah (π = 3.14)...
+option_A: 31.4 cm²
+option_B: 62.8 cm²
+option_C: 314 cm²
+option_D: 628 cm²
+answer: C
+clue: πr² = 3.14 × 100 = 314.
+
+[SOAL]
+text: 1 lusin = ... buah
+option_A: 10
+option_B: 12
+option_C: 15
+option_D: 20
+answer: B
+clue: 1 lusin = 12 buah.
+
+[SOAL]
+text: Jika 5y + 10 = 35, maka y = ...
+option_A: 3
+option_B: 4
+option_C: 5
+option_D: 6
+answer: C
+clue: 5y = 25 → y = 5.
+
+[SOAL]
+text: 1 km = ... m
+option_A: 10
+option_B: 100
+option_C: 1000
+option_D: 10000
+answer: C
+clue: 1 km = 1000 m.
+
+[SOAL]
+text: Hasil dari 9² = ...
+option_A: 18
+option_B: 81
+option_C: 90
+option_D: 100
+answer: B
+clue: 9×9 = 81.
+
+[SOAL]
+text: Jika 2/3 dari sebuah bilangan adalah 12, maka bilangan itu adalah...
+option_A: 16
+option_B: 18
+option_C: 20
+option_D: 24
+answer: B
+clue: (2/3)x = 12 → x = 12×(3/2) = 18.

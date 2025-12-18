@@ -1,0 +1,350 @@
+[SOAL]
+text: Fungsi sosiologi dalam pembangunan adalah untuk...
+option_A: Menganalisis dampak sosial
+option_B: Membantu perencanaan sosial
+option_C: Mengidentifikasi masalah sosial
+option_D: Semua benar
+answer: D
+clue: Sosiologi sangat penting dalam pembangunan.
+
+[SOAL]
+text: Sosiologi pedagogi membahas tentang...
+option_A: Sosialisasi dalam pendidikan
+option_B: Hubungan guru-murid
+option_C: Struktur pendidikan
+option_D: Semua benar
+answer: D
+clue: Cabang sosiologi pendidikan.
+
+[SOAL]
+text: Fungsi laten lembaga ekonomi adalah...
+option_A: Menyediakan lapangan kerja
+option_B: Meningkatkan kesejahteraan
+option_C: Membentuk stratifikasi sosial
+option_D: Membangun infrastruktur
+answer: C
+clue: Fungsi tidak langsung.
+
+[SOAL]
+text: Fungsi laten lembaga politik adalah...
+option_A: Membentuk kebijakan
+option_B: Mengatur kekuasaan
+option_C: Menyerap aspirasi
+option_D: Menjaga stabilitas sosial
+answer: D
+clue: Fungsi tersembunyi.
+
+[SOAL]
+text: Sistem sosial terdiri dari subsistem...
+option_A: Nilai dan norma
+option_B: Status dan peran
+option_C: Lembaga sosial
+option_D: Semua benar
+answer: D
+clue: Subsistem saling terkait.
+
+[SOAL]
+text: Perubahan sosial yang terjadi secara spontan disebut...
+option_A: Planned change
+option_B: unplanned change
+option_C: revolutionary change
+option_D: evolutionary change
+answer: B
+clue: Terjadi tanpa perencanaan.
+
+[SOAL]
+text: Perubahan sosial yang terjadi secara terencana disebut...
+option_A: planned change
+option_B: unplanned change
+option_C: revolutionary change
+option_D: evolutionary change
+answer: A
+clue: Diinisiasi oleh pihak tertentu.
+
+[SOAL]
+text: Revolusi industri menyebabkan perubahan sosial dalam bentuk...
+option_A: Urbanisasi
+option_B: Stratifikasi baru
+option_C: Industrialisasi
+option_D: Semua benar
+answer: D
+clue: Dampak besar revolusi.
+
+[SOAL]
+text: Faktor pendorong perubahan sosial adalah...
+option_A: Penemuan baru
+option_B: Konflik
+option_C: Lingkungan
+option_D: Semua benar
+answer: D
+clue: Banyak faktor yang mempengaruhi.
+
+[SOAL]
+text: Faktor penghambat perubahan sosial adalah...
+option_A: Tradisi
+option_B: Kepentingan kelompok
+option_C: Kepentingan ideologi
+option_D: Semua benar
+answer: D
+clue: Ada banyak hambatan.
+
+[SOAL]
+text: Modernisasi dapat menyebabkan perubahan dalam bidang...
+option_A: Teknologi
+option_B: Nilai sosial
+option_C: Struktur sosial
+option_D: Semua benar
+answer: D
+clue: Modernisasi menyeluruh.
+
+[SOAL]
+text: Westernisasi adalah proses perubahan sosial yang meniru budaya...
+option_A: Timur
+option_B: Barat
+option_C: Timur Tengah
+option_D: Asia
+answer: B
+clue: Budaya Barat.
+
+[SOAL]
+text: Globalisasi menyebabkan terjadinya...
+option_A: Homogenisasi budaya
+option_B: Heterogenisasi budaya
+option_C: Konvergensi budaya
+option_D: A dan C benar
+answer: D
+clue: Budaya menjadi serupa.
+
+[SOAL]
+text: Perubahan sosial yang terjadi secara lambat disebut...
+option_A: Revolutionary change
+option_B: Evolutionary change
+option_C: Planned change
+option_D: Unplanned change
+answer: B
+clue: Perubahan bertahap.
+
+[SOAL]
+text: Perubahan sosial yang terjadi secara cepat dan radikal disebut...
+option_A: Revolutionary change
+option_B: Evolutionary change
+option_C: Planned change
+option_D: Unplanned change
+answer: A
+clue: Perubahan mendadak.
+
+[SOAL]
+text: Penyimpangan sosial yang dilakukan oleh individu disebut...
+option_A: Group deviation
+option_B: Individual deviation
+option_C: Organized deviation
+option_D: Collective deviation
+answer: B
+clue: Dilakukan sendiri.
+
+[SOAL]
+text: Penyimpangan sosial yang dilakukan oleh kelompok disebut...
+option_A: Individual deviation
+option_B: Group deviation
+option_C: Organized deviation
+option_D: Collective deviation
+answer: B
+clue: Dilakukan bersama.
+
+[SOAL]
+text: Penyimpangan sosial yang dilakukan secara terorganisir disebut...
+option_A: Individual deviation
+option_B: Group deviation
+option_C: Organized deviation
+option_D: Collective deviation
+answer: C
+clue: Mempunyai struktur.
+
+[SOAL]
+text: Fungsi laten lembaga agama adalah...
+option_A: Mengatur hubungan dengan Tuhan
+option_B: Memberikan identitas sosial
+option_C: Menjaga moralitas
+option_D: Meningkatkan solidaritas
+answer: B
+clue: Fungsi tidak langsung.
+
+[SOAL]
+text: Fungsi manifes lembaga ekonomi adalah...
+option_A: Membentuk stratifikasi sosial
+option_B: Menyediakan lapangan kerja
+option_C: Mengatur distribusi
+option_D: B dan C benar
+answer: D
+clue: Fungsi utama.
+
+[SOAL]
+text: Lembaga sosial yang mengatur hubungan antar individu adalah...
+option_A: Keluarga
+option_B: Pendidikan
+option_C: Agama
+option_D: Ekonomi
+answer: A
+clue: Unit terkecil.
+
+[SOAL]
+text: Lembaga sosial yang mengatur hubungan antar kelompok adalah...
+option_A: Keluarga
+option_B: Pendidikan
+option_C: Politik
+option_D: Ekonomi
+answer: C
+clue: Kekuasaan dan pengambilan keputusan.
+
+[SOAL]
+text: Lembaga sosial yang mengatur hubungan produksi adalah...
+option_A: Keluarga
+option_B: Pendidikan
+option_C: Ekonomi
+option_D: Politik
+answer: C
+clue: Produksi, distribusi, konsumsi.
+
+[SOAL]
+text: Lembaga sosial yang mengatur hubungan dengan Tuhan adalah...
+option_A: Keluarga
+option_B: Pendidikan
+option_C: Agama
+option_D: Ekonomi
+answer: C
+clue: Hubungan vertikal.
+
+[SOAL]
+text: Lembaga sosial yang mengatur hubungan antar generasi adalah...
+option_A: Keluarga
+option_B: Pendidikan
+option_C: Agama
+option_D: Semua benar
+answer: D
+clue: Semua lembaga terlibat.
+
+[SOAL]
+text: Fungsi lembaga sosial adalah untuk...
+option_A: Mengatur kehidupan sosial
+option_B: Membentuk norma
+option_C: Menjaga stabilitas
+option_D: Semua benar
+answer: D
+clue: Fungsi penting lembaga.
+
+[SOAL]
+text: Sistem sosial adalah...
+option_A: Kumpulan individu
+option_B: Kumpulan kelompok
+option_C: Struktur dan proses sosial yang saling terkait
+option_D: Kumpulan lembaga
+answer: C
+clue: Hubungan antar elemen.
+
+[SOAL]
+text: Fungsi sistem sosial adalah untuk...
+option_A: Menjaga stabilitas
+option_B: Menyesuaikan diri
+option_C: Mengintegrasikan anggota
+option_D: Semua benar
+answer: D
+clue: Fungsi sistem sosial.
+
+[SOAL]
+text: Adaptasi dalam sistem sosial berarti...
+option_A: Menyesuaikan diri dengan lingkungan
+option_B: Mengubah lingkungan
+option_C: Mempertahankan nilai
+option_D: Mengabaikan perubahan
+answer: A
+clue: Respons terhadap perubahan.
+
+[SOAL]
+text: Goal attainment dalam sistem sosial berarti...
+option_A: Mencapai tujuan bersama
+option_B: Mempertahankan nilai
+option_C: Menyesuaikan diri
+option_D: Mengintegrasikan anggota
+answer: A
+clue: Fokus pada pencapaian tujuan.
+
+[SOAL]
+text: Integration dalam sistem sosial berarti...
+option_A: Menjaga solidaritas
+option_B: Menyesuaikan diri
+option_C: Mencapai tujuan
+option_D: Mengubah nilai
+answer: A
+clue: Menjaga keharmonisan.
+
+[SOAL]
+text: Pattern maintenance dalam sistem sosial berarti...
+option_A: Mempertahankan nilai dan norma
+option_B: Menyesuaikan diri
+option_C: Mencapai tujuan
+option_D: Mengintegrasikan anggota
+answer: A
+clue: Menjaga stabilitas budaya.
+
+[SOAL]
+text: Latency dalam sistem sosial berarti...
+option_A: Menjaga nilai-nilai
+option_B: Mengatur motivasi
+option_C: Menyesuaikan diri
+option_D: Mengintegrasikan anggota
+answer: B
+clue: Fokus pada motivasi.
+
+[SOAL]
+text: Sistem sosial dapat mengalami disorganisasi karena...
+option_A: Perubahan sosial
+option_B: Konflik
+option_C: Penyimpangan
+option_D: Semua benar
+answer: D
+clue: Banyak faktor yang menyebabkan disorganisasi.
+
+[SOAL]
+text: Fungsi laten lembaga politik adalah...
+option_A: Mengatur kekuasaan
+option_B: Menyerap konflik
+option_C: Membentuk kebijakan
+option_D: Menjaga keamanan
+answer: B
+clue: Fungsi tersembunyi.
+
+[SOAL]
+text: Fungsi laten lembaga ekonomi adalah...
+option_A: Membentuk stratifikasi sosial
+option_B: Menyediakan lapangan kerja
+option_C: Membangun infrastruktur
+option_D: Mengatur distribusi
+answer: A
+clue: Fungsi tersembunyi.
+
+[SOAL]
+text: Fungsi laten lembaga pendidikan adalah...
+option_A: Mencetak tenaga kerja
+option_B: Menjalin pertemanan
+option_C: Menyampaikan ilmu
+option_D: Membentuk karakter
+answer: B
+clue: Fungsi tersembunyi.
+
+[SOAL]
+text: Fungsi laten lembaga agama adalah...
+option_A: Mengatur hubungan dengan Tuhan
+option_B: Memberikan identitas sosial
+option_C: Menjaga moralitas
+option_D: Meningkatkan solidaritas
+answer: B
+clue: Fungsi tersembunyi.
+
+[SOAL]
+text: Fungsi laten lembaga keluarga adalah...
+option_A: Membentuk kepribadian
+option_B: Memberikan afeksi
+option_C: Menjaga tradisi
+option_D: Menjalin hubungan sosial
+answer: D
+clue: Fungsi tersembunyi.

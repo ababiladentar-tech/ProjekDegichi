@@ -1,0 +1,350 @@
+[SOAL]
+text: Entalpi pembentukan standar (ΔHf°) adalah perubahan entalpi pada pembentukan...
+option_A: 1 mol senyawa dari unsur-unsurnya
+option_B: 1 mol senyawa dari senyawa lain
+option_C: 1 gram senyawa dari unsur-unsurnya
+option_D: 1 mol senyawa dari ion-ionnya
+answer: A
+clue: Dalam kondisi standar (298 K, 1 atm).
+
+[SOAL]
+text: Reaksi yang melepaskan energi disebut...
+option_A: Endoterm
+option_B: Eksoterm
+option_C: Reversible
+option_D: Irreversible
+answer: B
+clue: ΔH < 0.
+
+[SOAL]
+text: Reaksi yang menyerap energi disebut...
+option_A: Eksoterm
+option_B: Endoterm
+option_C: Reversible
+option_D: Irreversible
+answer: B
+clue: ΔH > 0.
+
+[SOAL]
+text: Dalam reaksi: N₂ + 3H₂ ⇌ 2NH₃, jika suhu dinaikkan maka kesetimbangan akan bergeser ke...
+option_A: Kanan
+option_B: Kiri
+option_C: Tidak berubah
+option_D: Bergantung tekanan
+answer: B
+clue: Reaksi eksoterm → naik suhu → endoterm (kiri).
+
+[SOAL]
+text: Faktor yang tidak mempengaruhi laju reaksi adalah...
+option_A: Konsentrasi
+option_B: Suhu
+option_C: Katalis
+option_D: Waktu
+answer: D
+clue: Waktu bukan faktor yang mempercepat reaksi.
+
+[SOAL]
+text: Laju reaksi berbanding lurus dengan...
+option_A: Energi aktivasi
+option_B: Konsentrasi pereaksi
+option_C: Waktu reaksi
+option_D: Massa produk
+answer: B
+clue: Hukum laju reaksi.
+
+[SOAL]
+text: Dalam reaksi: 2NO + O₂ → 2NO₂, jika konsentrasi NO dinaikkan 2x, maka laju reaksi akan...
+option_A: Tetap
+option_B: Naik 2x
+option_C: Naik 4x
+option_D: Turun
+answer: C
+clue: Jika orde NO = 2, maka (2)² = 4.
+
+[SOAL]
+text: Katalis berfungsi untuk...
+option_A: Menaikkan hasil reaksi
+option_B: Menurunkan energi aktivasi
+option_C: Menghentikan reaksi
+option_D: Menyerap panas
+answer: B
+clue: Mempercepat reaksi.
+
+[SOAL]
+text: Dalam kesetimbangan kimia, laju reaksi maju dan mundur adalah...
+option_A: Berbeda
+option_B: Sama
+option_C: Nol
+option_D: Tidak dapat ditentukan
+answer: B
+clue: Kesetimbangan dinamis.
+
+[SOAL]
+text: Tetapan kesetimbangan Kc untuk reaksi: aA + bB ⇌ cC + dD adalah...
+option_A: [A]^a[B]^b / [C]^c[D]^d
+option_B: [C]^c[D]^d / [A]^a[B]^b
+option_C: [A][B] / [C][D]
+option_D: [C][D] / [A][B]
+answer: B
+clue: Produk per reaktan, pangkat koefisien.
+
+[SOAL]
+text: Jika tekanan diperbesar dalam reaksi gas, maka kesetimbangan akan bergeser ke arah...
+option_A: Jumlah mol lebih besar
+option_B: Jumlah mol lebih kecil
+option_C: Tidak berubah
+option_D: Tergantung jenis reaksi
+answer: B
+clue: Prinsip Le Chatelier.
+
+[SOAL]
+text: Larutan penyangga terdiri dari...
+option_A: Asam kuat dan basa konjugasinya
+option_B: Asam lemah dan basa konjugasinya
+option_C: Garam dan air
+option_D: Asam kuat dan basa kuat
+answer: B
+clue: Menahan perubahan pH.
+
+[SOAL]
+text: pH larutan penyangga asam (CH₃COOH/CH₃COONa) jika [CH₃COOH] = [CH₃COONa], maka pH =...
+option_A: pKa
+option_B: pKb
+option_C: 7
+option_D: 14
+answer: A
+clue: Henderson-Hasselbalch: pH = pKa + log([basa]/[asam]).
+
+[SOAL]
+text: Garam yang mengalami hidrolisis parsial adalah...
+option_A: NaCl
+option_B: NH₄Cl
+option_C: KNO₃
+option_D: Na₂SO₄
+answer: B
+clue: Garam dari asam kuat dan basa lemah.
+
+[SOAL]
+text: Garam yang mengalami hidrolisis total adalah...
+option_A: NaCl
+option_B: CH₃COONa
+option_C: NH₄CN
+option_D: KCl
+answer: C
+clue: Dari asam lemah dan basa lemah.
+
+[SOAL]
+text: Larutan garam yang bersifat asam adalah...
+option_A: NaCl
+option_B: CH₃COONa
+option_C: NH₄Cl
+option_D: Na₂CO₃
+answer: C
+clue: Dari asam kuat dan basa lemah → bersifat asam.
+
+[SOAL]
+text: Larutan garam yang bersifat basa adalah...
+option_A: NH₄Cl
+option_B: NaCl
+option_C: CH₃COONa
+option_D: KBr
+answer: C
+clue: Dari asam lemah dan basa kuat → bersifat basa.
+
+[SOAL]
+text: Kelarutan suatu garam akan berkurang jika ditambahkan...
+option_A: Air
+option_B: Garam yang memiliki ion sejenis
+option_C: Asam
+option_D: Basa
+answer: B
+clue: Efek ion sejenis.
+
+[SOAL]
+text: Hasil kali kelarutan (Ksp) untuk garam AB₂ adalah...
+option_A: [A][B]
+option_B: [A][B]²
+option_C: [A]²[B]
+option_D: [A]²[B]²
+answer: B
+clue: AB₂ → A²⁺ + 2B⁻ → Ksp = [A][B]².
+
+[SOAL]
+text: Jika Ksp CaF₂ = 4x10⁻¹¹, maka kelarutannya dalam air adalah...
+option_A: 1x10⁻⁴ M
+option_B: 2x10⁻⁴ M
+option_C: 1x10⁻³ M
+option_D: 2x10⁻³ M
+answer: A
+clue: Ksp = 4s³ → s = ∛(Ksp/4) ≈ 1x10⁻⁴.
+
+[SOAL]
+text: Dalam sel volta, anoda terjadi reaksi...
+option_A: Reduksi
+option_B: Oksidasi
+option_C: Pembentukan ion
+option_D: Penyerapan elektron
+answer: B
+clue: Anoda = mengalami oksidasi.
+
+[SOAL]
+text: Dalam sel volta, katoda terjadi reaksi...
+option_A: Oksidasi
+option_B: Reduksi
+option_C: Pelepasan elektron
+option_D: Pembentukan logam
+answer: B
+clue: Katoda = mengalami reduksi.
+
+[SOAL]
+text: Potensial sel volta dihitung dengan rumus...
+option_A: E°sel = E°katoda + E°anoda
+option_B: E°sel = E°katoda - E°anoda
+option_C: E°sel = E°anoda - E°katoda
+option_D: E°sel = E°anoda + E°katoda
+answer: B
+clue: E°sel = E°red - E°oks.
+
+[SOAL]
+text: Dalam elektrolisis larutan NaCl, di katoda terbentuk...
+option_A: Cl₂
+option_B: H₂
+option_C: O₂
+option_D: Na
+answer: B
+clue: Air lebih mudah direduksi daripada Na⁺.
+
+[SOAL]
+text: Dalam elektrolisis leburan Al₂O₃, di katoda terbentuk...
+option_A: O₂
+option_B: Al
+option_C: CO₂
+option_D: H₂
+answer: B
+clue: Ion Al³⁺ direduksi menjadi Al.
+
+[SOAL]
+text: Reaksi yang terjadi di anoda pada elektrolisis larutan CuSO₄ dengan elektroda inert adalah...
+option_A: Cu → Cu²⁺ + 2e⁻
+option_B: 2H₂O → O₂ + 4H⁺ + 4e⁻
+option_C: SO₄²⁻ → SO₂ + O₂
+option_D: H₂O → 2H⁺ + ½O₂ + 2e⁻
+answer: B
+clue: Air teroksidasi karena SO₄²⁻ tidak teroksidasi.
+
+[SOAL]
+text: Dalam elektrolisis larutan CuSO₄ dengan elektroda Cu, di anoda terjadi...
+option_A: Reduksi Cu²⁺
+option_B: Oksidasi Cu
+option_C: Pembentukan O₂
+option_D: Pembentukan H₂
+answer: B
+clue: Elektroda Cu ikut teroksidasi.
+
+[SOAL]
+text: Alkana dengan rumus molekul C₅H₁₂ memiliki isomer struktur sebanyak...
+option_A: 2
+option_B: 3
+option_C: 4
+option_D: 5
+answer: B
+clue: n-pentana, iso-pentana, neo-pentana.
+
+[SOAL]
+text: Nama IUPAC dari senyawa CH₃-CH(CH₃)-CH₂-CH₃ adalah...
+option_A: 2-metilpentana
+option_B: 3-metilpentana
+option_C: 2-metilbutana
+option_D: 3-metilbutana
+answer: C
+clue: Rantai terpanjang = butana, cabang di C-2.
+
+[SOAL]
+text: Senyawa aromatik yang paling sederhana adalah...
+option_A: Etilbenzena
+option_B: Toluena
+option_C: Benzena
+option_D: Kresol
+answer: C
+clue: C₆H₆.
+
+[SOAL]
+text: Reaksi substitusi pada benzena umumnya melibatkan...
+option_A: Pemutusan ikatan rangkap
+option_B: Penambahan langsung
+option_C: Pembentukan kompleks sigma
+option_D: Pembentukan ikatan baru
+answer: C
+clue: Mekanisme elektrofilik.
+
+[SOAL]
+text: Senyawa turunan benzena dengan gugus -OH disebut...
+option_A: Toluena
+option_B: Kresol
+option_C: Nitrobenzena
+option_D: Anilina
+answer: B
+clue: Fenol atau kresol (jika ada cabang).
+
+[SOAL]
+text: Polimer yang terbentuk dari penggabungan monomer yang sama disebut...
+option_A: Kopolimer
+option_B: Homopolimer
+option_C: Terpolimer
+option_D: Copolimer
+answer: B
+clue: Contoh: polietilena.
+
+[SOAL]
+text: Monomer penyusun PVC adalah...
+option_A: Etena
+option_B: Propena
+option_C: Vinilklorida
+option_D: Stirena
+answer: C
+clue: Poli(vinil klorida).
+
+[SOAL]
+text: Proses pembentukan polimer dari monomer disebut...
+option_A: Degradasi
+option_B: Polimerisasi
+option_C: Hidrolisis
+option_D: Substitusi
+answer: B
+clue: Reaksi penggabungan monomer.
+
+[SOAL]
+text: Polimer yang bersifat termoplastik adalah...
+option_A: Bakelit
+option_B: Polietilena
+option_C: Karet vulkanisir
+option_D: Melamin
+answer: B
+clue: Dapat dilelehkan dan dibentuk ulang.
+
+[SOAL]
+text: Reaksi pembentukan ester dari asam karboksilat dan alkohol disebut...
+option_A: Esterifikasi
+option_B: Hidrolisis
+option_C: Oksidasi
+option_D: Reduksi
+answer: A
+clue: Contoh: asam asetat + etanol → etil asetat.
+
+[SOAL]
+text: Senyawa yang dapat membentuk isomer geometris (cis-trans) adalah...
+option_A: Etana
+option_B: Etena
+option_C: 2-butena
+option_D: Propana
+answer: C
+clue: Harus ada ikatan rangkap dan dua gugus berbeda.
+
+[SOAL]
+text: Reaksi adisi pada alkena terjadi karena adanya...
+option_A: Ikatan tunggal
+option_B: Ikatan rangkap
+option_C: Gugus fungsi
+option_D: Rantai lurus
+answer: B
+clue: Ikatan π mudah diputus.

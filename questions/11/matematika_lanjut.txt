@@ -1,0 +1,350 @@
+[SOAL]
+text: Turunan dari f(x) = x^3 adalah...
+option_A: 3x
+option_B: 3x^2
+option_C: x^2
+option_D: x^4
+answer: B
+clue: f'(x) = n*x^(n-1).
+
+[SOAL]
+text: Integral dari ∫ 2x dx = ...
+option_A: x^2 + C
+option_B: 2x^2 + C
+option_C: x + C
+option_D: 2 + C
+answer: A
+clue: ∫ x^n dx = x^(n+1)/(n+1) + C.
+
+[SOAL]
+text: Limit dari (x^2 - 4)/(x - 2) saat x→2 adalah...
+option_A: 0
+option_B: 2
+option_C: 4
+option_D: Tak hingga
+answer: C
+clue: Faktorkan: (x-2)(x+2)/(x-2) = x+2 → 4.
+
+[SOAL]
+text: Turunan kedua dari f(x) = sin(x) adalah...
+option_A: sin(x)
+option_B: cos(x)
+option_C: -sin(x)
+option_D: -cos(x)
+answer: C
+clue: f'(x)=cos(x), f''(x)=-sin(x).
+
+[SOAL]
+text: Integral tentu ∫₀¹ x dx = ...
+option_A: 0
+option_B: 0.5
+option_C: 1
+option_D: 2
+answer: B
+clue: [x²/2]₀¹ = 1/2.
+
+[SOAL]
+text: Persamaan garis singgung kurva y = x^2 di titik (1,1) adalah...
+option_A: y = x
+option_B: y = 2x - 1
+option_C: y = 2x + 1
+option_D: y = x - 1
+answer: B
+clue: y' = 2x → m=2, y-1=2(x-1).
+
+[SOAL]
+text: Nilai maksimum fungsi f(x) = -x^2 + 4x adalah...
+option_A: 0
+option_B: 2
+option_C: 4
+option_D: 8
+answer: C
+clue: x = -b/2a = 2, f(2)=4.
+
+[SOAL]
+text: Integral dari ∫ e^x dx = ...
+option_A: e^x
+option_B: e^x + C
+option_C: x e^x
+option_D: ln|x|
+answer: B
+clue: Turunan e^x = e^x.
+
+[SOAL]
+text: Limit dari sin(x)/x saat x→0 adalah...
+option_A: 0
+option_B: 1
+option_C: Tak hingga
+option_D: -1
+answer: B
+clue: Limit dasar trigonometri.
+
+[SOAL]
+text: Turunan dari f(x) = ln(x) adalah...
+option_A: x
+option_B: 1/x
+option_C: ln(x)
+option_D: e^x
+answer: B
+clue: Dasar turunan logaritma.
+
+[SOAL]
+text: Turunan dari f(x) = cos(x) adalah...
+option_A: sin(x)
+option_B: -sin(x)
+option_C: cos(x)
+option_D: -cos(x)
+answer: B
+clue: f'(cos x) = -sin x.
+
+[SOAL]
+text: Jika f(x) = 3x^2 - 2x + 1, maka f'(x) = ...
+option_A: 6x - 2
+option_B: 6x + 2
+option_C: 3x - 2
+option_D: 3x + 1
+answer: A
+clue: Turunan suku-suku.
+
+[SOAL]
+text: Nilai dari ∫₀² (2x + 1) dx = ...
+option_A: 4
+option_B: 5
+option_C: 6
+option_D: 7
+answer: C
+clue: [x² + x]₀² = 4 + 2 = 6.
+
+[SOAL]
+text: Turunan dari f(x) = tan(x) adalah...
+option_A: sec²(x)
+option_B: -sec²(x)
+option_C: cos²(x)
+option_D: sin²(x)
+answer: A
+clue: f'(tan x) = sec² x.
+
+[SOAL]
+text: Diketahui f(x) = x³ - 3x² + 2. Nilai f'(2) adalah...
+option_A: 0
+option_B: 1
+option_C: 2
+option_D: 6
+answer: A
+clue: f'(x) = 3x² - 6x, f'(2) = 12 - 12 = 0.
+
+[SOAL]
+text: Nilai dari lim (x→∞) (2x + 1)/(x - 3) = ...
+option_A: 0
+option_B: 1
+option_C: 2
+option_D: ∞
+answer: C
+clue: Pembilang dan penyebut dibagi x.
+
+[SOAL]
+text: Turunan dari f(x) = e^(2x) adalah...
+option_A: e^(2x)
+option_B: 2e^(2x)
+option_C: 2x e^(2x)
+option_D: 2e^x
+answer: B
+clue: Aturan rantai.
+
+[SOAL]
+text: Integral dari ∫ 1/x dx = ...
+option_A: x
+option_B: ln|x| + C
+option_C: e^x
+option_D: 1/x
+answer: B
+clue: Dasar integral logaritma.
+
+[SOAL]
+text: Persamaan kuadrat x² - 5x + 6 = 0 memiliki akar-akar...
+option_A: 2 dan 3
+option_B: -2 dan -3
+option_C: 1 dan 6
+option_D: -1 dan -6
+answer: A
+clue: Faktor: (x-2)(x-3).
+
+[SOAL]
+text: Nilai dari log₂(8) = ...
+option_A: 2
+option_B: 3
+option_C: 4
+option_D: 8
+answer: B
+clue: 2^3 = 8.
+
+[SOAL]
+text: Turunan dari f(x) = x^x adalah...
+option_A: x^x
+option_B: x^x (ln x + 1)
+option_C: x^x ln x
+option_D: x^x + 1
+answer: B
+clue: Gunakan logaritma natural.
+
+[SOAL]
+text: Jika f(x) = sin(2x), maka f'(x) = ...
+option_A: cos(2x)
+option_B: 2cos(2x)
+option_C: -cos(2x)
+option_D: -2cos(2x)
+answer: B
+clue: Aturan rantai.
+
+[SOAL]
+text: Turunan dari f(x) = √x adalah...
+option_A: 1/√x
+option_B: 2√x
+option_C: 1/(2√x)
+option_D: √x
+answer: C
+clue: f(x) = x^(1/2), f'(x) = (1/2)x^(-1/2).
+
+[SOAL]
+text: Nilai dari ∫ cos(x) dx = ...
+option_A: sin(x) + C
+option_B: -sin(x) + C
+option_C: cos(x) + C
+option_D: -cos(x) + C
+answer: A
+clue: Integral dasar trigonometri.
+
+[SOAL]
+text: Turunan dari f(x) = x ln(x) adalah...
+option_A: ln(x) + 1
+option_B: ln(x)
+option_C: 1/x
+option_D: x + 1
+answer: A
+clue: Aturan produk: u'v + uv'.
+
+[SOAL]
+text: Jika f(x) = 1/x, maka f'(x) = ...
+option_A: 1/x²
+option_B: -1/x²
+option_C: x²
+option_D: -x²
+answer: B
+clue: f(x) = x^(-1), f'(x) = -x^(-2).
+
+[SOAL]
+text: Nilai dari ∫₀^π sin(x) dx = ...
+option_A: 0
+option_B: 1
+option_C: 2
+option_D: π
+answer: C
+clue: [-cos x]₀^π = -(-1) - (-1) = 2.
+
+[SOAL]
+text: Turunan dari f(x) = arcsin(x) adalah...
+option_A: 1/√(1-x²)
+option_B: 1/√(x²-1)
+option_C: -1/√(1-x²)
+option_D: -1/√(x²-1)
+answer: A
+clue: Turunan fungsi invers trigonometri.
+
+[SOAL]
+text: Turunan dari f(x) = a^x adalah...
+option_A: a^x
+option_B: a^x ln(a)
+option_C: ln(a)
+option_D: x a^x
+answer: B
+clue: Turunan fungsi eksponensial.
+
+[SOAL]
+text: Nilai dari ∫ e^(-x) dx = ...
+option_A: -e^(-x) + C
+option_B: e^(-x) + C
+option_C: -e^x + C
+option_D: e^x + C
+answer: A
+clue: Substitusi u = -x.
+
+[SOAL]
+text: Diketahui f(x) = x^4 - 4x³ + 6x² - 4x + 1. Turunan pertama adalah...
+option_A: 4x³ - 12x² + 12x - 4
+option_B: 3x³ - 12x² + 12x - 4
+option_C: 4x³ - 12x² + 12x
+option_D: x³ - 3x² + 3x - 1
+answer: A
+clue: Turunan masing-masing suku.
+
+[SOAL]
+text: Turunan dari f(x) = sec(x) adalah...
+option_A: sec(x)tan(x)
+option_B: -sec(x)tan(x)
+option_C: tan²(x)
+option_D: sec²(x)
+answer: A
+clue: f'(sec x) = sec x tan x.
+
+[SOAL]
+text: Jika f(x) = log(x), maka f'(x) = ...
+option_A: 1/x
+option_B: x
+option_C: ln(x)
+option_D: 1/x ln(10)
+answer: D
+clue: f(x) = ln(x)/ln(10), turunan = 1/(x ln(10)).
+
+[SOAL]
+text: Turunan dari f(x) = cot(x) adalah...
+option_A: -csc²(x)
+option_B: csc²(x)
+option_C: -cot²(x)
+option_D: cot²(x)
+answer: A
+clue: f'(cot x) = -csc² x.
+
+[SOAL]
+text: Nilai dari ∫ tan(x) dx = ...
+option_A: ln|cos(x)| + C
+option_B: -ln|cos(x)| + C
+option_C: ln|sin(x)| + C
+option_D: -ln|sin(x)| + C
+answer: B
+clue: ∫ sin(x)/cos(x) dx.
+
+[SOAL]
+text: Turunan dari f(x) = sinh(x) adalah...
+option_A: cosh(x)
+option_B: -cosh(x)
+option_C: sinh(x)
+option_D: -sinh(x)
+answer: A
+clue: f'(sinh x) = cosh x.
+
+[SOAL]
+text: Jika f(x) = x^(1/x), maka f'(x) = ...
+option_A: x^(1/x) (1/x² - ln(x)/x²)
+option_B: x^(1/x) (1/x²)
+option_C: x^(1/x) (ln(x)/x²)
+option_D: x^(1/x) (-ln(x)/x²)
+answer: A
+clue: Gunakan logaritma bertingkat.
+
+[SOAL]
+text: Nilai dari ∫₀^∞ e^(-x) dx = ...
+option_A: 0
+option_B: 1
+option_C: 2
+option_D: ∞
+answer: B
+clue: [-e^(-x)]₀^∞ = 0 - (-1) = 1.
+
+[SOAL]
+text: Turunan dari f(x) = x^x^x adalah...
+option_A: x^x^x (ln x + 1)
+option_B: x^x^x (x^x ln x + 1)
+option_C: x^x^x (x^x ln x)(ln x + 1)
+option_D: Tidak terdefinisi
+answer: C
+clue: Gunakan logaritma bertingkat.

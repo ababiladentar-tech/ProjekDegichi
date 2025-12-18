@@ -1,0 +1,350 @@
+[SOAL]
+text: Jumlah pemain inti basket adalah...
+option_A: 5
+option_B: 6
+option_C: 7
+option_D: 11
+answer: A
+clue: Di lapangan sekaligus.
+
+[SOAL]
+text: Alat bantu dalam renang gaya punggung adalah...
+option_A: Papan luncur
+option_B: Balok start
+option_C: Pelampung
+option_D: Tidak ada
+answer: D
+clue: Start dari dalam air.
+
+[SOAL]
+text: Tinggi net untuk voli putra adalah...
+option_A: 2,24 m
+option_B: 2,43 m
+option_C: 2,50 m
+option_D: 2,60 m
+answer: B
+clue: Putri 2,24 m.
+
+[SOAL]
+text: Panjang lintasan lari 1 putaran stadion adalah...
+option_A: 100 m
+option_B: 200 m
+option_C: 400 m
+option_D: 800 m
+answer: C
+clue: Standar internasional.
+
+[SOAL]
+text: Olahraga atletik yang termasuk nomor lompat adalah...
+option_A: Lompat jauh
+option_B: Lempar cakram
+option_C: Tolak peluru
+option_D: Semua benar
+answer: A
+clue: Lompat jauh, tinggi, galah, jangkit.
+
+[SOAL]
+text: Teknik dasar dalam sepak bola adalah...
+option_A: Menggiring
+option_B: Menendang
+option_C: Menghentikan
+option_D: Semua benar
+answer: D
+clue: Semua teknik dasar.
+
+[SOAL]
+text: Istilah "off side" dikenal dalam olahraga...
+option_A: Basket
+option_B: Voli
+option_C: Sepak bola
+option_D: Tenis
+answer: C
+clue: Posisi pemain di belakang lawan.
+
+[SOAL]
+text: Gerakan senam yang bertujuan melenturkan tubuh disebut...
+option_A: Pemanasan
+option_B: Pendinginan
+option_C: Stretching
+option_D: Inti
+answer: C
+clue: Peregangan otot.
+
+[SOAL]
+text: Olahraga bela diri asli Indonesia adalah...
+option_A: Karate
+option_B: Taekwondo
+option_C: Pencak silat
+option_D: Judo
+answer: C
+clue: Diakui UNESCO.
+
+[SOAL]
+text: Istilah "ace" dikenal dalam olahraga...
+option_A: Basket
+option_B: Voli
+option_C: Tenis
+option_D: Bulutangkis
+answer: C
+clue: Servis langsung menang.
+
+[SOAL]
+text: Pemain sepak bola yang bertugas menjaga gawang disebut...
+option_A: Striker
+option_B: Bek
+option_C: Gelandang
+option_D: Kiper
+answer: D
+clue: Tugas utama: menahan bola.
+
+[SOAL]
+text: Dalam bulutangkis, jumlah poin untuk menang satu game adalah...
+option_A: 11
+option_B: 15
+option_C: 21
+option_D: 30
+answer: C
+clue: Best of 3 games.
+
+[SOAL]
+text: Dalam lari jarak jauh, nomor yang biasa digunakan adalah...
+option_A: 100 m
+option_B: 400 m
+option_C: 1500 m
+option_D: 10000 m
+answer: C
+clue: 800 m, 1500 m, 5000 m.
+
+[SOAL]
+text: Dalam renang, gaya yang paling cepat adalah...
+option_A: Gaya dada
+option_B: Gaya bebas
+option_C: Gaya punggung
+option_D: Gaya kupu-kupu
+answer: B
+clue: Paling umum digunakan.
+
+[SOAL]
+text: Dalam olahraga tolak peluru, berat peluru untuk putra adalah...
+option_A: 5 kg
+option_B: 6 kg
+option_C: 7.26 kg
+option_D: 8 kg
+answer: C
+clue: Standar internasional.
+
+[SOAL]
+text: Dalam pertandingan bola voli, jumlah set maksimal adalah...
+option_A: 3
+option_B: 4
+option_C: 5
+option_D: 6
+answer: C
+clue: Best of 5 sets.
+
+[SOAL]
+text: Dalam olahraga atletik, nomor yang termasuk lari jarak pendek adalah...
+option_A: 100 m
+option_B: 800 m
+option_C: 1500 m
+option_D: 5000 m
+answer: A
+clue: Biasanya 100m, 200m, 400m.
+
+[SOAL]
+text: Dalam olahraga tenis meja, jumlah poin untuk menang adalah...
+option_A: 11
+option_B: 15
+option_C: 21
+option_D: 30
+answer: A
+clue: Best of 5 atau 7 games.
+
+[SOAL]
+text: Dalam sepak bola, jumlah pemain cadangan yang boleh digunakan dalam satu pertandingan adalah...
+option_A: 3
+option_B: 5
+option_C: 7
+option_D: 10
+answer: B
+clue: Aturan FIFA.
+
+[SOAL]
+text: Dalam olahraga senam, alat yang digunakan untuk nomor lompat kuda adalah...
+option_A: Balok keseimbangan
+option_B: Kuda lompat
+option_C: Palang sejajar
+option_D: Palang tunggal
+answer: B
+clue: Kuda lompat.
+
+[SOAL]
+text: Dalam olahraga pencak silat, gerakan yang digunakan untuk menyerang adalah...
+option_A: Elakan
+option_B: Serangan
+option_C: Tangkisan
+option_D: Jatuhan
+answer: B
+clue: Serangan dengan tangan/kaki.
+
+[SOAL]
+text: Dalam olahraga bulutangkis, pukulan yang dilakukan dari belakang lapangan ke arah depan disebut...
+option_A: Smash
+option_B: Dropshot
+option_C: Serve
+option_D: Lob
+answer: B
+clue: Pukulan jatuh dekat net.
+
+[SOAL]
+text: Dalam olahraga renang, gaya yang dilakukan dengan posisi tubuh telungkup adalah...
+option_A: Gaya punggung
+option_B: Gaya bebas
+option_C: Gaya dada
+option_D: Gaya kupu-kupu
+answer: B
+clue: Gaya bebas dan gaya dada.
+
+[SOAL]
+text: Dalam olahraga sepak bola, kartu merah berarti...
+option_A: Peringatan
+option_B: Denda
+option_C: Pemain dikeluarkan
+option_D: Tim kalah
+answer: C
+clue: Pemain tidak boleh melanjutkan pertandingan.
+
+[SOAL]
+text: Dalam olahraga basket, jumlah pemain dalam satu tim adalah...
+option_A: 5
+option_B: 6
+option_C: 7
+option_D: 12
+answer: D
+clue: 5 bermain, 7 cadangan.
+
+[SOAL]
+text: Dalam olahraga tenis, jumlah set untuk menang dalam pertandingan tunggal adalah...
+option_A: 1
+option_B: 2
+option_C: 3
+option_D: 5
+answer: C
+clue: Best of 5 sets.
+
+[SOAL]
+text: Dalam olahraga voli, jumlah pemain dalam satu tim adalah...
+option_A: 5
+option_B: 6
+option_C: 7
+option_D: 12
+answer: B
+clue: 6 pemain aktif di lapangan.
+
+[SOAL]
+text: Dalam olahraga lari, nomor lari estafet dilakukan oleh...
+option_A: 2 orang
+option_B: 3 orang
+option_C: 4 orang
+option_D: 5 orang
+answer: C
+clue: 4x100m, 4x400m.
+
+[SOAL]
+text: Dalam olahraga tinju, jumlah ronde dalam pertandingan profesional adalah...
+option_A: 8
+option_B: 10
+option_C: 12
+option_D: 15
+answer: C
+clue: Standar pertandingan.
+
+[SOAL]
+text: Dalam olahraga sepak bola, jumlah pemain dalam satu tim adalah...
+option_A: 10
+option_B: 11
+option_C: 12
+option_D: 15
+answer: B
+clue: 1 kiper + 10 pemain lapangan.
+
+[SOAL]
+text: Dalam olahraga renang, nomor gaya ganti terdiri dari...
+option_A: 2 gaya
+option_B: 3 gaya
+option_C: 4 gaya
+option_D: 5 gaya
+answer: C
+clue: Gaya punggung, dada, bebas, kupu-kupu.
+
+[SOAL]
+text: Dalam olahraga bulutangkis, jumlah game untuk menang adalah...
+option_A: 1
+option_B: 2
+option_C: 3
+option_D: 4
+answer: B
+clue: Best of 3 games.
+
+[SOAL]
+text: Dalam olahraga bola basket, jumlah quarter dalam pertandingan NBA adalah...
+option_A: 2
+option_B: 3
+option_C: 4
+option_D: 5
+answer: C
+clue: 4 quarter @12 menit.
+
+[SOAL]
+text: Dalam olahraga tenis meja, jumlah poin untuk menang dalam satu game adalah...
+option_A: 11
+option_B: 15
+option_C: 21
+option_D: 30
+answer: A
+clue: Best of 5 atau 7 games.
+
+[SOAL]
+text: Dalam olahraga sepak bola, jumlah pemain dalam satu tim yang boleh diganti adalah...
+option_A: 3
+option_B: 5
+option_C: 7
+option_D: 9
+answer: B
+clue: Aturan FIFA.
+
+[SOAL]
+text: Dalam olahraga renang, jumlah lintasan dalam kolam standar adalah...
+option_A: 6
+option_B: 8
+option_C: 10
+option_D: 12
+answer: B
+clue: Kolam 50m.
+
+[SOAL]
+text: Dalam olahraga bulutangkis, jumlah poin untuk menang dalam satu game adalah...
+option_A: 11
+option_B: 15
+option_C: 21
+option_D: 30
+answer: C
+clue: Best of 3 games.
+
+[SOAL]
+text: Dalam olahraga tenis, jumlah set untuk menang dalam pertandingan ganda adalah...
+option_A: 1
+option_B: 2
+option_C: 3
+option_D: 5
+answer: C
+clue: Best of 5 sets.
+
+[SOAL]
+text: Dalam olahraga bola basket, jumlah pemain dalam satu tim yang boleh berada di lapangan adalah...
+option_A: 5
+option_B: 6
+option_C: 7
+option_D: 12
+answer: A
+clue: 5 pemain aktif.

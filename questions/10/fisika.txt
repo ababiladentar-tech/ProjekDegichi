@@ -1,0 +1,368 @@
+[SOAL]
+text: Satuan SI untuk gaya adalah...
+option_A: Joule
+option_B: Watt
+option_C: Newton
+option_D: Pascal
+answer: C
+clue: Dinamai dari Isaac Newton.
+
+[SOAL]
+text: Hukum Newton I disebut juga hukum...
+option_A: Aksi-reaksi
+option_B: Gravitasi
+option_C: Kelembaman
+option_D: Energi
+answer: C
+clue: Benda diam tetap diam jika tidak ada gaya.
+
+[SOAL]
+text: Energi kinetik dirumuskan sebagai...
+option_A: mgh
+option_B: ½ mv²
+option_C: F × s
+option_D: ½ kx²
+answer: B
+clue: Bergantung pada massa & kecepatan.
+
+[SOAL]
+text: Tekanan = Gaya / ...
+option_A: Massa
+option_B: Volume
+option_C: Luas
+option_D: Waktu
+answer: C
+clue: P = F/A.
+
+[SOAL]
+text: Bunyi tidak dapat merambat di...
+option_A: Udara
+option_B: Air
+option_C: Besi
+option_D: Ruang hampa
+answer: D
+clue: Butuh medium.
+
+[SOAL]
+text: Lensa cembung bersifat...
+option_A: Mengumpulkan cahaya
+option_B: Menyebarkan cahaya
+option_C: Memantulkan cahaya
+option_D: Menyerap cahaya
+answer: A
+clue: Konvergen.
+
+[SOAL]
+text: Arus listrik diukur dengan...
+option_A: Voltmeter
+option_B: Amperemeter
+option_C: Ohmmeter
+option_D: Multimeter
+answer: B
+clue: Satuan ampere.
+
+[SOAL]
+text: Hukum Ohm: V = I × ...
+option_A: R
+option_B: P
+option_C: t
+option_D: E
+answer: A
+clue: Tegangan = arus × hambatan.
+
+[SOAL]
+text: Gelombang yang arah rambatnya sejajar getaran disebut...
+option_A: Transversal
+option_B: Longitudinal
+option_C: Elektromagnetik
+option_D: Mekanik
+answer: B
+clue: Contoh: gelombang suara.
+
+[SOAL]
+text: Warna cahaya dengan frekuensi tertinggi adalah...
+option_A: Merah
+option_B: Hijau
+option_C: Biru
+option_D: Ungu
+answer: D
+clue: Spektrum cahaya tampak.
+
+[SOAL]
+text: Percepatan gravitasi di permukaan bumi adalah sekitar...
+option_A: 9.8 m/s²
+option_B: 10 m/s²
+option_C: 8.9 m/s²
+option_D: 9.6 m/s²
+answer: A
+clue: g = 9.8 m/s².
+
+[SOAL]
+text: Energi potensial gravitasi dirumuskan sebagai...
+option_A: ½ mv²
+option_B: mgh
+option_C: F × s
+option_D: E = mc²
+answer: B
+clue: Bergantung pada massa, gravitasi, dan ketinggian.
+
+[SOAL]
+text: Cepat rambat cahaya di ruang hampa adalah...
+option_A: 3×10⁸ m/s
+option_B: 3×10⁷ m/s
+option_C: 3×10⁶ m/s
+option_D: 3×10⁵ m/s
+answer: A
+clue: c = 3×10⁸ m/s.
+
+[SOAL]
+text: Gaya gesek bekerja...
+option_A: Searah gerak
+option_B: Berlawanan arah gerak
+option_C: Tegak lurus gerak
+option_D: Tidak ada arah
+answer: B
+clue: Menghambat gerak.
+
+[SOAL]
+text: Frekuensi diukur dalam satuan...
+option_A: Meter
+option_B: Hertz
+option_C: Newton
+option_D: Watt
+answer: B
+clue: f = jumlah getaran/sekon.
+
+[SOAL]
+text: Energi mekanik adalah jumlah dari...
+option_A: Energi kinetik dan potensial
+option_B: Energi panas dan cahaya
+option_C: Energi listrik dan magnetik
+option_D: Energi kimia dan nuklir
+answer: A
+clue: Energi total sistem.
+
+[SOAL]
+text: Dalam hukum kekekalan energi, energi tidak dapat...
+option_A: Diubah bentuk
+option_B: Diciptakan atau dimusnahkan
+option_C: Dipindahkan
+option_D: Disimpan
+answer: B
+clue: Energi hanya berubah bentuk.
+
+[SOAL]
+text: Alat yang digunakan untuk mengukur suhu adalah...
+option_A: Barometer
+option_B: Termometer
+option_C: Manometer
+option_D: Speedometer
+answer: B
+clue: Mengukur derajat panas.
+
+[SOAL]
+text: Pada benda jatuh bebas, percepatannya adalah...
+option_A: Nol
+option_B: g
+option_C: Tergantung massa
+option_D: Tergantung ketinggian
+answer: B
+clue: a = g = 9.8 m/s².
+
+[SOAL]
+text: Gaya sentripetal bekerja pada benda yang...
+option_A: Bergerak lurus
+option_B: Bergerak melingkar
+option_C: Diam
+option_D: Bergerak acak
+answer: B
+clue: Menuju pusat lingkaran.
+
+[SOAL]
+text: Dalam gerak lurus beraturan (GLB), kecepatan...
+option_A: Bertambah
+option_B: Berkurang
+option_C: Tetap
+option_D: Nol
+answer: C
+clue: Tidak ada percepatan.
+
+[SOAL]
+text: Hukum Pascal berlaku pada...
+option_A: Zat padat
+option_B: Zat cair
+option_C: Gas
+option_D: Semua zat
+answer: B
+clue: Tekanan dalam zat cair.
+
+[SOAL]
+text: Alat yang digunakan untuk mengukur tekanan udara adalah...
+option_A: Barometer
+option_B: Manometer
+option_C: Speedometer
+option_D: Termometer
+answer: A
+clue: Mengukur tekanan atmosfer.
+
+[SOAL]
+text: Cahaya merambat dalam garis...
+option_A: Lengkung
+option_B: Zigzag
+option_C: Lurus
+option_D: Melingkar
+answer: C
+clue: Dalam medium homogen.
+
+[SOAL]
+text: Dalam rangkaian listrik, arus mengalir dari...
+option_A: Negatif ke positif
+option_B: Positif ke negatif
+option_C: Tidak mengalir
+option_D: Bolak-balik
+answer: B
+clue: Konvensi arus listrik.
+
+[SOAL]
+text: Energi listrik dirumuskan sebagai...
+option_A: W = V × I × t
+option_B: W = I × R
+option_C: W = V × I
+option_D: W = R × t
+answer: A
+clue: W = energi, V = tegangan, I = arus, t = waktu.
+
+[SOAL]
+text: Alat yang digunakan untuk mengukur hambatan adalah...
+option_A: Voltmeter
+option_B: Amperemeter
+option_C: Ohmmeter
+option_D: Multimeter
+answer: C
+clue: Mengukur resistansi.
+
+[SOAL]
+text: Dalam gelombang transversal, arah getar...
+option_A: Sejajar rambat
+option_B: Tegak lurus rambat
+option_C: Acak
+option_D: Tidak ada getar
+answer: B
+clue: Contoh: gelombang tali.
+
+[SOAL]
+text: Frekuensi suara di bawah 20 Hz disebut...
+option_A: Ultrasonik
+option_B: Audiosonik
+option_C: Infrasonik
+option_D: Supersonik
+answer: C
+clue: Tidak terdengar manusia.
+
+[SOAL]
+text: Cepat rambat bunyi paling cepat di...
+option_A: Udara
+option_B: Air
+option_C: Baja
+option_D: Ruang hampa
+answer: C
+clue: Zat padat > cair > gas.
+
+[SOAL]
+text: Dalam cermin datar, bayangan bersifat...
+option_A: Maya, tegak, diperbesar
+option_B: Nyata, terbalik, diperkecil
+option_C: Maya, tegak, sama besar
+option_D: Nyata, tegak, sama besar
+answer: C
+clue: Sama besar & tegak.
+
+[SOAL]
+text: Gaya gravitasi antara dua benda berbanding terbalik dengan...
+option_A: Massa
+option_B: Jarak
+option_C: Kuadrat jarak
+option_D: Kuadrat massa
+answer: C
+clue: F ∝ 1/r².
+
+[SOAL]
+text: Dalam hukum kekekalan momentum, momentum total sebelum dan sesudah tumbukan adalah...
+option_A: Berbeda
+option_B: Sama
+option_C: Nol
+option_D: Tak hingga
+answer: B
+clue: Momentum kekal jika tidak ada gaya luar.
+
+[SOAL]
+text: Energi yang dimiliki benda karena ketinggiannya disebut...
+option_A: Energi kinetik
+option_B: Energi potensial
+option_C: Energi mekanik
+option_D: Energi termal
+answer: B
+clue: Bergantung ketinggian.
+
+[SOAL]
+text: Dalam rangkaian paralel, tegangan pada tiap beban...
+option_A: Berbeda
+option_B: Sama
+option_C: Nol
+option_D: Tak hingga
+answer: B
+clue: Tegangan tetap.
+
+[SOAL]
+text: Gaya Coulomb terjadi antara...
+option_A: Dua benda bermassa
+option_B: Dua muatan listrik
+option_C: Dua benda bermagnet
+option_D: Dua gelombang
+answer: B
+clue: Gaya antara muatan.
+
+[SOAL]
+text: Energi yang dilepaskan saat benda jatuh adalah...
+option_A: Energi potensial → kinetik
+option_B: Energi kinetik → potensial
+option_C: Energi panas → cahaya
+option_D: Energi listrik → mekanik
+answer: A
+clue: Konversi energi.
+
+[SOAL]
+text: Dalam hukum Snellius, sinar datang, sinar bias, dan garis normal terletak pada...
+option_A: Bidang berbeda
+option_B: Bidang tegak lurus
+option_C: Bidang yang sama
+option_D: Tidak berhubungan
+answer: C
+clue: Bidang datar.
+
+[SOAL]
+text: Energi listrik dapat diubah menjadi energi lain, contohnya adalah...
+option_A: Lampu → cahaya
+option_B: Speaker → suara
+option_C: Kompor listrik → panas
+option_D: Semua benar
+answer: D
+clue: Konversi energi.
+
+[SOAL]
+text: Alat yang digunakan untuk mengubah arus AC menjadi DC adalah...
+option_A: Generator
+option_B: Transformator
+option_C: Rectifier
+option_D: Motor
+answer: C
+clue: Dioda atau jembatan.
+
+[SOAL]
+text: Dalam hukum Boyle, jika suhu tetap, maka PV = ...
+option_A: Tetap
+option_B: Nol
+option_C: Tak hingga
+option_D: Berubah
+answer: A
+clue: PV = konstan.

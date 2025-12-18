@@ -1,0 +1,359 @@
+[SOAL]
+text: Ilmu yang mempelajari permukaan bumi dan fenomena di atasnya adalah...
+option_A: Geologi
+option_B: Geografi
+option_C: Astronomi
+option_D: Meteorologi
+answer: B
+clue: "Geo" = bumi, "grafi" = tulisan.
+
+[SOAL]
+text: Garis lintang 0 derajat disebut...
+option_A: Garis bujur
+option_B: Khatulistiwa
+option_C: Garis tanggal internasional
+option_D: Garis kontur
+answer: B
+clue: Membagi bumi jadi utara & selatan.
+
+[SOAL]
+text: Indonesia terletak di antara dua benua, yaitu...
+option_A: Asia dan Australia
+option_B: Asia dan Afrika
+option_C: Australia dan Afrika
+option_D: Asia dan Eropa
+answer: A
+clue: Posisi silang.
+
+[SOAL]
+text: Pulau terluas di Indonesia adalah...
+option_A: Jawa
+option_B: Sumatra
+option_C: Kalimantan
+option_D: Papua
+answer: C
+clue: Sekitar 539.460 km².
+
+[SOAL]
+text: Gunung tertinggi di Indonesia adalah...
+option_A: Semeru
+option_B: Kerinci
+option_C: Rinjani
+option_D: Puncak Jaya
+answer: D
+clue: 4.884 mdpl, di Papua.
+
+[SOAL]
+text: Lapisan atmosfer tempat terjadinya cuaca adalah...
+option_A: Troposfer
+option_B: Stratosfer
+option_C: Mesosfer
+option_D: Termosfer
+answer: A
+clue: Lapisan paling bawah.
+
+[SOAL]
+text: Pola aliran sungai yang menyerupai akar tumbuhan disebut...
+option_A: Dendritik
+option_B: Radial
+option_C: Trellis
+option_D: Rectangular
+answer: A
+clue: Daerah dataran rendah.
+
+[SOAL]
+text: Jenis tanah yang subur di Pulau Jawa adalah...
+option_A: Pasir
+option_B: Laterit
+option_C: Aluvial
+option_D: Vulkanik
+answer: D
+clue: Dari pelapukan material vulkanik.
+
+[SOAL]
+text: Fenomena La Nina ditandai dengan...
+option_A: Suhu permukaan laut Pasifik lebih dingin
+option_B: Suhu permukaan laut Pasifik lebih hangat
+option_C: Tekanan udara tinggi di Pasifik
+option_D: Angin muson barat melemah
+answer: A
+clue: Curah hujan tinggi di Indonesia.
+
+[SOAL]
+text: Wilayah Indonesia bagian barat termasuk zona waktu...
+option_A: WIB
+option_B: WITA
+option_C: WIT
+option_D: GMT+7
+answer: A
+clue: UTC+7.
+
+[SOAL]
+text: Batas lempeng tektonik Eurasia dan Indo-Australia menyebabkan...
+option_A: Gempa bumi & gunung berapi
+option_B: Tanah subur
+option_C: Iklim tropis
+option_D: Banyak pulau
+answer: A
+clue: Cincin api Pasifik.
+
+[SOAL]
+text: Proyeksi peta yang digunakan untuk wilayah ekuator adalah...
+option_A: Mercator
+option_B: Zenithal
+option_C: Kerucut
+option_D: Silinder
+answer: A
+clue: Distorsi kecil di ekuator.
+
+[SOAL]
+text: Indikator pembangunan manusia (IPM) terdiri dari...
+option_A: Kesehatan, pendidikan, pengeluaran
+option_B: Ekonomi, politik, sosial
+option_C: Pendidikan, kesehatan, pendapatan
+option_D: Semua benar
+answer: C
+clue: HDI oleh PBB.
+
+[SOAL]
+text: Pola permukiman memanjang di sepanjang jalan disebut...
+option_A: Memusat
+option_B: Menyebar
+option_C: Linear
+option_D: Radial
+answer: C
+clue: Sepanjang jalan raya.
+
+[SOAL]
+text: Wilayah yang dibatasi oleh kenampakan alam disebut...
+option_A: Region formal
+option_B: Region fungsional
+option_C: Region seragam
+option_D: Region geografis
+answer: D
+clue: Dibatasi sungai, gunung, dll.
+
+[SOAL]
+text: Konsep geografi yang menjelaskan persebaran fenomena adalah...
+option_A: Lokasi
+option_B: Jarak
+option_C: Pola
+option_D: Morfologi
+answer: C
+clue: Pola keruangan.
+
+[SOAL]
+text: Daerah aliran sungai disebut juga...
+option_A: DAS
+option_B: Delta
+option_C: Meander
+option_D: Oxbow lake
+answer: A
+clue: Daerah yang mengalirkan air ke sungai utama.
+
+[SOAL]
+text: Jenis hutan di Indonesia yang paling luas adalah...
+option_A: Hutan hujan tropis
+option_B: Hutan sabana
+option_C: Hutan mangrove
+option_D: Hutan lumut
+answer: A
+clue: Iklim tropis lembap.
+
+[SOAL]
+text: Fenomena pemanasan global disebabkan oleh...
+option_A: Gas rumah kaca
+option_B: Lubang ozon
+option_C: Aktivitas vulkanik
+option_D: Rotasi bumi
+answer: A
+clue: CO2, CH4, N2O.
+
+[SOAL]
+text: Kota di Indonesia yang terkenal sebagai kota hujan adalah...
+option_A: Jakarta
+option_B: Bandung
+option_C: Bogor
+option_D: Surabaya
+answer: C
+clue: Curah hujan tinggi.
+
+[SOAL]
+text: Sistem informasi geografis (SIG) digunakan untuk...
+option_A: Analisis spasial
+option_B: Prediksi cuaca
+option_C: Pemetaan digital
+option_D: Semua benar
+answer: D
+clue: Pengolahan data keruangan.
+
+[SOAL]
+text: Wilayah ZEE Indonesia sejauh... mil dari garis pangkal
+option_A: 12
+option_B: 24
+option_C: 200
+option_D: 350
+answer: C
+clue: Zona Ekonomi Eksklusif.
+
+[SOAL]
+text: Fenomena pasang surut air laut disebabkan oleh...
+option_A: Gravitasi bulan & matahari
+option_B: Angin
+option_C: Arus laut
+option_D: Rotasi bumi
+answer: A
+clue: Gaya tarik gravitasi.
+
+[SOAL]
+text: Pulau Komodo terletak di provinsi...
+option_A: NTT
+option_B: NTB
+option_C: Bali
+option_D: Sulawesi
+answer: A
+clue: Taman Nasional Komodo.
+
+[SOAL]
+text: Jenis tanah yang kurang subur karena banyak mengandung besi adalah...
+option_A: Vulkanik
+option_B: Aluvial
+option_C: Laterit
+option_D: Humus
+answer: C
+clue: Warna merah, di daerah tropis.
+
+[SOAL]
+text: Konsep geografi yang menjelaskan keterkaitan antar wilayah adalah...
+option_A: Interaksi
+option_B: Interdependensi
+option_C: Keterjangkauan
+option_D: Semua benar
+answer: D
+clue: Konsep esensial geografi.
+
+[SOAL]
+text: Kota yang terletak di 6°LS 106°BT adalah...
+option_A: Jakarta
+option_B: Bandung
+option_C: Yogyakarta
+option_D: Surabaya
+answer: A
+clue: Koordinat Jakarta.
+
+[SOAL]
+text: Wilayah Indonesia yang paling sering mengalami gempa adalah...
+option_A: Jawa
+option_B: Sumatra
+option_C: Sulawesi
+option_D: Semua benar
+answer: D
+clue: Daerah cincin api.
+
+[SOAL]
+text: Fenomena El Nino ditandai dengan...
+option_A: Suhu laut Pasifik lebih hangat
+option_B: Suhu laut Pasifik lebih dingin
+option_C: Tekanan udara rendah di Pasifik
+option_D: Angin muson timur melemah
+answer: A
+clue: Kemarau panjang di Indonesia.
+
+[SOAL]
+text: Proses erosi oleh angin disebut...
+option_A: Abrasi
+option_B: Deflasi
+option_C: Korasi
+option_D: Eksarasi
+answer: B
+clue: Pengikisan oleh angin.
+
+[SOAL]
+text: Jenis pertanian yang menggunakan lahan kering disebut...
+option_A: Sawah
+option_B: Ladang
+option_C: Tegalan
+option_D: Perkebunan
+answer: B
+clue: Tanpa irigasi.
+
+[SOAL]
+text: Kota di Indonesia yang terkenal sebagai kota pendidikan adalah...
+option_A: Jakarta
+option_B: Bandung
+option_C: Yogyakarta
+option_D: Malang
+answer: C
+clue: Banyak universitas.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Af (hujan tropis) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: NTT
+option_D: Kalimantan
+answer: D
+clue: Hujan sepanjang tahun.
+
+[SOAL]
+text: Konsep geografi yang menjelaskan nilai suatu tempat adalah...
+option_A: Lokasi
+option_B: Jarak
+option_C: Aksesibilitas
+option_D: Semua benar
+answer: D
+clue: Nilai strategis, ekonomi, dll.
+
+[SOAL]
+text: Gunung api tipe strato contohnya...
+option_A: Merapi
+option_B: Batur
+option_C: Ijen
+option_D: Semua benar
+answer: D
+clue: Kerucut, letusan eksplosif.
+
+[SOAL]
+text: Fenomena tanah longsor sering terjadi di daerah...
+option_A: Dataran rendah
+option_B: Pegunungan curam
+option_C: Pantai
+option_D: Rawa
+answer: B
+clue: Lereng curam & hujan.
+
+[SOAL]
+text: Kota yang terletak di garis khatulistiwa adalah...
+option_A: Pontianak
+option_B: Jakarta
+option_C: Bandung
+option_D: Makassar
+answer: A
+clue: Tugu Khatulistiwa.
+
+[SOAL]
+text: Wilayah Indonesia bagian timur termasuk zona waktu...
+option_A: WIB
+option_B: WITA
+option_C: WIT
+option_D: GMT+9
+answer: C
+clue: UTC+9.
+
+[SOAL]
+text: Proses pembentukan stalaktit & stalagmit terjadi di...
+option_A: Gua kapur
+option_B: Pantai
+option_C: Gunung
+option_D: Sungai
+answer: A
+clue: Pelarutan kapur.
+
+[SOAL]
+text: Jenis transportasi yang paling dominan di Indonesia adalah...
+option_A: Darat
+option_B: Laut
+option_C: Udara
+option_D: Kereta api
+answer: B
+clue: Negara kepulauan.

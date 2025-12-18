@@ -1,0 +1,359 @@
+[SOAL]
+text: Besaran yang hanya memiliki nilai (angka) disebut...
+option_A: Vektor
+option_B: Skalar
+option_C: Tensor
+option_D: Bilangan
+answer: B
+clue: Contoh: massa, waktu, suhu.
+
+[SOAL]
+text: Besaran yang memiliki nilai dan arah disebut...
+option_A: Skalar
+option_B: Vektor
+option_C: Tensor
+option_D: Bilangan
+answer: B
+clue: Contoh: kecepatan, gaya, percepatan.
+
+[SOAL]
+text: Satuan dari kecepatan dalam sistem SI adalah...
+option_A: m/s
+option_B: km/jam
+option_C: cm/s
+option_D: m/s²
+answer: A
+clue: Jarak per waktu.
+
+[SOAL]
+text: Percepatan gravitasi di permukaan bumi sekitar...
+option_A: 8 m/s²
+option_B: 9 m/s²
+option_C: 9.8 m/s²
+option_D: 10 m/s²
+answer: C
+clue: Nilai standar.
+
+[SOAL]
+text: Sebuah mobil bergerak lurus dengan kecepatan tetap. Gerak ini disebut...
+option_A: GLBB
+option_B: GLB
+option_C: Gerak parabola
+option_D: Gerak melingkar
+answer: B
+clue: Gerak lurus beraturan.
+
+[SOAL]
+text: Sebuah benda dilempar ke atas, maka saat mencapai titik tertinggi...
+option_A: Kecepatan nol
+option_B: Percepatan nol
+option_C: Gaya nol
+option_D: Massa nol
+answer: A
+clue: Masih dipengaruhi gravitasi.
+
+[SOAL]
+text: Hukum Newton I menyatakan bahwa benda akan tetap diam atau bergerak lurus beraturan jika...
+option_A: Dikenai gaya
+option_B: Tidak ada gaya
+option_C: Gaya sebanding dengan massa
+option_D: Tidak ada percepatan
+answer: B
+clue: Hukum kelembaman.
+
+[SOAL]
+text: Satuan dari gaya dalam sistem SI adalah...
+option_A: Joule
+option_B: Newton
+option_C: Watt
+option_D: Pascal
+answer: B
+clue: F = ma.
+
+[SOAL]
+text: Energi kinetik dimiliki oleh benda yang...
+option_A: Diam
+option_B: Bergerak
+option_C: Diletakkan di ketinggian
+option_D: Tertekan
+answer: B
+clue: Bergantung kecepatan.
+
+[SOAL]
+text: Energi potensial gravitasi bergantung pada...
+option_A: Massa dan kecepatan
+option_B: Massa, percepatan gravitasi, dan ketinggian
+option_C: Kecepatan dan ketinggian
+option_D: Massa dan waktu
+answer: B
+clue: EP = mgh.
+
+[SOAL]
+text: Momentum suatu benda didefinisikan sebagai...
+option_A: Massa × percepatan
+option_B: Massa × kecepatan
+option_C: Gaya × waktu
+option_D: Energi × waktu
+answer: B
+clue: p = mv.
+
+[SOAL]
+text: Hukum kekekalan momentum berlaku pada sistem...
+option_A: Terbuka
+option_B: Tertutup
+option_C: Terisolasi
+option_D: B dan C benar
+answer: D
+clue: Tidak ada gaya luar.
+
+[SOAL]
+text: Impuls adalah perubahan dari...
+option_A: Energi
+option_B: Momentum
+option_C: Gaya
+option_D: Kecepatan
+answer: B
+clue: I = Δp.
+
+[SOAL]
+text: Usaha yang dilakukan oleh gaya F pada perpindahan s adalah W =...
+option_A: F + s
+option_B: F - s
+option_C: F × s
+option_D: F × s × cos θ
+answer: D
+clue: Jika gaya tidak searah perpindahan.
+
+[SOAL]
+text: Sebuah benda massanya 2 kg bergerak dengan kecepatan 3 m/s. Energi kinetiknya adalah...
+option_A: 6 J
+option_B: 9 J
+option_C: 12 J
+option_D: 18 J
+answer: B
+clue: EK = ½mv² = ½×2×9 = 9 J.
+
+[SOAL]
+text: Sebuah benda massanya 4 kg berada di ketinggian 5 m. Energi potensialnya adalah... (g = 10 m/s²)
+option_A: 20 J
+option_B: 40 J
+option_C: 100 J
+option_D: 200 J
+answer: D
+clue: EP = mgh = 4×10×5 = 200 J.
+
+[SOAL]
+text: Dalam gerak melingkar beraturan, arah percepatan selalu menuju...
+option_A: Luar lingkaran
+option_B: Pusat lingkaran
+option_C: Tegak lurus lintasan
+option_D: Tidak ada arah
+answer: B
+clue: Percepatan sentripetal.
+
+[SOAL]
+text: Gaya yang menyebabkan benda bergerak melingkar disebut...
+option_A: Gaya sentrifugal
+option_B: Gaya sentripetal
+option_C: Gaya gravitasi
+option_D: Gaya gesek
+answer: B
+clue: Menuju pusat lingkaran.
+
+[SOAL]
+text: Frekuensi (f) dan periode (T) berhubungan dengan rumus...
+option_A: f = T
+option_B: f = 1/T
+option_C: f = T²
+option_D: f = 2T
+answer: B
+clue: f = jumlah putaran/waktu.
+
+[SOAL]
+text: Sebuah benda bergerak melingkar dengan frekuensi 0.5 Hz. Periode geraknya adalah...
+option_A: 0.5 s
+option_B: 1 s
+option_C: 2 s
+option_D: 4 s
+answer: C
+clue: T = 1/f = 1/0.5 = 2 s.
+
+[SOAL]
+text: Tekanan hidrostatis bergantung pada...
+option_A: Kedalaman, massa jenis, dan gravitasi
+option_B: Volume dan massa
+option_C: Luas dan gaya
+option_D: Temperatur
+answer: A
+clue: P = ρgh.
+
+[SOAL]
+text: Tekanan dalam fluida statis disebut juga...
+option_A: Tekanan absolut
+option_B: Tekanan gauge
+option_C: Tekanan hidrostatis
+option_D: Tekanan atmosfer
+answer: C
+clue: Tekanan akibat berat fluida.
+
+[SOAL]
+text: Gaya apung (gaya Archimedes) bergantung pada...
+option_A: Volume benda yang tercelup
+option_B: Massa benda
+option_C: Berat benda
+option_D: Bentuk benda
+answer: A
+clue: Fa = ρfluida × Vtercelup × g.
+
+[SOAL]
+text: Alat yang digunakan untuk mengukur tekanan udara adalah...
+option_A: Barometer
+option_B: Manometer
+option_C: Hidrometer
+option_D: Termometer
+answer: A
+clue: Mengukur tekanan atmosfer.
+
+[SOAL]
+text: Alat yang digunakan untuk mengukur tekanan gas dalam wadah tertutup adalah...
+option_A: Barometer
+option_B: Manometer
+option_C: Hidrometer
+option_D: Termometer
+answer: B
+clue: Beda tekanan terhadap atmosfer.
+
+[SOAL]
+text: Azas Bernoulli menjelaskan bahwa pada aliran fluida ideal, jika kecepatan alir meningkat maka...
+option_A: Tekanan meningkat
+option_B: Tekanan menurun
+option_C: Massa jenis meningkat
+option_D: Volume meningkat
+answer: B
+clue: Energi total konstan.
+
+[SOAL]
+text: Gelombang yang arah getarnya tegak lurus arah rambat disebut...
+option_A: Longitudinal
+option_B: Transversal
+option_C: Mekanik
+option_D: Elektromagnetik
+answer: B
+clue: Contoh: gelombang tali.
+
+[SOAL]
+text: Gelombang yang arah getarnya sejajar arah rambat disebut...
+option_A: Transversal
+option_B: Longitudinal
+option_C: Mekanik
+option_D: Elektromagnetik
+answer: B
+clue: Contoh: gelombang bunyi.
+
+[SOAL]
+text: Cepat rambat bunyi paling cepat terjadi di...
+option_A: Udara
+option_B: Air
+option_C: Baja
+option_D: Vakum
+answer: C
+clue: Zat padat > cair > gas.
+
+[SOAL]
+text: Cepat rambat bunyi di udara sekitar...
+option_A: 300 m/s
+option_B: 340 m/s
+option_C: 380 m/s
+option_D: 400 m/s
+answer: B
+clue: Pada suhu 20°C.
+
+[SOAL]
+text: Frekuensi bunyi infrasonik berada di bawah...
+option_A: 20 Hz
+option_B: 20 kHz
+option_C: 100 Hz
+option_D: 1000 Hz
+answer: A
+clue: Tidak terdengar manusia.
+
+[SOAL]
+text: Frekuensi bunyi ultrasonik berada di atas...
+option_A: 20 Hz
+option_B: 20 kHz
+option_C: 100 Hz
+option_D: 1000 Hz
+answer: B
+clue: Di atas pendengaran manusia.
+
+[SOAL]
+text: Bunyi dengan frekuensi 1000 Hz memiliki panjang gelombang sekitar... (v = 340 m/s)
+option_A: 0.34 m
+option_B: 3.4 m
+option_C: 34 m
+option_D: 340 m
+answer: A
+clue: λ = v/f = 340/1000 = 0.34 m.
+
+[SOAL]
+text: Dawai yang panjangnya 1 meter dan ditegangkan menghasilkan nada dasar dengan panjang gelombang...
+option_A: 0.5 m
+option_B: 1 m
+option_C: 2 m
+option_D: 4 m
+answer: C
+option_D: λ = 2L.
+
+[SOAL]
+text: Intensitas bunyi berbanding terbalik dengan...
+option_A: Jarak
+option_B: Kuadrat jarak
+option_C: Pangkat tiga jarak
+option_D: Tidak berbanding
+answer: B
+clue: I ∝ 1/r².
+
+[SOAL]
+text: Efek Doppler terjadi ketika ada pergerakan antara...
+option_A: Sumber dan pendengar
+option_B: Sumber dan medium
+option_C: Pendengar dan medium
+option_D: Semua benar
+answer: A
+clue: Perbedaan frekuensi akibat gerak relatif.
+
+[SOAL]
+text: Suhu 0°C dalam Kelvin adalah...
+option_A: 0 K
+option_B: 100 K
+option_C: 273 K
+option_D: 373 K
+answer: C
+clue: T(K) = T(C) + 273.
+
+[SOAL]
+text: Pemuaian panjang zat padat bergantung pada...
+option_A: Panjang awal, perubahan suhu, dan koefisien muai
+option_B: Massa dan suhu
+option_C: Volume dan suhu
+option_D: Gaya dan panjang
+answer: A
+clue: ΔL = L₀ α ΔT.
+
+[SOAL]
+text: Perpindahan kalor secara konduksi terjadi pada...
+option_A: Zat padat
+option_B: Zat cair
+option_C: Gas
+option_D: Semua benar
+answer: A
+clue: Melalui partikel zat yang tidak berpindah.
+
+[SOAL]
+text: Perpindahan kalor secara konveksi terjadi pada...
+option_A: Zat padat
+option_B: Zat cair dan gas
+option_C: Hanya gas
+option_D: Hanya zat cair
+answer: B
+clue: Melalui perpindahan partikel.

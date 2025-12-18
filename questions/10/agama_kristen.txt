@@ -1,0 +1,350 @@
+[SOAL]
+text: Kitab suci umat Kristen adalah...
+option_A: Al-Qur'an
+option_B: Taurat
+option_C: Alkitab
+option_D: Weda
+answer: C
+clue: Terdiri dari Perjanjian Lama & Baru.
+
+[SOAL]
+text: Nabi yang memimpin bangsa Israel keluar dari Mesir adalah...
+option_A: Nabi Daud
+option_B: Nabi Musa
+option_C: Nabi Ibrahim
+option_D: Nabi Yunus
+answer: B
+clue: Menerima 10 Perintah Allah.
+
+[SOAL]
+text: Hari kebangkitan Yesus dirayakan sebagai...
+option_A: Natal
+option_B: Paskah
+option_C: Pentakosta
+option_D: Adven
+answer: B
+clue: Minggu pertama setelah bulan purnama di musim semi.
+
+[SOAL]
+text: Jumlah murid Yesus yang utama adalah...
+option_A: 10
+option_B: 11
+option_C: 12
+option_D: 13
+answer: C
+clue: Disebut juga "Dua Belas Rasul".
+
+[SOAL]
+text: Kota kelahiran Yesus adalah...
+option_A: Yerusalem
+option_B: Nazaret
+option_C: Betlehem
+option_D: Kapernaum
+answer: C
+clue: "Betlehem, kota Daud".
+
+[SOAL]
+text: Perjamuan Kudus disebut juga...
+option_A: Baptisan
+option_B: Ekaristi
+option_C: Krisma
+option_D: Pengakuan Dosa
+answer: B
+clue: Roti & anggur sebagai lambang tubuh & darah.
+
+[SOAL]
+text: Hari Pentakosta memperingati...
+option_A: Kelahiran Yesus
+option_B: Kenaikan Yesus
+option_C: Turunnya Roh Kudus
+option_D: Kebangkitan Yesus
+answer: C
+clue: 50 hari setelah Paskah.
+
+[SOAL]
+text: Gereja pertama didirikan di kota...
+option_A: Roma
+option_B: Yerusalem
+option_C: Antiokhia
+option_D: Efesus
+answer: B
+clue: Setelah kenaikan Yesus.
+
+[SOAL]
+text: Nabi yang menulis Kitab Mazmur adalah...
+option_A: Musa
+option_B: Daud
+option_C: Yesaya
+option_D: Yeremia
+answer: B
+clue: Gembala yang menjadi raja.
+
+[SOAL]
+text: Peristiwa penciptaan dunia terdapat di kitab...
+option_A: Keluaran
+option_B: Kejadian
+option_C: Imamat
+option_D: Ulangan
+answer: B
+clue: Kitab pertama dalam Alkitab.
+
+[SOAL]
+text: Hari Sabat bagi umat Kristen dirayakan pada...
+option_A: Jumat
+option_B: Sabtu
+option_C: Minggu
+option_D: Senin
+answer: C
+clue: Hari kebangkitan Yesus.
+
+[SOAL]
+text: Simbol utama iman Kristen adalah...
+option_A: Bulan sabit
+option_B: Bintang Daud
+option_C: Salib
+option_D: Om
+answer: C
+clue: Lambang penebusan dosa.
+
+[SOAL]
+text: Yesus disalibkan di bukit...
+option_A: Zaitun
+option_B: Golgota
+option_C: Sinai
+option_D: Tabor
+answer: B
+clue: Disebut juga "Tengkorak".
+
+[SOAL]
+text: Kitab yang berisi ajaran moral Yesus (Kotbah di Bukit) adalah...
+option_A: Matius
+option_B: Markus
+option_C: Lukas
+option_D: Yohanes
+answer: A
+clue: Pasal 5-7 Matius.
+
+[SOAL]
+text: Nabi yang menaiki bahtera saat banjir besar adalah...
+option_A: Nuh
+option_B: Luth
+option_C: Yunus
+option_D: Ayub
+answer: A
+clue: Selamat bersama keluarga & binatang.
+
+[SOAL]
+text: Perjamuan terakhir Yesus dengan murid terjadi pada...
+option_A: Natal
+option_B: Jumat Agung
+option_C: Kamis Putih
+option_D: Sabtu Suci
+answer: C
+clue: Malam sebelum penyaliban.
+
+[SOAL]
+text: Roh Kudus digambarkan sebagai...
+option_A: Angin & api
+option_B: Air & batu
+option_C: Bunga & pohon
+option_D: Bintang & bulan
+answer: A
+clue: Kisah Para Rasul 2.
+
+[SOAL]
+text: Umat Kristen percaya kepada Allah dalam...
+option_A: Satu pribadi
+option_B: Dua pribadi
+option_C: Tiga pribadi
+option_D: Banyak pribadi
+answer: C
+clue: Trinitas: Bapa, Anak, Roh Kudus.
+
+[SOAL]
+text: Baptisan biasanya dilakukan dengan...
+option_A: Minyak
+option_B: Air
+option_C: Angin
+option_D: Api
+answer: B
+clue: Simbol pembersihan dosa.
+
+[SOAL]
+text: Nabi yang ditelan ikan besar adalah...
+option_A: Yunus
+option_B: Yunus
+option_C: Yunus
+option_D: Yunus
+answer: A
+clue: Selamat setelah berdoa 3 hari.
+
+[SOAL]
+text: Yesus lahir dari perawan bernama...
+option_A: Maria Magdalena
+option_B: Maria
+option_C: Marta
+option_D: Elisabet
+answer: B
+clue: "Salam, hai engkau yang dikaruniai...".
+
+[SOAL]
+text: Kota suci umat Kristen adalah...
+option_A: Mekah
+option_B: Yerusalem
+option_C: Vatikan
+option_D: Betlehem
+answer: B
+clue: Tempat penyaliban & kebangkitan.
+
+[SOAL]
+text: Hari raya terbesar umat Kristen adalah...
+option_A: Natal
+option_B: Paskah
+option_C: Pentakosta
+option_D: Epifani
+answer: B
+clue: Pusat iman: kebangkitan.
+
+[SOAL]
+text: Murid yang menyangkal Yesus 3 kali adalah...
+option_A: Petrus
+option_B: Yudas
+option_C: Yohanes
+option_D: Tomas
+answer: A
+clue: Sebelum ayam berkokok.
+
+[SOAL]
+text: Yudas mengkhianati Yesus dengan...
+option_A: Ciuman
+option_B: Tendangan
+option_C: Sorakan
+option_D: Doa
+answer: A
+clue: Tanda bagi penangkap.
+
+[SOAL]
+text: Kitab Wahyu ditulis oleh...
+option_A: Yohanes
+option_B: Paulus
+option_C: Petrus
+option_D: Matius
+answer: A
+clue: Di pulau Patmos.
+
+[SOAL]
+text: Perintah Allah yang pertama adalah...
+option_A: Jangan membunuh
+option_B: Jangan mencuri
+option_C: Jangan menyembah berhala
+option_D: Kasihilah Tuhan
+answer: D
+clue: Matius 22:37.
+
+[SOAL]
+text: Gereja Katolik dipimpin oleh...
+option_A: Patriark
+option_B: Uskup
+option_C: Paus
+option_D: Pendeta
+answer: C
+clue: Di Vatikan, Roma.
+
+[SOAL]
+text: Kitab Amsal berisi tentang...
+option_A: Hukum
+option_B: Nubuat
+option_C: Hikmat
+option_D: Sejarah
+answer: C
+clue: "Permulaan hikmat adalah takut akan Tuhan".
+
+[SOAL]
+text: Yesus dikenal sebagai...
+option_A: Nabi
+option_B: Imam
+option_C: Raja
+option_D: Anak Allah
+answer: D
+clue: Inti iman Kristen.
+
+[SOAL]
+text: Peringatan sengsara Yesus disebut...
+option_A: Natal
+option_B: Jumat Agung
+option_C: Kamis Putih
+option_D: Sabtu Suci
+answer: B
+clue: Penyaliban.
+
+[SOAL]
+text: Kitab yang ditulis paling banyak dalam PB adalah...
+option_A: Matius
+option_B: Lukas
+option_C: Kisah Para Rasul
+option_D: Roma
+answer: B
+clue: Lukas + Kisah = 27% PB.
+
+[SOAL]
+text: "Kasihilah sesamamu seperti dirimu sendiri" terdapat di...
+option_A: Ulangan
+option_B: Imamat
+option_C: Matius
+option_D: Semua benar
+answer: D
+clue: Imamat 19:18 & Matius 22:39.
+
+[SOAL]
+text: Yesus mengajar dengan menggunakan...
+option_A: Ceramah panjang
+option_B: Perumpamaan
+option_C: Nyanyian
+option_D: Tarian
+answer: B
+clue: Misal: penabur, gembala baik.
+
+[SOAL]
+text: Murid yang meragukan kebangkitan Yesus...
+option_A: Tomas
+option_B: Andreas
+option_C: Filipus
+option_D: Bartolomeus
+answer: A
+clue: "Tunjukkan bekas paku".
+
+[SOAL]
+text: Perjamuan Kudus pertama kali dilakukan pada...
+option_A: Paskah Yahudi
+option_B: Pentakosta
+option_C: Hari Sabat
+option_D: Hari Raya Pondok Daun
+answer: A
+clue: Perjamuan Paskah.
+
+[SOAL]
+text: Nama lain untuk Roh Kudus adalah...
+option_A: Penghibur
+option_B: Juru Selamat
+option_C: Firman
+option_D: Terang Dunia
+answer: A
+clue: Yohanes 14:26.
+
+[SOAL]
+text: Yesus naik ke sorga dari bukit...
+option_A: Zaitun
+option_B: Golgota
+option_C: Sinai
+option_D: Tabor
+answer: A
+clue: Dekat Yerusalem.
+
+[SOAL]
+text: Hari raya kelahiran Yesus adalah...
+option_A: 25 Desember
+option_B: 6 Januari
+option_C: 1 April
+option_D: 17 Agustus
+answer: A
+clue: Dirayakan umat Katolik & Protestan.

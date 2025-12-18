@@ -1,0 +1,350 @@
+[SOAL]
+text: Wilayah yang memiliki iklim Aw (monsoon) menurut Koppen adalah...
+option_A: Sumatra
+option_B: Jawa
+option_C: Kalimantan
+option_D: Papua
+answer: A
+clue: Curah hujan tinggi di musim hujan.
+
+[SOAL]
+text: Wilayah yang memiliki iklim BSh (semi-arid) menurut Koppen adalah...
+option_A: NTT
+option_B: Jawa
+option_C: Kalimantan
+option_D: Papua
+answer: A
+clue: Curah hujan rendah.
+
+[SOAL]
+text: Wilayah yang memiliki iklim BWh (arid) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Gurun.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Cfb (hangat lembab) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim pegunungan.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Cwb (hangat kering) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim pegunungan kering.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Cwc (hangat sangat kering) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim pegunungan sangat kering.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Cfc (hangat sangat lembab) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim pegunungan sangat lembab.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dfb (dingin lembab) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim subtropis.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dwb (dingin kering) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim subtropis kering.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dfc (dingin sangat lembab) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim subtropis sangat lembab.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dwc (dingin sangat kering) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim subtropis sangat kering.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dfd (dingin sangat sangat lembab) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim subtropis sangat sangat lembab.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dwd (dingin sangat sangat kering) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim subtropis sangat sangat kering.
+
+[SOAL]
+text: Wilayah yang memiliki iklim ET (tundra) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim kutub.
+
+[SOAL]
+text: Wilayah yang memiliki iklim EF (es abadi) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim kutub es.
+
+[SOAL]
+text: Wilayah yang memiliki iklim H (dataran tinggi) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim dataran tinggi.
+
+[SOAL]
+text: Wilayah yang memiliki iklim BWh (gurun panas) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim gurun.
+
+[SOAL]
+text: Wilayah yang memiliki iklim BWk (gurun dingin) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim gurun dingin.
+
+[SOAL]
+text: Wilayah yang memiliki iklim BSh (stepa panas) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim stepa.
+
+[SOAL]
+text: Wilayah yang memiliki iklim BSk (stepa dingin) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim stepa dingin.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Csa (Mediterranean panas) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim Mediterranean.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Csb (Mediterranean dingin) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim Mediterranean dingin.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Csc (Mediterranean sangat dingin) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim Mediterranean sangat dingin.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Cwa (Cina Timur) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim Cina Timur.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Cwb (Cina Tengah) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim Cina Tengah.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Cwc (Cina Barat) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim Cina Barat.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Cfa (Iklim hangat lembab) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim hangat lembab.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Cfb (Iklim hangat lembab sedang) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim hangat lembab sedang.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Cfc (Iklim hangat lembab dingin) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim hangat lembab dingin.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dfa (Iklim dingin lembab) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim dingin lembab.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dfb (Iklim dingin lembab sedang) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim dingin lembab sedang.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dfc (Iklim dingin lembab dingin) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim dingin lembab dingin.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dfd (Iklim dingin lembab sangat dingin) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim dingin lembab sangat dingin.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dwa (Iklim dingin kering) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim dingin kering.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dwb (Iklim dingin kering sedang) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim dingin kering sedang.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dwc (Iklim dingin kering dingin) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim dingin kering dingin.
+
+[SOAL]
+text: Wilayah yang memiliki iklim Dwd (Iklim dingin kering sangat dingin) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim dingin kering sangat dingin.
+
+[SOAL]
+text: Wilayah yang memiliki iklim ET (Iklim tundra) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim tundra.
+
+[SOAL]
+text: Wilayah yang memiliki iklim EF (Iklim es abadi) menurut Koppen adalah...
+option_A: Papua
+option_B: Jawa
+option_C: Kalimantan
+option_D: NTT
+answer: A
+clue: Iklim es abadi.

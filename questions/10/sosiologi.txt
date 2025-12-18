@@ -1,0 +1,359 @@
+[SOAL]
+text: Ilmu yang mempelajari gejala sosial dalam masyarakat adalah...
+option_A: Antropologi
+option_B: Sosiologi
+option_C: Psikologi
+option_D: Ekonomi
+answer: B
+clue: Auguste Comte sebagai bapaknya.
+
+[SOAL]
+text: Proses belajar nilai dan norma disebut...
+option_A: Sosialisasi
+option_B: Akulturasi
+option_C: Asimilasi
+option_D: Difusi
+answer: A
+clue: Dimulai sejak kecil.
+
+[SOAL]
+text: Kelompok sosial yang terbentuk karena ikatan darah disebut...
+option_A: Kelompok primer
+option_B: Keluarga
+option_C: Kelompok sekunder
+option_D: Paguyuban
+answer: B
+clue: Unit terkecil dalam masyarakat.
+
+[SOAL]
+text: Status yang diperoleh sejak lahir disebut...
+option_A: Status achieved
+option_B: Status ascribed
+option_C: Status assigned
+option_D: Status acquired
+answer: B
+clue: Misal: jenis kelamin, suku.
+
+[SOAL]
+text: Perilaku yang sesuai dengan harapan sosial disebut...
+option_A: Penyimpangan
+option_B: Konformitas
+option_C: Kontroversi
+option_D: Konflik
+answer: B
+clue: Patuh pada norma.
+
+[SOAL]
+text: Penyimpangan sosial primer bersifat...
+option_A: Sementara
+option_B: Tetap
+option_C: Berbahaya
+option_D: Kriminal
+answer: A
+clue: Belum dianggap serius.
+
+[SOAL]
+text: Teori yang menjelaskan penyimpangan karena ketidaksesuaian tujuan & cara adalah...
+option_A: Teori labeling
+option_B: Teori anomie
+option_C: Teori diferensiasi
+option_D: Teori subkultur
+answer: B
+clue: Robert K. Merton.
+
+[SOAL]
+text: Proses masuknya unsur budaya asing ke dalam budaya lokal disebut...
+option_A: Asimilasi
+option_B: Akulturasi
+option_C: Difusi
+option_D: Amalgamasi
+answer: C
+clue: Penyebaran unsur budaya.
+
+[SOAL]
+text: Konflik sosial yang bersifat destruktif dapat menyebabkan...
+option_A: Integrasi
+option_B: Disintegrasi
+option_C: Akomodasi
+option_D: Asimilasi
+answer: B
+clue: Perpecahan sosial.
+
+[SOAL]
+text: Lembaga sosial yang mengatur hubungan produksi adalah...
+option_A: Keluarga
+option_B: Pendidikan
+option_C: Ekonomi
+option_D: Politik
+answer: C
+clue: Produksi, distribusi, konsumsi.
+
+[SOAL]
+text: Stratifikasi sosial berdasarkan kekayaan disebut...
+option_A: Kasta
+option_B: Kelas sosial
+option_C: Feodal
+option_D: Meritokrasi
+answer: B
+clue: Terbuka & bisa bergerak.
+
+[SOAL]
+text: Mobilitas sosial vertikal naik disebut...
+option_A: Social climbing
+option_B: Social sinking
+option_C: Social circulation
+option_D: Social mobility
+answer: A
+clue: Naik status sosial.
+
+[SOAL]
+text: Fungsi laten lembaga pendidikan adalah...
+option_A: Mencetak tenaga kerja
+option_B: Menjalin pertemanan
+option_C: Menyampaikan ilmu
+option_D: Membentuk karakter
+answer: B
+clue: Fungsi tidak resmi.
+
+[SOAL]
+text: Kelompok sosial yang anggotanya merasa senasib disebut...
+option_A: In-group
+option_B: Out-group
+option_C: Reference group
+option_D: Community
+answer: A
+clue: Kelompok dalam.
+
+[SOAL]
+text: Proses sosial yang menghasilkan perubahan budaya disebut...
+option_A: Modernisasi
+option_B: Westernisasi
+option_C: Globalisasi
+option_D: Perubahan sosial
+answer: D
+clue: Perubahan struktur sosial.
+
+[SOAL]
+text: Globalisasi di bidang ekonomi ditandai dengan...
+option_A: Munculnya pasar bebas
+option_B: Penyebaran internet
+option_C: Pertukaran budaya
+option_D: Perjalanan wisata
+answer: A
+clue: MEA, AFTA, dll.
+
+[SOAL]
+text: Modernisasi yang tidak sesuai nilai lokal dapat menyebabkan...
+option_A: Disorientasi
+option_B: Dislokasi
+option_C: Disorganisasi
+option_D: Disintegrasi
+answer: C
+clue: Kekacauan sosial.
+
+[SOAL]
+text: Teori konflik dikemukakan oleh...
+option_A: Emile Durkheim
+option_B: Karl Marx
+option_C: Max Weber
+option_D: Talcott Parsons
+answer: B
+clue: Kelas sosial & pertentangan.
+
+[SOAL]
+text: Fungsi manifes lembaga agama adalah...
+option_A: Mengatur hubungan dengan Tuhan
+option_B: Menjalin silaturahmi
+option_C: Mengumpulkan zakat
+option_D: Menjadi tempat musyawarah
+answer: A
+clue: Fungsi utama.
+
+[SOAL]
+text: Penyimpangan karena labeling sosial disebut...
+option_A: Primary deviation
+option_B: Secondary deviation
+option_C: Tertiary deviation
+option_D: Deviation labeling
+answer: B
+clue: Akibat cap negatif.
+
+[SOAL]
+text: Konflik antargenerasi disebut juga...
+option_A: Konflik vertikal
+option_B: Konflik horizontal
+option_C: Konflik diakronis
+option_D: Konflik sinkronis
+answer: C
+clue: Antar-waktu.
+
+[SOAL]
+text: Lembaga yang mengatur perilaku seksual adalah...
+option_A: Keluarga
+option_B: Agama
+option_C: Pendidikan
+option_D: Semua benar
+answer: D
+clue: Semua berperan.
+
+[SOAL]
+text: Globalisasi budaya sering dikaitkan dengan...
+option_A: Westernisasi
+option_B: Sekularisasi
+option_C: Pluralisasi
+option_D: Demokratisasi
+answer: A
+clue: Dominasi budaya Barat.
+
+[SOAL]
+text: Masyarakat multikultural ditandai dengan...
+option_A: Satu suku dominan
+option_B: Keberagaman suku, agama, ras
+option_C: Satu bahasa nasional
+option_D: Sistem ekonomi tunggal
+answer: B
+clue: Bhinneka Tunggal Ika.
+
+[SOAL]
+text: Proses pembentukan negara disebut...
+option_A: Nation building
+option_B: State building
+option_C: Character building
+option_D: Community building
+answer: B
+clue: Pembentukan institusi negara.
+
+[SOAL]
+text: Disorganisasi keluarga dapat disebabkan oleh...
+option_A: Perceraian
+option_B: Urbanisasi
+option_C: Modernisasi
+option_D: Semua benar
+answer: D
+clue: Faktor internal & eksternal.
+
+[SOAL]
+text: Perilaku menyimpang yang dilakukan bersama disebut...
+option_A: Individual deviation
+option_B: Group deviation
+option_C: Organized deviation
+option_D: Collective deviation
+answer: B
+clue: Penyimpangan kelompok.
+
+[SOAL]
+text: Fungsi lembaga politik adalah...
+option_A: Mengatur kekuasaan
+option_B: Menegakkan hukum
+option_C: Mengatur redistribusi
+option_D: Semua benar
+answer: D
+clue: Kekuasaan, keadilan, kesejahteraan.
+
+[SOAL]
+text: Mobilitas sosial horizontal contohnya...
+option_A: Naik jabatan
+option_B: Pindah profesi
+option_C: Pindah tempat tinggal
+option_D: Naik gaji
+answer: C
+clue: Tidak mengubah status.
+
+[SOAL]
+text: Teori interaksi simbolik dikemukakan oleh...
+option_A: George Herbert Mead
+option_B: Charles Horton Cooley
+option_C: Herbert Blumer
+option_D: Semua benar
+answer: D
+clue: Fokus pada makna simbol.
+
+[SOAL]
+text: Konflik sosial dapat berfungsi untuk...
+option_A: Menghancurkan masyarakat
+option_B: Memperkuat solidaritas
+option_C: Menciptakan disintegrasi
+option_D: Menghambat perubahan
+answer: B
+clue: Fungsi positif konflik.
+
+[SOAL]
+text: Fenomena "geng motor" termasuk penyimpangan...
+option_A: Primer
+option_B: Sekunder
+option_C: Tersier
+option_D: Kolektif
+answer: D
+clue: Dilakukan kelompok.
+
+[SOAL]
+text: Proses sosial yang menghasilkan kebudayaan baru disebut...
+option_A: Akulturasi
+option_B: Asimilasi
+option_C: Amalgamasi
+option_D: Difusi
+answer: A
+clue: Perpaduan budaya.
+
+[SOAL]
+text: Lembaga sosial bersifat...
+option_A: Abstrak
+option_B: Konkret
+option_C: Fleksibel
+option_D: Sementara
+answer: A
+clue: Pola perilaku, bukan gedung.
+
+[SOAL]
+text: Globalisasi teknologi ditandai dengan...
+option_A: Internet
+option_B: Televisi
+option_C: Radio
+option_D: Koran
+answer: A
+clue: Revolusi informasi.
+
+[SOAL]
+text: Penyimpangan karena broken home termasuk faktor...
+option_A: Individu
+option_B: Sosial
+option_C: Biologis
+option_D: Psikologis
+answer: B
+clue: Lingkungan keluarga.
+
+[SOAL]
+text: Modernisasi dalam pendidikan contohnya...
+option_A: E-learning
+option_B: Buku cetak
+option_C: Guru mengaji
+option_D: Kelas jauh
+answer: A
+clue: Teknologi pendidikan.
+
+[SOAL]
+text: Konflik sosial vertikal terjadi antara...
+option_A: Atasan-bawahan
+option_B: Sesama karyawan
+option_C: Dua perusahaan
+option_D: Dua negara
+answer: A
+clue: Hierarki sosial.
+
+[SOAL]
+text: Fungsi lembaga ekonomi adalah...
+option_A: Memproduksi barang
+option_B: Mendistribusikan barang
+option_C: Mengonsumsi barang
+option_D: Semua benar
+answer: D
+clue: Sistem ekonomi lengkap.
+
+[SOAL]
+text: Stratifikasi sosial kasta bersifat...
+option_A: Terbuka
+option_B: Tertutup
+option_C: Fleksibel
+option_D: Temporer
+answer: B
+clue: Tidak bisa pindah kasta.

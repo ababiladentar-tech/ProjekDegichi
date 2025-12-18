@@ -1,0 +1,359 @@
+[SOAL]
+text: Partikel dasar penyusun atom terdiri dari...
+option_A: Proton, elektron, ion
+option_B: Proton, elektron, neutron
+option_C: Neutron, elektron, nukleon
+option_D: Proton, neutron, inti
+answer: B
+clue: Proton (+), elektron (-), neutron (netral).
+
+[SOAL]
+text: Nomor atom suatu unsur menunjukkan jumlah...
+option_A: Neutron
+option_B: Elektron
+option_C: Proton
+option_D: Massa atom
+answer: C
+clue: Jumlah proton = nomor atom.
+
+[SOAL]
+text: Unsur dengan nomor atom 12 memiliki elektron valensi sebanyak...
+option_A: 1
+option_B: 2
+option_C: 3
+option_D: 4
+answer: B
+clue: Konfigurasi elektron: 2, 8, 2 → valensi = 2.
+
+[SOAL]
+text: Dalam sistem periodik, unsur-unsur disusun berdasarkan...
+option_A: Massa atom
+option_B: Jumlah elektron
+option_C: Nomor atom
+option_D: Jumlah neutron
+answer: C
+clue: Penyusunan berdasarkan nomor atom.
+
+[SOAL]
+text: Unsur yang terletak dalam satu golongan memiliki...
+option_A: Jumlah elektron valensi sama
+option_B: Jumlah kulit elektron sama
+option_C: Massa atom sama
+option_D: Jumlah proton sama
+answer: A
+clue: Sifat kimia mirip.
+
+[SOAL]
+text: Ikatan yang terbentuk karena serah terima elektron disebut...
+option_A: Ikatan kovalen
+option_B: Ikatan ion
+option_C: Ikatan logam
+option_D: Ikatan hidrogen
+answer: B
+clue: Terjadi antara logam dan nonlogam.
+
+[SOAL]
+text: Ikatan yang terbentuk karena pemakaian pasangan elektron bersama disebut...
+option_A: Ikatan ion
+option_B: Ikatan kovalen
+option_C: Ikatan logam
+option_D: Ikatan van der Waals
+answer: B
+clue: Terjadi antara nonlogam dan nonlogam.
+
+[SOAL]
+text: Senyawa yang terbentuk dari ikatan ion adalah...
+option_A: H₂O
+option_B: CO₂
+option_C: NaCl
+option_D: NH₃
+answer: C
+clue: Terbentuk dari logam (Na) dan nonlogam (Cl).
+
+[SOAL]
+text: Rumus kimia dari kalsium klorida adalah...
+option_A: CaCl
+option_B: CaCl₂
+option_C: Ca₂Cl
+option_D: Ca₂Cl₂
+answer: B
+clue: Ca²⁺ dan Cl⁻ → CaCl₂.
+
+[SOAL]
+text: Dalam reaksi 2H₂ + O₂ → 2H₂O, jumlah molekul H₂O yang terbentuk dari 2 molekul H₂ adalah...
+option_A: 1
+option_B: 2
+option_C: 3
+option_D: 4
+answer: B
+clue: Koefisien H₂O = 2.
+
+[SOAL]
+text: Massa atom relatif karbon adalah 12, artinya...
+option_A: 1 atom karbon = 12 gram
+option_B: 1 atom karbon = 12 sma
+option_C: 1 mol karbon = 12 gram
+option_D: 12 atom karbon = 1 gram
+answer: B
+clue: Satuan massa atom (sma).
+
+[SOAL]
+text: Jumlah atom dalam molekul H₂SO₄ adalah...
+option_A: 6
+option_B: 7
+option_C: 8
+option_D: 9
+answer: B
+clue: 2H + 1S + 4O = 7 atom.
+
+[SOAL]
+text: Rumus empiris dari C₆H₁₂O₆ adalah...
+option_A: CHO
+option_B: CH₂O
+option_C: C₂H₄O₂
+option_D: C₃H₆O₃
+answer: B
+clue: Rasio terkecil atom.
+
+[SOAL]
+text: Dalam reaksi pembakaran metana: CH₄ + 2O₂ → CO₂ + 2H₂O, produknya adalah...
+option_A: CH₄ dan O₂
+option_B: CO₂ dan H₂O
+option_C: CH₄ dan CO₂
+option_D: O₂ dan H₂O
+answer: B
+clue: Produk = zat hasil reaksi.
+
+[SOAL]
+text: Larutan yang dapat menghantarkan listrik disebut...
+option_A: Larutan elektrolit
+option_B: Larutan non-elektrolit
+option_C: Larutan koloid
+option_D: Larutan suspensi
+answer: A
+clue: Mengandung ion bebas.
+
+[SOAL]
+text: Larutan gula (C₁₂H₂₂O₁₁) termasuk...
+option_A: Elektrolit kuat
+option_B: Elektrolit lemah
+option_C: Non-elektrolit
+option_D: Asam kuat
+answer: C
+clue: Tidak terionisasi.
+
+[SOAL]
+text: Bilangan oksidasi Cr dalam Cr₂O₇²⁻ adalah...
+option_A: +3
+option_B: +4
+option_C: +6
+option_D: +7
+answer: C
+clue: 2x + 7(-2) = -2 → x = +6.
+
+[SOAL]
+text: Reaksi redoks yang benar adalah...
+option_A: Cu + Zn²⁺ → Cu²⁺ + Zn
+option_B: Zn + Cu²⁺ → Zn²⁺ + Cu
+option_C: Fe + Mg²⁺ → Fe²⁺ + Mg
+option_D: Ag + Na⁺ → Ag⁺ + Na
+answer: B
+clue: Zn lebih reaktif dari Cu.
+
+[SOAL]
+text: Bilangan oksidasi Mn dalam KMnO₄ adalah...
+option_A: +5
+option_B: +6
+option_C: +7
+option_D: +8
+answer: C
+clue: K = +1, O = -2 → Mn = +7.
+
+[SOAL]
+text: Dalam reaksi: 2Fe + 3Cl₂ → 2FeCl₃, zat yang mengalami oksidasi adalah...
+option_A: Fe
+option_B: Cl₂
+option_C: FeCl₃
+option_D: Tidak ada
+answer: A
+clue: Fe naik biloks dari 0 ke +3.
+
+[SOAL]
+text: Larutan asam klorida (HCl) termasuk elektrolit...
+option_A: Kuat
+option_B: Lemah
+option_C: Non-elektrolit
+option_D: Netral
+answer: A
+clue: Asam kuat, terionisasi sempurna.
+
+[SOAL]
+text: Bilangan oksidasi S dalam H₂SO₄ adalah...
+option_A: +4
+option_B: +5
+option_C: +6
+option_D: +7
+answer: C
+clue: 2(+1) + x + 4(-2) = 0 → x = +6.
+
+[SOAL]
+text: Dalam reaksi: Zn + 2HCl → ZnCl₂ + H₂, yang bertindak sebagai reduktor adalah...
+option_A: Zn
+option_B: HCl
+option_C: ZnCl₂
+option_D: H₂
+answer: A
+clue: Zn mengalami oksidasi.
+
+[SOAL]
+text: Senyawa yang memiliki ikatan kovalen polar adalah...
+option_A: Cl₂
+option_B: H₂
+option_C: HCl
+option_D: O₂
+answer: C
+clue: Perbedaan keelektronegatifan.
+
+[SOAL]
+text: Unsur dengan konfigurasi elektron 2, 8, 7 terletak pada periode dan golongan...
+option_A: Periode 3, golongan VIIA
+option_B: Periode 2, golongan VIIA
+option_C: Periode 3, golongan IA
+option_D: Periode 2, golongan IA
+answer: A
+clue: Jumlah kulit = periode, elektron valensi = golongan.
+
+[SOAL]
+text: Senyawa dengan rumus molekul C₄H₁₀ adalah...
+option_A: Butana
+option_B: Propana
+option_C: Etana
+option_D: Metana
+answer: A
+clue: Alkana dengan 4 atom C.
+
+[SOAL]
+text: Dalam reaksi: Mg + 2HCl → MgCl₂ + H₂, jumlah mol H₂ yang dihasilkan dari 1 mol Mg adalah...
+option_A: 0.5
+option_B: 1
+option_C: 2
+option_D: 3
+answer: B
+clue: Perbandingan mol = perbandingan koefisien.
+
+[SOAL]
+text: Larutan yang pH-nya < 7 bersifat...
+option_A: Asam
+option_B: Basa
+option_C: Netral
+option_D: Amfoter
+answer: A
+clue: [H⁺] > [OH⁻].
+
+[SOAL]
+text: Jika 0.01 mol HCl dilarutkan dalam 1 liter air, maka pH larutan adalah...
+option_A: 1
+option_B: 2
+option_C: 3
+option_D: 4
+answer: B
+clue: pH = -log[H⁺], [H⁺] = 0.01 → pH = 2.
+
+[SOAL]
+text: Larutan NH₃ (amonia) dalam air bersifat...
+option_A: Asam
+option_B: Basa
+option_C: Netral
+option_D: Amfoter
+answer: B
+clue: NH₃ + H₂O → NH₄⁺ + OH⁻.
+
+[SOAL]
+text: Dalam reaksi: HCl + NaOH → NaCl + H₂O, jenis reaksinya adalah...
+option_A: Redoks
+option_B: Asam-basa
+option_C: Pengendapan
+option_D: Pembakaran
+answer: B
+clue: Netralisasi.
+
+[SOAL]
+text: Massa molekul relatif (Mr) dari H₂SO₄ adalah... (Ar H=1, S=32, O=16)
+option_A: 49
+option_B: 98
+option_C: 64
+option_D: 80
+answer: B
+clue: 2(1) + 32 + 4(16) = 98.
+
+[SOAL]
+text: Dalam reaksi: 2Al + 3CuSO₄ → Al₂(SO₄)₃ + 3Cu, zat yang mengalami reduksi adalah...
+option_A: Al
+option_B: CuSO₄
+option_C: Al₂(SO₄)₃
+option_D: Cu
+answer: B
+clue: Cu²⁺ → Cu (biloks turun).
+
+[SOAL]
+text: Unsur yang paling elektronegatif adalah...
+option_A: Fluor
+option_B: Oksigen
+option_C: Nitrogen
+option_D: Klor
+answer: A
+clue: Paling kanan dan atas dalam tabel periodik.
+
+[SOAL]
+text: Dalam reaksi: 2KClO₃ → 2KCl + 3O₂, jenis reaksinya adalah...
+option_A: Sintesis
+option_B: Penggantian tunggal
+option_C: Penggantian ganda
+option_D: Penguraian
+answer: D
+clue: Satu senyawa terurai menjadi dua atau lebih.
+
+[SOAL]
+text: Ikatan logam terjadi antara...
+option_A: Atom logam dan elektron bebas
+option_B: Atom nonlogam dan logam
+option_C: Atom nonlogam dengan nonlogam
+option_D: Ion positif dan negatif
+answer: A
+clue: Lautan elektron.
+
+[SOAL]
+text: Jika suatu senyawa tidak larut dalam air tetapi larut dalam pelarut organik, maka senyawa tersebut kemungkinan bersifat...
+option_A: Ionik
+option_B: Kovalen polar
+option_C: Kovalen nonpolar
+option_D: Logam
+answer: C
+clue: Sesuai prinsip "like dissolves like".
+
+[SOAL]
+text: Dalam reaksi: CaCO₃ → CaO + CO₂, jenis reaksinya adalah...
+option_A: Pembakaran
+option_B: Redoks
+option_C: Penguraian
+option_D: Asam-basa
+answer: C
+clue: Satu senyawa terurai.
+
+[SOAL]
+text: Jumlah mol dari 22 gram CO₂ (Ar C=12, O=16) adalah...
+option_A: 0.25
+option_B: 0.5
+option_C: 1
+option_D: 2
+answer: B
+clue: Mr CO₂ = 44, mol = 22/44 = 0.5.
+
+[SOAL]
+text: Dalam reaksi: 2Na + 2H₂O → 2NaOH + H₂, zat yang bertindak sebagai oksidator adalah...
+option_A: Na
+option_B: H₂O
+option_C: NaOH
+option_D: H₂
+answer: B
+clue: H₂O mengoksidasi Na.

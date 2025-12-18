@@ -1,0 +1,359 @@
+[SOAL]
+text: Lambang unsur oksigen adalah...
+option_A: Ox
+option_B: O
+option_C: Ok
+option_D: Os
+answer: B
+clue: Dari "Oxygen".
+
+[SOAL]
+text: pH 7 berarti larutan bersifat...
+option_A: Asam
+option_B: Basa
+option_C: Netral
+option_D: Korosif
+answer: C
+clue: Air murni = pH 7.
+
+[SOAL]
+text: Reaksi antara asam dan basa menghasilkan...
+option_A: Garam dan air
+option_B: Gas hidrogen
+option_C: Endapan
+option_D: Panas
+answer: A
+clue: Netralisasi.
+
+[SOAL]
+text: Jumlah proton dalam atom disebut...
+option_A: Nomor massa
+option_B: Nomor atom
+option_C: Jumlah neutron
+option_D: Jumlah elektron
+answer: B
+clue: Menentukan identitas unsur.
+
+[SOAL]
+text: Ikatan yang terbentuk karena pemakaian bersama pasangan elektron adalah...
+option_A: Ionik
+option_B: Kovalen
+option_C: Logam
+option_D: Van der Waals
+answer: B
+clue: Contoh: H₂O.
+
+[SOAL]
+text: Larutan yang dapat menghantarkan listrik disebut...
+option_A: Koloid
+option_B: Suspensi
+option_C: Elektrolit
+option_D: Non-elektrolit
+answer: C
+clue: Ada ion bebas.
+
+[SOAL]
+text: Unsur yang paling melimpah di atmosfer bumi adalah...
+option_A: Oksigen
+option_B: Karbon dioksida
+option_C: Nitrogen
+option_D: Argon
+answer: C
+clue: Sekitar 78%.
+
+[SOAL]
+text: Reaksi pembakaran selalu membutuhkan...
+option_A: Oksigen
+option_B: Air
+option_C: Karbon
+option_D: Panas
+answer: A
+clue: Oksidasi.
+
+[SOAL]
+text: Senyawa dengan rumus H₂SO₄ adalah...
+option_A: Asam klorida
+option_B: Asam nitrat
+option_C: Asam sulfat
+option_D: Asam asetat
+answer: C
+clue: Asam kuat.
+
+[SOAL]
+text: Perubahan yang tidak menghasilkan zat baru disebut...
+option_A: Kimia
+option_B: Fisika
+option_C: Biologi
+option_D: Nuklir
+answer: B
+clue: Contoh: mencair, membeku.
+
+[SOAL]
+text: Lambang unsur natrium adalah...
+option_A: Na
+option_B: Ni
+option_C: Nb
+option_D: N
+answer: A
+clue: Dari natrium.
+
+[SOAL]
+text: Senyawa yang terdiri dari logam dan nonlogam umumnya membentuk ikatan...
+option_A: Kovalen
+option_B: Ionik
+option_C: Logam
+option_D: Hidrogen
+answer: B
+clue: Transfer elektron.
+
+[SOAL]
+text: Jumlah elektron maksimum pada kulit L adalah...
+option_A: 2
+option_B: 8
+option_C: 18
+option_D: 32
+answer: B
+clue: 2n², n=2 → 8.
+
+[SOAL]
+text: Reaksi yang melepaskan energi disebut...
+option_A: Endoterm
+option_B: Eksoterm
+option_C: Reversible
+option_D: Irreversible
+answer: B
+clue: Contoh: pembakaran.
+
+[SOAL]
+text: Dalam reaksi kimia, jumlah atom sebelum dan sesudah harus...
+option_A: Berbeda
+option_B: Sama
+option_C: Nol
+option_D: Tak hingga
+answer: B
+clue: Hukum kekekalan massa.
+
+[SOAL]
+text: Larutan asam memiliki pH...
+option_A: 7
+option_B: Lebih dari 7
+option_C: Kurang dari 7
+option_D: 0
+answer: C
+clue: pH < 7 = asam.
+
+[SOAL]
+text: Larutan basa memiliki pH...
+option_A: 7
+option_B: Lebih dari 7
+option_C: Kurang dari 7
+option_D: 14
+answer: B
+clue: pH > 7 = basa.
+
+[SOAL]
+text: Contoh larutan non-elektrolit adalah...
+option_A: Gula
+option_B: Garam
+option_C: Asam klorida
+option_D: Natrium hidroksida
+answer: A
+clue: Tidak mengion.
+
+[SOAL]
+text: Senyawa dengan rumus kimia CO₂ adalah...
+option_A: Karbon monoksida
+option_B: Karbon dioksida
+option_C: Kalsium oksida
+option_D: Klorin dioksida
+answer: B
+clue: Produk pernapasan.
+
+[SOAL]
+text: Dalam tabel periodik, unsur-unsur disusun berdasarkan...
+option_A: Massa atom
+option_B: Nomor atom
+option_C: Jumlah neutron
+option_D: Sifat kimia
+answer: B
+clue: Nomor atom = jumlah proton.
+
+[SOAL]
+text: Senyawa ionik umumnya larut dalam...
+option_A: Air
+option_B: Minyak
+option_C: Benzena
+option_D: Karbon tetraklorida
+answer: A
+clue: Pelarut polar.
+
+[SOAL]
+text: Reaksi yang menyerap energi disebut...
+option_A: Eksoterm
+option_B: Endoterm
+option_C: Katalitik
+option_D: Redoks
+answer: B
+clue: Contoh: fotosintesis.
+
+[SOAL]
+text: Jumlah atom dalam molekul H₂SO₄ adalah...
+option_A: 6
+option_B: 7
+option_C: 8
+option_D: 9
+answer: B
+clue: 2H + 1S + 4O = 7.
+
+[SOAL]
+text: Unsur dengan nomor atom 11 adalah...
+option_A: Magnesium
+option_B: Aluminium
+option_C: Natrium
+option_D: Kalium
+answer: C
+clue: Na.
+
+[SOAL]
+text: Ikatan logam terjadi antara...
+option_A: Atom logam dan nonlogam
+option_B: Atom nonlogam
+option_C: Atom logam dengan elektron bebas
+option_D: Molekul polar
+answer: C
+clue: Lautan elektron.
+
+[SOAL]
+text: Senyawa yang larut dalam air dan menghantarkan listrik disebut...
+option_A: Non-elektrolit
+option_B: Elektrolit
+option_C: Asam
+option_D: Basa
+answer: B
+clue: Mengion dalam air.
+
+[SOAL]
+text: Dalam reaksi 2H₂ + O₂ → 2H₂O, jumlah molekul H₂O yang terbentuk adalah...
+option_A: 1
+option_B: 2
+option_C: 3
+option_D: 4
+answer: B
+clue: Koefisien H₂O = 2.
+
+[SOAL]
+text: Larutan garam (NaCl) dalam air bersifat...
+option_A: Asam
+option_B: Basa
+option_C: Netral
+option_D: Tidak dapat ditentukan
+answer: C
+clue: Garam dari asam kuat dan basa kuat.
+
+[SOAL]
+text: Unsur yang memiliki 8 elektron valensi disebut...
+option_A: Logam
+option_B: Nonlogam
+option_C: Gas mulia
+option_D: Transisi
+answer: C
+clue: Stabil, tidak reaktif.
+
+[SOAL]
+text: Dalam reaksi redoks, oksidasi adalah...
+option_A: Penambahan elektron
+option_B: Pelepasan elektron
+option_C: Penambahan oksigen
+option_D: Pelepasan oksigen
+answer: B
+clue: OIL RIG: Oxidation Is Loss.
+
+[SOAL]
+text: Dalam reaksi redoks, reduksi adalah...
+option_A: Pelepasan elektron
+option_B: Penambahan elektron
+option_C: Pelepasan oksigen
+option_D: Penambahan oksigen
+answer: B
+clue: Reduction Is Gain.
+
+[SOAL]
+text: Unsur yang paling reaktif dalam golongan 1 (alkali) adalah...
+option_A: Hidrogen
+option_B: Litium
+option_C: Natrium
+option_D: Fransium
+answer: D
+clue: Semakin bawah, semakin reaktif.
+
+[SOAL]
+text: Gas yang dihasilkan dari reaksi logam dengan asam adalah...
+option_A: Oksigen
+option_B: Nitrogen
+option_C: Hidrogen
+option_D: Karbon dioksida
+answer: C
+clue: Zn + 2HCl → ZnCl₂ + H₂.
+
+[SOAL]
+text: Dalam sistem periodik, unsur yang berada dalam satu golongan memiliki...
+option_A: Jumlah elektron valensi sama
+option_B: Jumlah kulit elektron sama
+option_C: Massa atom sama
+option_D: Jumlah proton sama
+answer: A
+clue: Sifat kimia mirip.
+
+[SOAL]
+text: Contoh unsur transisi adalah...
+option_A: Natrium
+option_B: Besi
+option_C: Oksigen
+option_D: Karbon
+answer: B
+clue: Golongan 3-12.
+
+[SOAL]
+text: Dalam reaksi pengendapan, terbentuk...
+option_A: Gas
+option_B: Air
+option_C: Endapan
+option_D: Energi
+answer: C
+clue: Zat tidak larut.
+
+[SOAL]
+text: Dalam reaksi asam-basa, garam terbentuk dari...
+option_A: Kation asam dan anion basa
+option_B: Kation basa dan anion asam
+option_C: Hanya dari asam
+option_D: Hanya dari basa
+answer: B
+clue: NaOH + HCl → NaCl + H₂O.
+
+[SOAL]
+text: Larutan yang tidak menghantarkan listrik disebut...
+option_A: Elektrolit
+option_B: Non-elektrolit
+option_C: Asam
+option_D: Basa
+answer: B
+clue: Tidak mengion.
+
+[SOAL]
+text: Dalam reaksi pembakaran metana: CH₄ + 2O₂ → CO₂ + 2H₂O, produknya adalah...
+option_A: CO₂ dan H₂
+option_B: CO₂ dan H₂O
+option_C: C dan H₂O
+option_D: CH₄ dan O₂
+answer: B
+clue: Pembakaran hidrokarbon.
+
+[SOAL]
+text: Dalam reaksi penguraian air: 2H₂O → 2H₂ + O₂, jumlah mol H₂ yang terbentuk dari 2 mol H₂O adalah...
+option_A: 1
+option_B: 2
+option_C: 3
+option_D: 4
+answer: B
+clue: Perbandingan mol = perbandingan koefisien.

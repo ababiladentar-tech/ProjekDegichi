@@ -1,0 +1,359 @@
+[SOAL]
+text: The past tense of "go" is...
+option_A: goed
+option_B: gone
+option_C: went
+option_D: going
+answer: C
+clue: Irregular verb.
+
+[SOAL]
+text: "She ___ to school every day."
+option_A: go
+option_B: goes
+option_C: gone
+option_D: going
+answer: B
+clue: Present simple, subject "she" → verb + s.
+
+[SOAL]
+text: The synonym of "happy" is...
+option_A: sad
+option_B: angry
+option_C: joyful
+option_D: afraid
+answer: C
+clue: Similar meaning.
+
+[SOAL]
+text: "There ___ three books on the table."
+option_A: is
+option_B: are
+option_C: am
+option_D: be
+answer: B
+clue: Plural subject → are.
+
+[SOAL]
+text: The antonym of "big" is...
+option_A: large
+option_B: huge
+option_C: small
+option_D: giant
+answer: C
+clue: Opposite meaning.
+
+[SOAL]
+text: "I have ___ English for 5 years."
+option_A: learn
+option_B: learned
+option_C: learning
+option_D: learns
+answer: B
+clue: Present perfect: have + V3.
+
+[SOAL]
+text: The capital of Indonesia is...
+option_A: Surabaya
+option_B: Bandung
+option_C: Jakarta
+option_D: Yogyakarta
+answer: C
+clue: Sejak kemerdekaan.
+
+[SOAL]
+text: "If I ___ you, I would study harder."
+option_A: am
+option_B: was
+option_C: were
+option_D: be
+answer: C
+clue: Subjunctive mood.
+
+[SOAL]
+text: The plural form of "child" is...
+option_A: childs
+option_B: children
+option_C: childes
+option_D: child's
+answer: B
+clue: Irregular plural.
+
+[SOAL]
+text: "He is interested ___ playing football."
+option_A: on
+option_B: in
+option_C: at
+option_D: for
+answer: B
+clue: Interested in + gerund.
+
+[SOAL]
+text: The past participle of "eat" is...
+option_A: eat
+option_B: ate
+option_C: eaten
+option_D: eating
+answer: C
+clue: Used in present perfect.
+
+[SOAL]
+text: "She has been studying ___ 3 hours."
+option_A: for
+option_B: since
+option_C: in
+option_D: at
+answer: A
+clue: Duration of time.
+
+[SOAL]
+text: Which is a modal verb?
+option_A: walk
+option_B: run
+option_C: can
+option_D: jump
+answer: C
+clue: Can, could, may, might, etc.
+
+[SOAL]
+text: "I ___ to Jakarta yesterday."
+option_A: go
+option_B: goes
+option_C: went
+option_D: going
+answer: C
+option_D: Past tense.
+
+[SOAL]
+text: The comparative form of "good" is...
+option_A: gooder
+option_B: more good
+option_C: better
+option_D: best
+answer: C
+clue: Irregular comparative.
+
+[SOAL]
+text: "He ___ a car last year."
+option_A: buy
+option_B: buys
+option_C: bought
+option_D: buying
+answer: C
+clue: Past tense.
+
+[SOAL]
+text: The superlative form of "bad" is...
+option_A: badder
+option_B: more bad
+option_C: worse
+option_D: worst
+answer: D
+clue: Irregular superlative.
+
+[SOAL]
+text: "We ___ going to the market now."
+option_A: is
+option_B: am
+option_C: are
+option_D: be
+answer: C
+clue: We + are.
+
+[SOAL]
+text: "She ___ English fluently."
+option_A: speak
+option_B: speaks
+option_C: spoke
+option_D: speaking
+answer: B
+clue: Third person singular.
+
+[SOAL]
+text: "They ___ here since 2010."
+option_A: live
+option_B: lives
+option_C: have lived
+option_D: lived
+answer: C
+clue: Present perfect with "since".
+
+[SOAL]
+text: The opposite of "hot" is...
+option_A: warm
+option_B: cold
+option_C: cool
+option_D: burning
+answer: B
+clue: Opposite.
+
+[SOAL]
+text: "I will call you ___ I arrive."
+option_A: when
+option_B: because
+option_C: but
+option_D: so
+answer: A
+clue: Time conjunction.
+
+[SOAL]
+text: The possessive form of "it" is...
+option_A: it's
+option_B: its
+option_C: it is
+option_D: it has
+answer: B
+clue: Possessive adjective.
+
+[SOAL]
+text: "She is taller ___ her sister."
+option_A: then
+option_B: than
+option_C: from
+option_D: to
+answer: B
+clue: Comparative conjunction.
+
+[SOAL]
+text: "He has ___ finished his homework."
+option_A: already
+option_B: yet
+option_C: still
+option_D: ever
+answer: A
+clue: Present perfect.
+
+[SOAL]
+text: The past continuous form of "read" is...
+option_A: read
+option_B: reads
+option_C: was reading
+option_D: have read
+answer: C
+clue: Was/were + V-ing.
+
+[SOAL]
+text: "She ___ to music every night."
+option_A: listen
+option_B: listens
+option_C: listened
+option_D: listening
+answer: B
+clue: Present simple, third person.
+
+[SOAL]
+text: "I don't like ___ on Sundays."
+option_A: to work
+option_B: working
+option_C: work
+option_D: worked
+answer: A
+clue: Like + to + V1.
+
+[SOAL]
+text: The future tense is formed with...
+option_A: will + V1
+option_B: will + V2
+option_C: will + V3
+option_D: will + V-ing
+answer: A
+clue: Will + base verb.
+
+[SOAL]
+text: "The book ___ on the table belongs to me."
+option_A: lay
+option_B: lying
+option_C: lies
+option_D: laid
+answer: B
+clue: Present participle as adjective.
+
+[SOAL]
+text: "He is good ___ playing chess."
+option_A: in
+option_B: at
+option_C: on
+option_D: for
+answer: B
+clue: Good at + gerund.
+
+[SOAL]
+text: The past perfect tense is formed with...
+option_A: had + V1
+option_B: had + V2
+option_C: had + V3
+option_D: have + V3
+answer: C
+clue: Had + past participle.
+
+[SOAL]
+text: "She has lived here ___ 2015."
+option_A: for
+option_B: since
+option_C: in
+option_D: at
+answer: B
+clue: Since + specific time.
+
+[SOAL]
+text: The present continuous tense is formed with...
+option_A: am/is/are + V1
+option_B: am/is/are + V2
+option_C: am/is/are + V3
+option_D: am/is/are + V-ing
+answer: D
+clue: To be + V-ing.
+
+[SOAL]
+text: "I have never ___ to Japan."
+option_A: been
+option_B: went
+option_C: go
+option_D: going
+answer: A
+clue: Present perfect with "never".
+
+[SOAL]
+text: The passive voice of "She writes a letter" is...
+option_A: A letter is written by her.
+option_B: A letter was written by her.
+option_C: A letter wrote by her.
+option_D: She is written a letter.
+answer: A
+clue: To be + past participle.
+
+[SOAL]
+text: "He ___ a shower when I called."
+option_A: takes
+option_B: took
+option_C: was taking
+option_D: has taken
+answer: C
+clue: Past continuous.
+
+[SOAL]
+text: "If I were rich, I ___ travel the world."
+option_A: will
+option_B: would
+option_C: can
+option_D: may
+answer: B
+clue: Second conditional.
+
+[SOAL]
+text: The plural of "mouse" is...
+option_A: mouses
+option_B: mousees
+option_C: mice
+option_D: mices
+answer: C
+clue: Irregular plural.
+
+[SOAL]
+text: "She is the ___ student in the class."
+option_A: smart
+option_B: smarter
+option_C: smartest
+option_D: more smart
+answer: C
+clue: Superlative form.

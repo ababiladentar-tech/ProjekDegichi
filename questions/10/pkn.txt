@@ -1,0 +1,341 @@
+[SOAL]
+text: Pancasila ditetapkan sebagai dasar negara pada tanggal...
+option_A: 17 Agustus 1945
+option_B: 18 Agustus 1945
+option_C: 1 Juni 1945
+option_D: 22 Juni 1945
+answer: B
+clue: Saat pengesahan UUD 1945 oleh PPKI.
+
+[SOAL]
+text: Sila pertama Pancasila berbunyi...
+option_A: Persatuan Indonesia
+option_B: Kerakyatan yang dipimpin oleh hikmat kebijaksanaan
+option_C: Ketuhanan Yang Maha Esa
+option_D: Keadilan sosial bagi seluruh rakyat Indonesia
+answer: C
+clue: Dasar toleransi beragama.
+
+[SOAL]
+text: Pembukaan UUD 1945 terdiri dari... alinea
+option_A: 3
+option_B: 4
+option_C: 5
+option_D: 6
+answer: B
+clue: Alinea ke-4 memuat dasar negara.
+
+[SOAL]
+text: Lembaga negara yang berwenang mengubah UUD adalah...
+option_A: Presiden
+option_B: DPR
+option_C: MPR
+option_D: MK
+answer: C
+clue: Sidang MPR.
+
+[SOAL]
+text: Hak untuk memilih dalam pemilu disebut...
+option_A: Hak politik
+option_B: Hak ekonomi
+option_C: Hak sosial
+option_D: Hak budaya
+answer: A
+clue: Termasuk hak aktif & pasif.
+
+[SOAL]
+text: Sumpah Pemuda diperingati setiap tanggal...
+option_A: 10 November
+option_B: 1 Juni
+option_C: 28 Oktober
+option_D: 17 Agustus
+answer: C
+clue: 1928 — "Satu Nusa, Satu Bangsa, Satu Bahasa".
+
+[SOAL]
+text: Bhinneka Tunggal Ika artinya...
+option_A: Berbeda-beda tetap satu
+option_B: Satu untuk semua
+option_C: Persatuan dalam keberagaman
+option_D: Semua benar
+answer: D
+clue: Semboyan negara.
+
+[SOAL]
+text: Presiden dan Wakil Presiden dipilih oleh...
+option_A: MPR
+option_B: DPR
+option_C: Rakyat
+option_D: Mahkamah Agung
+answer: C
+clue: Sejak amendemen UUD 1945.
+
+[SOAL]
+text: Undang-undang tertinggi di Indonesia adalah...
+option_A: Pancasila
+option_B: UUD 1945
+option_C: Ketetapan MPR
+option_D: Peraturan Pemerintah
+answer: B
+clue: Landasan konstitusional.
+
+[SOAL]
+text: Tugas utama DPR adalah...
+option_A: Mengadili pejabat
+option_B: Menetapkan anggaran
+option_C: Mengawasi pemerintah & membuat UU
+option_D: Menegakkan hukum
+answer: C
+clue: Fungsi legislasi, anggaran, pengawasan.
+
+[SOAL]
+text: Lembaga yang menguji undang-undang terhadap UUD adalah...
+option_A: DPR
+option_B: MPR
+option_C: MK
+option_D: MA
+answer: C
+clue: Mahkamah Konstitusi.
+
+[SOAL]
+text: Kepala daerah provinsi disebut...
+option_A: Bupati
+option_B: Walikota
+option_C: Gubernur
+option_D: Camat
+answer: C
+clue: Dipilih langsung oleh rakyat.
+
+[SOAL]
+text: Negara Indonesia menganut sistem pemerintahan...
+option_A: Presidensial
+option_B: Parlementer
+option_C: Monarki
+option_D: Federasi
+answer: A
+clue: Presiden sebagai kepala negara & pemerintahan.
+
+[SOAL]
+text: Warga negara Indonesia yang berusia 17 tahun wajib memiliki...
+option_A: SIM
+option_B: KTP
+option_C: Paspor
+option_D: NPWP
+answer: B
+clue: Kartu Tanda Penduduk.
+
+[SOAL]
+text: Dasar hukum otonomi daerah adalah...
+option_A: UU No. 22/1999
+option_B: UU No. 32/2004
+option_C: UU No. 23/2014
+option_D: Semua benar
+answer: D
+clue: Perkembangan regulasi otonomi.
+
+[SOAL]
+text: Hak warga negara untuk membela negara diatur dalam UUD Pasal...
+option_A: 27 ayat 1
+option_B: 27 ayat 3
+option_C: 28
+option_D: 30
+answer: D
+clue: Hak & kewajiban bela negara.
+
+[SOAL]
+text: Pancasila sebagai pandangan hidup bangsa tercantum dalam...
+option_A: Pembukaan UUD
+option_B: Batang tubuh UUD
+option_C: Penjelasan UUD
+option_D: Ketetapan MPR
+answer: C
+clue: Penjelasan UUD 1945.
+
+[SOAL]
+text: Lembaga yang memeriksa pengelolaan keuangan negara adalah...
+option_A: BPK
+option_B: KPK
+option_C: Ombudsman
+option_D: Komnas HAM
+answer: A
+clue: Badan Pemeriksa Keuangan.
+
+[SOAL]
+text: Prinsip pemilu yang jujur dan adil disebut...
+option_A: Langsung
+option_B: Umum
+option_C: Bebas
+option_D: Jurdil
+answer: D
+clue: Jujur & adil.
+
+[SOAL]
+text: Sistem pertahanan Indonesia adalah...
+option_A: Profesional
+option_B: Wajib militer
+option_C: Sishankamrata
+option_D: Sekutu
+answer: C
+clue: Sistem pertahanan keamanan rakyat semesta.
+
+[SOAL]
+text: Hak untuk hidup tercantum dalam UUD Pasal...
+option_A: 27
+option_B: 28A
+option_C: 28I
+option_D: 29
+answer: B
+clue: Hak asasi atas kehidupan.
+
+[SOAL]
+text: Wewenang mengangkat duta ada di tangan...
+option_A: Presiden
+option_B: DPR
+option_C: Menlu
+option_D: MPR
+answer: A
+clue: Kewenangan Presiden di bidang luar negeri.
+
+[SOAL]
+text: Pemilu pertama di Indonesia dilaksanakan pada tahun...
+option_A: 1945
+option_B: 1955
+option_C: 1971
+option_D: 1999
+answer: B
+clue: Pemilu legislatif pertama.
+
+[SOAL]
+text: Konsep Wawasan Nusantara bertujuan untuk...
+option_A: Memperluas wilayah
+option_B: Menjaga keutuhan NKRI
+option_C: Meningkatkan ekspor
+option_D: Memajukan pariwisata
+answer: B
+clue: Persatuan dalam keberagaman wilayah.
+
+[SOAL]
+text: Lembaga yang berwenang mengadili Presiden adalah...
+option_A: MA
+option_B: MK
+option_C: KY
+option_D: Mahkamah Konstitusi (untuk pemakzulan)
+answer: D
+clue: Dalam proses pemakzulan.
+
+[SOAL]
+text: Hak angket dimiliki oleh...
+option_A: Presiden
+option_B: DPR
+option_C: DPD
+option_D: MPR
+answer: B
+clue: Hak DPR untuk menyelidiki kebijakan pemerintah.
+
+[SOAL]
+text: Dasar negara Indonesia adalah...
+option_A: UUD 1945
+option_B: Pancasila
+option_C: Bhinneka Tunggal Ika
+option_D: NKRI
+answer: B
+clue: Sumber dari segala sumber hukum.
+
+[SOAL]
+text: Kekuasaan kehakiman dilaksanakan oleh...
+option_A: MA & KY
+option_B: MA & MK
+option_C: MA, MK, & Pengadilan di bawahnya
+option_D: MA saja
+answer: C
+clue: Kekuasaan kehakiman merdeka.
+
+[SOAL]
+text: Warga negara asing dapat memperoleh kewarganegaraan Indonesia melalui...
+option_A: Naturalisasi
+option_B: Apatride
+option_C: Stelsel aktif
+option_D: Stelsel pasif
+answer: A
+clue: Proses pewarganegaraan.
+
+[SOAL]
+text: Undang-undang tentang kewarganegaraan adalah...
+option_A: UU No. 12/2006
+option_B: UU No. 6/2014
+option_C: UU No. 23/2006
+option_D: UU No. 39/1999
+answer: A
+clue: UU Kewarganegaraan RI.
+
+[SOAL]
+text: Hak atas pengakuan, jaminan, perlindungan, dan kepastian hukum adalah...
+option_A: Hak politik
+option_B: Hak ekonomi
+option_C: Hak hukum
+option_D: Hak sosial
+answer: C
+clue: Diatur dalam Pasal 28D UUD.
+
+[SOAL]
+text: Kepolisian Negara RI bertanggung jawab kepada...
+option_A: Presiden
+option_B: Menkopolhukam
+option_C: Kapolri
+option_D: DPR
+answer: A
+clue: Di bawah Presiden.
+
+[SOAL]
+text: Lembaga yang membentuk UU bersama Presiden adalah...
+option_A: MPR
+option_B: DPR
+option_C: DPD
+option_D: MK
+answer: B
+clue: Fungsi legislasi DPR.
+
+[SOAL]
+text: Sistem pemerintahan daerah di Indonesia adalah...
+option_A: Desentralisasi
+option_B: Dekonsentrasi
+option_C: Tugas pembantuan
+option_D: Semua benar
+answer: D
+clue: Kombinasi ketiganya.
+
+[SOAL]
+text: Hak untuk tidak disiksa tercantum dalam UUD Pasal...
+option_A: 28G
+option_B: 28I
+option_C: 28J
+option_D: 28H
+answer: B
+clue: Hak atas rasa aman.
+
+[SOAL]
+text: Kekuasaan membentuk undang-undang adalah...
+option_A: Presiden
+option_B: DPR
+option_C: MPR
+option_D: Legislatif
+answer: D
+clue: Fungsi pembentukan UU.
+
+[SOAL]
+text: Wewenang mengangkat dan memberhentikan menteri ada di tangan...
+option_A: Presiden
+option_B: DPR
+option_C: MPR
+option_D: Rakyat
+answer: A
+clue: Kewenangan Presiden.
+
+[SOAL]
+text: Negara Indonesia berbentuk...
+option_A: Republik
+option_B: Kesatuan
+option_C: Republik Kesatuan
+option_D: Federasi
+answer: C
+clue: UUD 1945 Pasal 1 ayat 1.
